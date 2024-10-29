@@ -1,0 +1,48 @@
+{
+    "name": "MDR-7506 Professional Stereo Monitor Headphones",
+    "link": "https://electronics.sony.com/audio/headphones/c/all-headphones/audio/headphones/all-headphones/p/mdr7506",
+    "price": "$99.99",
+    "emi": "Starting  4 interest-free payments of $25 with Affirm.   /mo",
+    "about_us": [
+        "40mm Driver Unit",
+        "Closed-Ear Design",
+        "Folding Construction",
+        "Stereo Unimatch Plug",
+        "Gold Connectors and OFC Cord",
+        "Supplied Soft Case"
+    ],
+    "specification": {
+        "General Specifications": [
+            {
+                "Frequency Response": "10-20kHz"
+            },
+            {
+                "Impedance": "63 Ohms"
+            },
+            {
+                "Sensitivity": "106 dB/W/m"
+            },
+            {
+                "Cord Length": "9.8 ft"
+            },
+            {
+                "Headphone Type": "Dynamic, closed"
+            },
+            {
+                "Magnet Type": "Neodymium"
+            },
+            {
+                "Driver Size": "40.0 mm"
+            },
+            {
+                "Power Handling": "1,000mW"
+            },
+            {
+                "Plug Type": "Gold, Stereo Unimatch plug 1/4\" and 1/8\""
+            },
+            {
+                "Weight": "8.1 oz"
+            }
+        ]
+    }
+}

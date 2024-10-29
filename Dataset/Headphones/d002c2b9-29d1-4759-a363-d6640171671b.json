@@ -1,0 +1,63 @@
+{
+    "name": "MDR-ZX110AP Wired On-Ear Headphones with Microphone | Black",
+    "link": "https://electronics.sony.com/audio/headphones/c/all-headphones/audio/headphones/headband/p/mdrzx110ap-b",
+    "price": "$19.99",
+    "emi": "EMI info not found",
+    "about_us": [
+        "1.38 in dome drivers for balanced sound",
+        "High-energy neodymium magnets deliver powerful sound",
+        "12 Hz\u201322 kHz frequency range",
+        "Padded earcups for comfortable listening",
+        "Choice of colors to suit your style"
+    ],
+    "specification": {
+        "General Features": [
+            {
+                "Closed Type": "Yes"
+            },
+            {
+                "Cord Length": "3.94 ft"
+            },
+            {
+                "Cord type": "Y-Shape"
+            },
+            {
+                "Diaphragm": "PET"
+            },
+            {
+                "Driver Unit": "1.18\u00a0in dynamic \u2013 Dome type"
+            },
+            {
+                "Dynamic Type": "Yes"
+            },
+            {
+                "Frequency Response": "12\u201322,000Hz"
+            },
+            {
+                "Impedance (Ohm)": "24 ohm (1KHz)"
+            },
+            {
+                "Plug": "Gold-plated L-shaped stereo mini"
+            },
+            {
+                "Sensitivities (dB/mW)": "98 dB/mW"
+            },
+            {
+                "Wearing Style": "Over-ear\nHeadband"
+            }
+        ],
+        "Microphone": [
+            {
+                "Direction of In-Line Microphone": "Omni Direction"
+            },
+            {
+                "Unit of Microphone": "Electret Condenser Microphone"
+            }
+        ],
+        "Size & Weight": [
+            {
+                "Weight": "4.23 oz"
+            }
+        ]
+    }
+}

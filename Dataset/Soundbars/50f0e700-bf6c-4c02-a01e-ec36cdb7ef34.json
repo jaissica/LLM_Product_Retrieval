@@ -1,0 +1,116 @@
+{
+    "name": "HT-S2000 3.1ch Dolby Atmos\u00ae Soundbar",
+    "link": "https://electronics.sony.com/audio/soundbars/c/all-soundbars/audio/soundbars/all-soundbars/p/hts2000-uc2",
+    "price": "$299.99",
+    "emi": "Starting  4 interest-free payments or as low as $25/mo with Affirm.   /mo",
+    "about_us": [
+        "Get the full effect of Dolby Atmos\u00ae and DTS:X\u00ae with Sony\u2019s Vertical Surround Engine and S-Force PRO Front Surround1",
+        "Enjoy dimensional sound from Sony\u2019s new up mixer",
+        "Sony | Home Entertainment Connect app2",
+        "Experience immersive surround sound from dual built-in subwoofers and three front speakers including a center channel for clear dialogue",
+        "Integrated UI and Soundbar position flexibility with Sony TVs",
+        "Enhance your setup with optional wireless subwoofers and rear speakers",
+        "Music playback with Bluetooth\u00ae and USB3",
+        "Choose a sustainable option with recycled materials and less plastic packaging"
+    ],
+    "specification": {
+        "Speaker Layout": [
+            {
+                "Speaker Structure": "3.1ch(Built-in-Subwoofer)"
+            },
+            {
+                "bar speaker": "HT-S2000"
+            }
+        ],
+        "HDMI": [
+            {
+                "Number of Input/Output": "- / 1 (eARC/ARC)"
+            },
+            {
+                "eARC": "Yes"
+            },
+            {
+                "BRAVIA Sync": "Yes"
+            },
+            {
+                "HDMI CEC": "Yes"
+            }
+        ],
+        "Interface": [
+            {
+                "Input and Output Terminals": "Optical audio input: Yes,\nUSB typeA: Yes,\nFile System: FAT32"
+            },
+            {
+                "Bluetooth": "RX"
+            },
+            {
+                "IEEE802.11 version": "a/b/g/n/ac"
+            },
+            {
+                "Bluetooth version": "5.2"
+            }
+        ],
+        "Audio Formats": [
+            {
+                "HDMI eARC": "Dolby Digital,\nDolby Digital plus,\nDolby TrueHD,\nDolby Atmos,\nDolby Dual mono,\nDTS,\nDTS HD High Resolution Audio,\nDTS HD Master Audio,\nDTS ES,\nDTS 96/24,\nDTS:X,\nLPCM: 2ch/5.1ch/7.1ch,\nLPCM fs: -192kHz/24bit"
+            },
+            {
+                "Optical Input": "Dolby Digital: Yes,\nDolby Dual mono: Yes,\nDTS: Yes,\nLPCM 2ch: Yes,\nLPCM fs: -48kHz/24bit"
+            },
+            {
+                "USB": "Wav: Yes"
+            },
+            {
+                "BLUETOOTH (RECEIVER)": "AAC,\nSBC"
+            }
+        ],
+        "Sound Function": [
+            {
+                "Sound Effect": "Night Mode,\nVoice Mode"
+            },
+            {
+                "Virtual Surround Technology": "S-Force PRO\nVertical Surround Engine\nDTS Virtual:X"
+            }
+        ],
+        "Wireless Features": [
+            {
+                "Wireless Surround (with optional wireless speakers)": "Yes"
+            }
+        ],
+        "Amplifier": [
+            {
+                "Amplifier Type": "Digital Amplifier,\nS-Master"
+            },
+            {
+                "Amplifier Channels": "Number of Channel: 5ch"
+            }
+        ],
+        "What's In The Box": [
+            {
+                "SUPPLIED ACCESSORIES": "Batteries for remote commander,\nHDMI Cable,\nAC Adaptor,\nAC Cord,\nWall Mount Template,\nCustomer Registration Card,\nWarranty Card"
+            },
+            {
+                "Model name": "RMT-AH513U"
+            }
+        ],
+        "Details": [
+            {
+                "Power Consumption (On Operation) *approx": "50W"
+            }
+        ],
+        "Size & Weight": [
+            {
+                "Main Unit Size - Body Only (W x H x D) (INCH)": "31 1/2 in\n\u00d7 2 5/8 in \u00d7 5 in"
+            },
+            {
+                "Main Unit Size - Body Only (W x H x D) (MM)": "800 X 64 X 124"
+            },
+            {
+                "Main Unit Weight - Body Only (KG)": "3.7kg"
+            },
+            {
+                "Main Unit Weight - Body Only (OZ)": "8 lb 3 oz"
+            }
+        ]
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "name": "XB100 Compact Bluetooth\u00ae Wireless Speaker | Black",
+    "link": "https://electronics.sony.com/audio/speakers/c/all-speakers/audio/speakers/wireless-speakers/p/srsxb100-b",
+    "price": "$59.99",
+    "emi": "Starting  4 interest-free payments of $15 with Affirm.   /mo",
+    "about_us": [
+        "Enjoy powerful, clear sound, with a deep bass",
+        "Sound Diffusion Processor expands sound far and wide",
+        "Waterproof and dustproof1,2 (IP67 rated)",
+        "Up to 16 hours of battery life3 with indicator",
+        "Compact portable design with versatile strap included",
+        "Compatible with a second speaker for stereo sound4",
+        "Connect and stream music easily with Bluetooth\u00ae6",
+        "Crystal-clear hands-free calling",
+        "Microphone w/ echo cancelling technology",
+        "USB Type-C\u00ae port"
+    ],
+    "specification": {
+        "Sound": [
+            {
+                "Speaker type": "Full Range"
+            },
+            {
+                "Speaker Size": "Diameter of Speaker Unit(Mono Speaker): 46MM"
+            },
+            {
+                "LIVE SOUND": "No"
+            },
+            {
+                "360 Reality Audio": "No"
+            },
+            {
+                "Line-Shape Diffuser": "No"
+            },
+            {
+                "X-Balanced Speaker Unit": "No"
+            },
+            {
+                "Passive Radiator": "Yes"
+            },
+            {
+                "Mega Bass": "No"
+            }
+        ],
+        "Bluetooth": [
+            {
+                "Communication System": "Bluetooth\u00ae Technology: Version 5.3"
+            },
+            {
+                "FREQUENCY RANGE": "2.4GHz"
+            },
+            {
+                "Compatible Profiles": "Interface(A2DP)*[null]: Yes"
+            },
+            {
+                "Frequency Transmission Range": "Frequency Range(A2DP): 20 Hz - 20,000 Hz (Sampling frequency 44.1 kHz)"
+            },
+            {
+                "Bluetooth\u00ae Codecs Support": "SBC, AAC"
+            }
+        ],
+        "General Features": [
+            {
+                "Power Consumption": "Approx.2.5W"
+            },
+            {
+                "Battery Life": "Approx.16H"
+            },
+            {
+                "Water Protection": "Dustproof / Waterproof / Water-resistance: IP67"
+            },
+            {
+                "Power Supply": "Power Type: DC"
+            },
+            {
+                "Quick Charge": "No"
+            },
+            {
+                "Lighting": "No"
+            },
+            {
+                "Portability": "Yes"
+            },
+            {
+                "Echo Canceling": "Yes"
+            },
+            {
+                "Stereo Mini Jack(IN)": "No"
+            },
+            {
+                "Built-in microphone (Hands Free Calling)": "Yes"
+            }
+        ],
+        "Application": [
+            {
+                "COMPATIBLE SMARTPHONE APPS": "iPhone Application: Sony Music Center (FOTA Only)"
+            },
+            {
+                "Party Chain": "No"
+            }
+        ],
+        "Size & Weight": [
+            {
+                "Dimensions (W x H x D)": "Main Unit(WxHxD):mm (including protuberance): Approx.76mm dia.\u00d795mm"
+            },
+            {
+                "Weight": "Main Unit(with battery): Approx.274g"
+            }
+        ],
+        "USB": [
+            {
+                "USB Type-C\u2122": "Yes"
+            },
+            {
+                "USB Power port for smartphone": "No"
+            }
+        ],
+        "What's In The Box": [
+            {
+                "SUPPLIED ACCESSORIES": "USB Cable: Yes (A to C)"
+            }
+        ]
+    }
+}

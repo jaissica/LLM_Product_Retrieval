@@ -1,0 +1,75 @@
+{
+    "name": "SRS-NB10 Wireless Neckband Speaker | Gray",
+    "link": "https://electronics.sony.com/audio/speakers/c/all-speakers/audio/speakers/wearable-speakers/p/srsnb10-h",
+    "price": "$99.99",
+    "emi": "Starting  4 interest-free payments of $25 with Affirm.   /mo",
+    "about_us": [
+        "Packed with technology to work from home with dedicated mute, volume, and power buttons",
+        "Crafted from premium materials to be comfortable and lightweight",
+        "Excellent sound quality from a full range upward-facing speaker unit",
+        "Speak and be heard with Precise Voice Pickup Technology",
+        "Integrated mute button for ease of use during work calls",
+        "Up to 20 hours of battery life with USB-C quick charging1",
+        "Connect to multiple devices at once with multi-point connection",
+        "Easily connect to your devices via Bluetooth\u00ae2",
+        "IPX4 Splash-resistant design"
+    ],
+    "specification": {
+        "Sound": [
+            {
+                "Speaker type": "Full Range"
+            }
+        ],
+        "Size & Weight": [
+            {
+                "Dimensions (W x H x D)": "Approx.191mmx49mmx185mm"
+            },
+            {
+                "Weight": "Approx.113g"
+            }
+        ],
+        "Bluetooth": [
+            {
+                "Communication System": "Version 5.1"
+            },
+            {
+                "Max. Communication Range": "30m"
+            },
+            {
+                "Compatible Profiles": "A2DP/AVRCP/HFP/HSP"
+            },
+            {
+                "Supported Codecs": "SBC, AAC"
+            },
+            {
+                "Frequency Transmission Range": "20 Hz - 20,000 Hz (Sampling frequency 44.1 kHz)"
+            }
+        ],
+        "General Features": [
+            {
+                "Battery Life": "Approx. 20H"
+            },
+            {
+                "Power Supply": "Internal rechargeable battery"
+            },
+            {
+                "Built-in microphone (Hands Free Calling)": "Yes"
+            }
+        ],
+        "Interface": [
+            {
+                "Input and Output Terminals": "USB Type-C\u00ae"
+            }
+        ],
+        "Color": [
+            {
+                "Color Options": "Charcoal Gray"
+            }
+        ],
+        "What's In The Box": [
+            {
+                "In the Box": "USB Type-C\u00ae"
+            }
+        ]
+    }
+}

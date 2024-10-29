@@ -1,0 +1,93 @@
+{
+    "name": "LinkBuds Open Truly Wireless Earbuds | Black",
+    "link": "https://electronics.sony.com/audio/headphones/c/all-headphones/audio/headphones/all-headphones/p/wfl910-b",
+    "price": "$199.99",
+    "emi": "Starting  4 interest-free payments or as low as $17/mo with Affirm.   /mo",
+    "about_us": [
+        "Soft and ergonomic shape for all-day comfort.",
+        "High-quality audio with an 11mm ring-shaped driver unit.",
+        "Unique open ring design keeps you connected to your surroundings.",
+        "Smart features to seamlessly access your entertainment.1",
+        "Balanced high-quality sound with integrated Processor V2.",
+        "Adaptive Volume Control automatically optimizes based on where you are.",
+        "Advanced audio signal processing for ultra-clear, noise-free calls.",
+        "Up to 22-hour battery life with quick charging (3 min charge for up to 60 minutes of playback)2"
+    ],
+    "specification": {
+        "General Features": [
+            {
+                "Headphone Type": "Open Air"
+            },
+            {
+                "Driver Unit": "11mm"
+            },
+            {
+                "Magnet": "High-power neodymium magnets"
+            },
+            {
+                "Wearing Style": "Yes (IPX4 equivalent)"
+            },
+            {
+                "DSEE": "Yes"
+            },
+            {
+                "Frequency Response (Bluetooth\u00ae Communication)": "20 Hz - 20,000 Hz (44.1 kHz sampling)"
+            },
+            {
+                "General Features (Active Headphones)": "Yes"
+            }
+        ],
+        "Size & Weight": [
+            {
+                "Weight": "Approx. 5.1g \u00d7 2 (including fitting supporters)"
+            }
+        ],
+        "Charging Case": [
+            {
+                "Weight": "Approx. 30.6 g"
+            },
+            {
+                "Dimension": "Approx. 46.0 x 46.0 x 29.4 mm"
+            }
+        ],
+        "Battery": [
+            {
+                "Battery Charge Method": "USB charge (with case)"
+            },
+            {
+                "BATTERY LIFE (CONTINUOUS COMMUNICATION TIME)": "Max. 4.5 hrs"
+            },
+            {
+                "Battery Life (Waiting Time)": "Max. 13 hrs"
+            },
+            {
+                "General Features (Active Headphones)": "Max. 8 hrs"
+            }
+        ],
+        "Bluetooth\u00ae Specification": [
+            {
+                "Bluetooth\u00ae version": "BLUETOOTH Specification Version 5.3"
+            },
+            {
+                "Effective Range": "10m"
+            },
+            {
+                "FREQUENCY RANGE": "2.4 GHz band (2.400 0 GHz - 2.483 5 GHz)"
+            },
+            {
+                "Profile": "A2DP, AVRCP, HFP, HSP, TMAP, CSIP, MCP, VCP, CCP"
+            },
+            {
+                "Supported Content Protection": "SCMS-T"
+            },
+            {
+                "Supported Audio Format (s)": "SBC, AAC, LC3"
+            }
+        ],
+        "What's In The Box": [
+            {
+                "SUPPLIED ACCESSORIES": "Earbuds, Charging Case, USB Cable, Air Fitting Supporters (Pair)"
+            }
+        ]
+    }
+}

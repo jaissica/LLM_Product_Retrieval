@@ -1,0 +1,55 @@
+{
+    "name": "MDR-1AM2 Premium Hi-Res Headphones",
+    "link": "https://electronics.sony.com/audio/headphones/c/all-headphones/audio/headphones/all-headphones/p/mdr1am2-b",
+    "price": "$299.99",
+    "emi": "",
+    "about_us": [
+        "High-Resolution Audio compatible",
+        "Responsive Liquid Crystal Polymer driver for clarity",
+        "Smartphone compatible with in-line remote mic",
+        "Heavy bass with Beat Response Control",
+        "Swivel ear cups for portability"
+    ],
+    "specification": {
+        "General Features": [
+            {
+                "Cord Length": "47-1/4\""
+            },
+            {
+                "Cord type": "Detachable/Silver-coated OFC"
+            },
+            {
+                "Diaphragm": "Aluminum-Coated LCP"
+            },
+            {
+                "Driver Unit": "1.57 in (Dome Type)"
+            },
+            {
+                "Frequency Response": "3\u2013100,000 Hz"
+            },
+            {
+                "Headphone Type": "Closed Dynamic"
+            },
+            {
+                "Impedance (Ohm)": "16 \u03a9"
+            },
+            {
+                "Magnet": "Neodymium"
+            },
+            {
+                "Plug": "Gold-plated L-shaped Stereo Mini"
+            },
+            {
+                "Sensitivities (dB/mW)": "98 dB / mW"
+            },
+            {
+                "Wearing Style": "Circumaural"
+            }
+        ],
+        "Size & Weight": [
+            {
+                "Weight": "6.60 oz"
+            }
+        ]
+    }
+}

@@ -1,0 +1,136 @@
+{
+    "name": "XV800 X-series Wireless Party Speaker",
+    "link": "https://electronics.sony.com/audio/speakers/c/all-speakers/audio/speakers/party-speakers/p/srsxv800",
+    "price": "$649.99",
+    "emi": "4 payments at 0% APR or  starting 4 interest-free payments or as low as $55/mo with Affirm.   /mo",
+    "about_us": [
+        "Power your party with Omni-directional Party Sound1",
+        "Illuminate the night with colorful ambient lighting2",
+        "Up to 25 hours of playing time, plus quick charging3",
+        "Sound made to move, with a built-in handle and wheels",
+        "Play it poolside\u2014the XV800 is IPX4 splash-resistant9",
+        "Access modes, settings, and lighting easily on the top touch panel",
+        "Get power, clarity, and distortion-free sound from the X-Balanced speakers",
+        "Enjoy a brilliant audio/visual experience with TV Sound Booster4",
+        "Personalize your sound with the compatible Sony Music Center app2",
+        "Get your karaoke on\u2014the XV800 has microphone and guitar inputs",
+        "Make it a party, with the Fiestable app2",
+        "Plug, play, and charge your device easily with USB connectivity8"
+    ],
+    "specification": {
+        "Sound": [
+            {
+                "Speaker type": "2-way, bass reflex"
+            },
+            {
+                "Speaker Size": "Diameter/Size of Speaker Unit(woofer): Approx. 170-170mm"
+            },
+            {
+                "Sound Modes": "LIVE SOUND"
+            },
+            {
+                "LIVE SOUND": "Yes"
+            },
+            {
+                "360 Reality Audio": "No"
+            },
+            {
+                "Line-Shape Diffuser": "No"
+            },
+            {
+                "X-Balanced Speaker Unit": "Yes"
+            },
+            {
+                "Passive Radiator": "No"
+            },
+            {
+                "Mega Bass": "Yes"
+            }
+        ],
+        "Bluetooth": [
+            {
+                "Communication System": "Ver.5.2"
+            },
+            {
+                "FREQUENCY RANGE": "2.4GHz"
+            },
+            {
+                "Compatible Profiles": "Interface(A2DP): Yes"
+            },
+            {
+                "Frequency Transmission Range": "20 Hz - 20,000 Hz(44.1 kHz sampling)"
+            },
+            {
+                "Bluetooth\u00ae Codecs Suport": "SBC, AAC, LDAC"
+            }
+        ],
+        "Interface": [
+            {
+                "Input and Output Terminals": "Optical Digital Input"
+            }
+        ],
+        "General Features": [
+            {
+                "Power Consumption": "Approx. 77W"
+            },
+            {
+                "Battery Life": "Approx.25H"
+            },
+            {
+                "Water Protection": "IPX4 (when placed\nvertically)\nIPX2 (when placed horizontally)"
+            },
+            {
+                "Power Supply": "AC"
+            },
+            {
+                "Lighting": "Yes"
+            },
+            {
+                "Portability": "Yes"
+            },
+            {
+                "Echo Canceling": "No"
+            },
+            {
+                "Stereo Mini Jack(IN)": "Yes"
+            },
+            {
+                "Quick Charging": "Yes"
+            }
+        ],
+        "Eco and energy saving": [
+            {
+                "Power Consumption (Standby Mode)": "Approx. 2W"
+            }
+        ],
+        "Application": [
+            {
+                "COMPATIBLE SMARTPHONE APPS": "Sony Music Center/Fiestable"
+            },
+            {
+                "Party Connect": "Yes"
+            }
+        ],
+        "Size & Weight": [
+            {
+                "Dimensions (W x H x D)": "Approx. 317mm\u00d7720mm\u00d7375mm"
+            },
+            {
+                "Weight": "Approx 18.5 kg"
+            }
+        ],
+        "USB": [
+            {
+                "USB Power port for smartphone": "Yes"
+            },
+            {
+                "USB Type-C\u00ae": "No"
+            }
+        ],
+        "What's In The Box": [
+            {
+                "SUPPLIED ACCESSORIES": "Optical Cable,\nAC Power Cord"
+            }
+        ]
+    }
+}

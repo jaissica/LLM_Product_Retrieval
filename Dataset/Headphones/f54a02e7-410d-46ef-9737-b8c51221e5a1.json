@@ -1,0 +1,54 @@
+{
+    "name": "MDR-MV1 Open Back Reference Monitor Headphones",
+    "link": "https://electronics.sony.com/audio/headphones/c/all-headphones/audio/headphones/all-headphones/p/mdrmv1",
+    "price": "$399.99",
+    "emi": "4 payments at 0% APR or  starting 4 interest-free payments or as low as $34/mo with Affirm.   /mo",
+    "about_us": [
+        "Open back design",
+        "Wide frequency response range (5Hz to 80kHz)",
+        "For immersive mixing and stereo mastering",
+        "Accurate sound object positioning with a 360 degree sound space",
+        "Comfortable for long session use",
+        "Lightweight, high-strength aluminum alloy for the housing",
+        "Detachable, machined aluminum connectors for professional use"
+    ],
+    "specification": {
+        "General Features": [
+            {
+                "Driver Unit": "40 mm (1.58 in)"
+            },
+            {
+                "Frequency Response": "5 Hz - 80,000 Hz (IEC\u00b9)"
+            },
+            {
+                "Magnet": "Neodymium"
+            },
+            {
+                "type": "Open back, Dynamic"
+            },
+            {
+                "Power Handling Capacity": "1,500 mW (IEC\u00b9)"
+            },
+            {
+                "Impedance": "24 Q at 1 kHz"
+            },
+            {
+                "Sensitivity": "100 dB/mW"
+            },
+            {
+                "Mass": "Approx. 223 g (7.87 oz) without cable"
+            },
+            {
+                "Weight": "Approx. 0.5 lbs. (223 g) without cable"
+            },
+            {
+                "Product Dimension (W*H*D) inches(mm)": "L:  8.0\" x W 2.4\" x H: 9.5\" (incl. hook)"
+            }
+        ],
+        "What's In The Box": [
+            {
+                "SUPPLIED ACCESSORIES": "Stereo Headphones, Headphone cable (approx. 2.5 m (98.43 in), stereo phone plug), Plug adapter (approx. 20 cm (1.58 in), stereo phone jack\u2194 stereo mini plug)"
+            }
+        ]
+    }
+}

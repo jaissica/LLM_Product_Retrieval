@@ -1,0 +1,93 @@
+{
+    "name": "WF-1000XM5 The Best Truly Wireless Noise Canceling Earbuds | Black",
+    "link": "https://electronics.sony.com/audio/headphones/c/all-headphones/audio/headphones/truly-wireless-earbuds/p/wf1000xm5-b",
+    "price": "$249.99",
+    "emi": "Starting  4 interest-free payments or as low as $21/mo with Affirm.   /mo",
+    "about_us": [
+        "The best truly wireless noise canceling2 headphones on the market.",
+        "Astonishing sound quality with High-Resolution Audio.",
+        "Sony\u2019s best ever call quality3 with AI based noise reduction algorithm and bone conduction sensor.",
+        "Small, light and beautifully designed.",
+        "Smooth switching and a clear Bluetooth signal with a powerful new Integrated Processor V2.3",
+        "Adjusts to the world around you with adaptive sound control, using AI to offer the ideal listening experience.",
+        "Talk and only hear ambient sound using Speak-to-Chat which pauses the music when you start talking.",
+        "Water resistant for everyday use so splashes and sweat won\u2019t stop you4.",
+        "Designed with the environment in mind with construction from recycled plastic materials and 100% paper packaging.",
+        "Battery life up to 8 hours (24-hours with case). Quick charging - 3 min. for up to 1 hour of listening.5",
+        "Quick Access feature allows you to configure your wireless headphones to Spotify, Amazon or Endel without using your phone,5,10 with just 2-3 taps."
+    ],
+    "specification": {
+        "Battery": [
+            {
+                "BATTERY LIFE (CONTINUOUS COMMUNICATION TIME)": "Max. 6 hrs (NC ON) | Max. 7 hrs (NC OFF)"
+            },
+            {
+                "Battery Charge Method": "USB charger | Wireless charger (with case)"
+            },
+            {
+                "General Features (Active Headphones)": "Max. 8 hrs (NC ON) | Max. 12 hrs (NC OFF)"
+            }
+        ],
+        "Bluetooth\u00ae Specification": [
+            {
+                "Bluetooth\u00ae version": "Bluetooth Specification Version 5.3"
+            },
+            {
+                "Effective Range": "10 m"
+            },
+            {
+                "FREQUENCY RANGE": "2.4 GHz band (2.4000 GHz - 2.4835 GHz)"
+            },
+            {
+                "Profile": "A2DP, AVRCP, HFP, HSP, TMAP, CSIP, MCP, VCP, CCP"
+            },
+            {
+                "Supported Audio Format(s)": "SBC, AAC, LDAC, LC3"
+            },
+            {
+                "Supported Content Protection": "SCMS-T"
+            }
+        ],
+        "Charging Case": [
+            {
+                "Dimension": "Approx. 64.6 x 40.0 x 26.5 mm"
+            },
+            {
+                "Weight": "Approx. 39 g"
+            }
+        ],
+        "General Features": [
+            {
+                "Driver Unit": "8.4 mm"
+            },
+            {
+                "Frequency Response (Bluetooth\u00ae Communication)": "20\u201320,000 Hz (44.1 kHz sampling) | 20\u201340,000 Hz (LDAC 96 kHz sampling 990 kbps)"
+            },
+            {
+                "Headphone Type": "Closed, dynamic"
+            },
+            {
+                "Wearing Style": "Yes (IPX4 equivalent)"
+            },
+            {
+                "Ambient Sound Mode": "Yes"
+            },
+            {
+                "General Features(Active Headphones)": "Yes"
+            }
+        ],
+        "Noise Canceling": [
+            {
+                "Ambient Sound Mode": "Yes"
+            },
+            {
+                "Quick Attention": "Yes"
+            }
+        ],
+        "Size & Weight": [
+            {
+                "Weight": "Approx. 5.9 g x 2  (including earbud tips (M))"
+            }
+        ]
+    }
+}

@@ -1,0 +1,120 @@
+{
+    "name": "HT-S400 2.1ch Soundbar with Wireless subwoofer",
+    "link": "https://electronics.sony.com/audio/soundbars/c/all-soundbars/audio/soundbars/all-soundbars/p/hts400",
+    "price": "$219.99",
+    "emi": "Starting  4 interest-free payments or as low as $19/mo with Affirm.   /mo",
+    "about_us": [
+        "S-Force PRO Front Surround and Dolby Digital create cinematic style surround sound",
+        "2.1ch front surround sound with X-Balanced speaker delivers clear, rich dialogue",
+        "Wireless subwoofer delivers deeper, richer bass sound",
+        "Simple and easy operation with compact remote and convenient OLED display window",
+        "Flexible layout and wireless connection to compatible BRAVIA TVs minimizes cable clutter1",
+        "Wall-mountable design with a flat back fits flush to the wall",
+        "Effortless control with integrated UI on BRAVIA TVs2",
+        "Bluetooth\u00ae connectivity for wireless audio streaming6",
+        "Connect to your TV with either HDMI ARC5 or optical connection"
+    ],
+    "specification": {
+        "Audio Formats": [
+            {
+                "Bluetooth\u00ae (Receiver)": "SBC"
+            },
+            {
+                "HDMI input": "Dolby Digital, Dolby Dual mono, LCPM 2ch"
+            },
+            {
+                "Optical Input": "Dolby Digital, Dolby Dual mono, LCPM 2ch"
+            },
+            {
+                "Dolby Atmos / DTS:X": "No"
+            },
+            {
+                "360 Reality Audio": "No"
+            },
+            {
+                "Hi-Res Audio": "No"
+            }
+        ],
+        "HDMI": [
+            {
+                "Number of Input/Output": "- / 1(ARC)"
+            },
+            {
+                "4K/120": "No"
+            }
+        ],
+        "Interface": [
+            {
+                "Input and Output Terminals": "Optical-audio input, USB type A (only for update)"
+            },
+            {
+                "Bluetooth\u00ae": "RX (receiver)"
+            },
+            {
+                "Wi-Fi\u00ae Connectivity": "No"
+            },
+            {
+                "Bluetooth\u00ae version": "5.0"
+            }
+        ],
+        "Sound Function": [
+            {
+                "Sound Effect": "Night Mode, Voice Mode"
+            },
+            {
+                "Sound Mode": "Sound Field"
+            },
+            {
+                "Virtual Surround Technology": "S-Force PRO"
+            },
+            {
+                "Sound Field Optimization": "No"
+            }
+        ],
+        "Speaker Layout": [
+            {
+                "Speaker Structure": "2.1ch (wireless Subwoofer)"
+            }
+        ],
+        "Wireless Features": [
+            {
+                "TV Wireless connection": "Yes"
+            }
+        ],
+        "Subwoofer": [
+            {
+                "Subwoofer Type": "Wireless"
+            }
+        ],
+        "Amplifier": [
+            {
+                "Amplifier Type": "Digital Amplifier, S-Master"
+            },
+            {
+                "Amplifier Channels": "2.1\u00a0ch"
+            }
+        ],
+        "Details": [
+            {
+                "Power Consumption": "BAR 35\u00a0W / SW 20\u00a0W"
+            },
+            {
+                "Power consumption(on QuickStart mode)": "BAR 0.5\u00a0W / SW 0.5\u00a0W"
+            }
+        ],
+        "Size & Weight": [
+            {
+                "MAIN UNIT SIZE \u2013 BODY ONLY (W X H X D)": "35.5 x 2.63 x 3.5\""
+            },
+            {
+                "MAIN UNIT WEIGHT \u2013 BODY ONLY": "5\u00a0lb 5\u00a0oz"
+            },
+            {
+                "SUBWOOFER SIZE (W X H X D)": "7.63 x 15.25 x 15.75\""
+            },
+            {
+                "SUBWOOFER WEIGHT": "16\u00a0lb 2\u00a0oz"
+            }
+        ]
+    }
+}
