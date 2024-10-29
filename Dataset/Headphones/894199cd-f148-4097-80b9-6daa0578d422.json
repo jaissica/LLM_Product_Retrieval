@@ -1,0 +1,82 @@
+{
+    "name": "BRAVIA Theater U Wearable TV Speaker",
+    "link": "https://electronics.sony.com/audio/headphones/c/all-headphones/audio/speakers/wearable-speakers/p/htan7",
+    "price": "$199.99",
+    "emi": "Starting  4 interest-free payments or as low as $17/mo with Affirm.   /mo",
+    "about_us": [
+        "Experience true surround sound audio with Sony\u2019s 360 Spatial Sound Personalizer technology.1",
+        "Enjoy crystal clear sound with newly developed upward-facing X-Balanced Speaker Unit",
+        "Connect to your devices with a stable Bluetooth connection2",
+        "Enjoy personalized home theater sound for up to 12 hours on a single charge3",
+        "Campaign mode comes to life with compatibility for low latency wired single player gaming",
+        "Built in microphone & Hands free communication",
+        "Adjustable design for comfortable, long listening sessions.",
+        "Multi-point connection2",
+        "Pair two BRAVIA Theater U\u2019s at the same time with speaker add function",
+        "IPX4 Splash-resistant design4"
+    ],
+    "specification": {
+        "Sound": [
+            {
+                "Speaker type": "Full Range"
+            },
+            {
+                "Sound Modes": "Yes"
+            }
+        ],
+        "Bluetooth": [
+            {
+                "Communication System": "Version 5.2"
+            },
+            {
+                "FREQUENCY RANGE": "2.4GHz band"
+            },
+            {
+                "Compatible Profiles": "Yes"
+            },
+            {
+                "Supported Codecs": "Yes"
+            },
+            {
+                "Frequency Transmission Range": "20 Hz - 20,000 Hz(44.1 kHz sampling)"
+            }
+        ],
+        "Wireless Connections": [
+            {
+                "Hands-Free Function": "Yes"
+            }
+        ],
+        "General Features": [
+            {
+                "Power Consumption": "5W *Charging"
+            },
+            {
+                "Battery Life": "Approx. 12h"
+            },
+            {
+                "Water Protection": "IPX4"
+            },
+            {
+                "Power Supply": "DC"
+            }
+        ],
+        "Application": [
+            {
+                "COMPATIBLE SMARTPHONE APPS": "Sony Headphones connect\n360 Spatial Sound Personalizer"
+            }
+        ],
+        "Size & Weight": [
+            {
+                "Dimensions (W x H x D)": "Approx 235mmx48mmx178mm, 9.25\" x 1.88\" x 7.00\""
+            },
+            {
+                "Weight": "Approx 268g, 9.45oz"
+            }
+        ],
+        "What's In The Box": [
+            {
+                "SUPPLIED ACCESSORIES": "Dedicated audio adaptor +\nDedicated audio cable"
+            }
+        ]
+    }
+}

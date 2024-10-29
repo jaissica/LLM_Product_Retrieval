@@ -1,0 +1,96 @@
+{
+    "name": "WF-C510 Truly Wireless Earbuds | Black",
+    "link": "https://electronics.sony.com/audio/headphones/c/all-headphones/audio/headphones/all-headphones/p/wfc510-b",
+    "price": "$59.99",
+    "emi": "Starting  4 interest-free payments of $15 with Affirm.   /mo",
+    "about_us": [
+        "Compact and lightweight for comfort all day long.",
+        "Up to 11 hours of battery life, with up to another 11 hours in the charging case.2",
+        "Multipoint Connection lets you pair to two Bluetooth\u00ae devices simultaneously.1",
+        "Stay present with Ambient Sound Mode.",
+        "Great sound quality and a range of customizable EQ presets.",
+        "Superior sound quality.",
+        "Easy button operation.",
+        "Charging cable sold separately."
+    ],
+    "specification": {
+        "General Features": [
+            {
+                "Headphone Type": "Closed"
+            },
+            {
+                "Driver Unit": "6 mm"
+            },
+            {
+                "Wearing Style": "Yes (IPX4)"
+            },
+            {
+                "Frequency Response (Bluetooth\u00ae Communication)": "20 Hz - 20,000 Hz (44.1 kHz sampling)"
+            },
+            {
+                "DSEE": "Yes"
+            },
+            {
+                "Ambient Sound Mode": "Yes"
+            },
+            {
+                "General Features (Active Headphones)": "Yes"
+            }
+        ],
+        "Charging Case": [
+            {
+                "Weight": "Approx. 31 g"
+            }
+        ],
+        "Battery": [
+            {
+                "Battery Charge Method": "USB Charge (with case)"
+            },
+            {
+                "BATTERY LIFE (CONTINUOUS COMMUNICATION TIME)": "Max. 5 hrs (ASM ON) / Max. 5 hrs (ASM OFF)"
+            },
+            {
+                "General Features (Active Headphones)": "Max. 8 hrs (ASM ON) / Max. 11 hrs (ASM OFF)"
+            }
+        ],
+        "Size & Weight": [
+            {
+                "Weight": "Approx. 4.6 g x 2 (including earbuds tips(M))"
+            }
+        ],
+        "Bluetooth\u00ae Specification": [
+            {
+                "Bluetooth\u00ae version": "Bluetooth\u00ae Specification Version 5.3"
+            },
+            {
+                "Effective Range": "10m"
+            },
+            {
+                "FREQUENCY RANGE": "2.4 GHz band (2.400 0 GHz - 2.483 5 GHz)"
+            },
+            {
+                "Profile": "A2DP, AVRCP, HFP, HSP"
+            },
+            {
+                "Supported Audio Format(s)": "SBC, AAC"
+            },
+            {
+                "Supported Content Protection": "SCMS-T"
+            }
+        ],
+        "What\u2019s in the Box": [
+            {
+                "Charging Cable": "No"
+            },
+            {
+                "Wireless Earbuds": "Yes"
+            },
+            {
+                "Hybrid Silicone Earbud Tips": "Yes"
+            },
+            {
+                "Charging Case": "Yes"
+            }
+        ]
+    }
+}

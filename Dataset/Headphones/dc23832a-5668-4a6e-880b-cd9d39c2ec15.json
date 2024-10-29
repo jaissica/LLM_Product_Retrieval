@@ -1,0 +1,113 @@
+{
+    "name": "WH-CH720N Wireless Noise Canceling Headphone | Black",
+    "link": "https://electronics.sony.com/audio/headphones/c/all-headphones/audio/headphones/headband/p/whch720n-b",
+    "price": "$129.99",
+    "emi": "Starting  4 interest-free payments of $33 with Affirm.   /mo",
+    "about_us": [
+        "Sony\u2019s lightest Wireless Noise-canceling headband ever.",
+        "Take noise canceling to the next level with Sony\u2019s Integrated Processor V1, so you can fully immerse yourself in the music.",
+        "Super comfortable and lightweight design.",
+        "Adjustable Ambient Sound mode and Adaptive Sound control features tailors sound to suit the environment around you.",
+        "Up to 35-hour battery life with quick charging (3 min charge for up to 1 hour of playback).1",
+        "High sound quality and well-balanced sound tuning.",
+        "Crystal clear hands-free calling and voice assistant with Precise Voice Pickup technology.2",
+        "Multipoint connection allows you to quickly switch between two devices at once.3",
+        "Boost the quality of compressed music files and enjoy streaming music with high quality sound through DSEE\u2122.",
+        "Build-in microphone"
+    ],
+    "specification": {
+        "General Features": [
+            {
+                "Headphone Type": "Closed"
+            },
+            {
+                "Driver Unit": "Dynamic, 30 mm"
+            },
+            {
+                "Wearing Style": "Over Ear"
+            },
+            {
+                "Frequency Response": "7 Hz - 20 000 Hz (JEITA)"
+            },
+            {
+                "Impedance (Ohm)": "325 \u03a9 (1 kHz) (when connecting via the headphone cable with the unit turned on), 31 \u03a9 (1 kHz) (when connecting via the headphone cable with the unit turned off)\nCord Length\tapprox. 1.2 m\nCord Type\tSingle-sided (detachable)\nPlug\tGold-plated L-shaped stereo mini plug\nGeneral Features(Active Headphones)\tYes\nDSEE\tYes\nFrequency Response (Active Operation)\t7 Hz - 20 000 Hz (JEITA)\nPassive Operation\tYes\nAmbient Sound Mode\tYes\nFrequency Response (Bluetooth\u00ae Communication)\t20 Hz - 20 000 Hz (Sampling frequency 44.1 kHz)"
+            },
+            {
+                "Cord Length": "approx. 1.2 m"
+            },
+            {
+                "Cord type": "Single-sided (detachable)"
+            },
+            {
+                "Plug": "Gold-plated L-shaped stereo mini plug"
+            },
+            {
+                "DSEE": "Yes"
+            },
+            {
+                "Frequency Response (Active Operation)": "7 Hz - 20 000 Hz (JEITA)"
+            },
+            {
+                "Passive Operation": "Yes"
+            },
+            {
+                "Frequency Response (Bluetooth\u00ae Communication)": "Frequency Range(A2DP): 20 Hz - 20 000 Hz (Sampling frequency 44.1 kHz)"
+            },
+            {
+                "Ambient Sound Mode": "Yes"
+            },
+            {
+                "General Features (Active Headphones)": "Yes"
+            },
+            {
+                "Sensitivity (dB/mW)": "108 dB/mW (when connecting via the headphone cable with the unit turned on), 99 dB/mW (when connecting via the headphone cable with the unit turned off)"
+            }
+        ],
+        "Size & Weight": [
+            {
+                "Weight": "Approx. 192 g"
+            }
+        ],
+        "Battery": [
+            {
+                "Battery Charge Method": "USB"
+            },
+            {
+                "BATTERY LIFE (CONTINUOUS COMMUNICATION TIME)": "Max. 35 hours (NC ON), Max. 40 hours (NC OFF)"
+            },
+            {
+                "General Features(Active Headphones)": "Max. 35 hours (NC ON), Max. 50 hours (NC OFF)"
+            }
+        ],
+        "Bluetooth\u00ae Specification": [
+            {
+                "Bluetooth\u00ae version": "BLUETOOTH Specification Version 5.2"
+            },
+            {
+                "Effective Range": "Approx. 10 m (30 ft)"
+            },
+            {
+                "FREQUENCY RANGE": "2.4 GHz band (2.400 0 GHz - 2.483 5 GHz)"
+            },
+            {
+                "Profile": "A2DP, AVRCP, HFP, HSP"
+            },
+            {
+                "Supported Audio Format(s)": "SBC, AAC"
+            },
+            {
+                "Supported Content Protection": "SCMS-T"
+            }
+        ],
+        "Noise Canceling": [
+            {
+                "Ambient Sound Mode": "Yes"
+            }
+        ],
+        "What\u2019s in the Box": [
+            {
+                "SUPPLIED ACCESSORIES": "Connection Cable, USB Cable"
+            }
+        ]
+    }
+}

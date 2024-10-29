@@ -1,0 +1,97 @@
+{
+    "name": "XV500 X-Series Wireless Party Speaker",
+    "link": "https://electronics.sony.com/audio/speakers/c/all-speakers/audio/speakers/all-speakers/p/srsxv500",
+    "price": "$399.99",
+    "emi": "4 payments at 0% APR or  starting 4 interest-free payments or as low as $34/mo with Affirm.   /mo",
+    "about_us": [
+        "Powerful sound you can carry around with clear and deep bass",
+        "Entertain your audience with inputs for karaoke and guitar",
+        "Illuminated touch control panel makes it easy to control your speaker",
+        "Powerful sound with the X-Balanced speaker for high efficiency tweeters",
+        "Up to 25 hours of playing time, plus quick charging3",
+        "Comfortable handle that makes carrying it easy",
+        "No matter the weather \u2013 XV500 is IPX4 splash-resistant8",
+        "Ambient lighting suits the mood of any surroundings",
+        "Two inputs so you can karaoke with a friend",
+        "Make it a party, with the Fiestable app2",
+        "Personalize your sound with the compatible Sony Music Center app2"
+    ],
+    "specification": {
+        "Application": [
+            {
+                "COMPATIBLE SMARTPHONE APPS": "Sony Music Center/Fiestable"
+            }
+        ],
+        "Bluetooth": [
+            {
+                "Communication System": "Bluetooth\u00ae Technology Ver.5.2"
+            },
+            {
+                "FREQUENCY RANGE": "2.4 GHz"
+            },
+            {
+                "Compatible Profiles": "Interface(A2DP): Yes"
+            },
+            {
+                "Supported Codecs": "Yes"
+            },
+            {
+                "Frequency Transmission Range": "20 Hz - 20,000 Hz (44.1 kHz sampling)"
+            }
+        ],
+        "Eco and energy saving": [
+            {
+                "Power Consumption (Standby Mode)": "2 W or less"
+            }
+        ],
+        "General Features": [
+            {
+                "Power Consumption": "Approx. 55 W"
+            },
+            {
+                "Battery Life": "Approx. 25 H"
+            },
+            {
+                "Water Protection": "IPX4"
+            },
+            {
+                "Power Supply": "AC"
+            }
+        ],
+        "Interface": [
+            {
+                "Input and Output Terminals": "USB A"
+            }
+        ],
+        "Size & Weight": [
+            {
+                "Dimensions (W x H x D)": "Approx. 269 mm x 564 mm x 294 mm"
+            },
+            {
+                "Weight": "Approx. 11.2 kg"
+            }
+        ],
+        "Sound": [
+            {
+                "Speaker type": "Woofer(L/R)/Tweeter(L/R)"
+            },
+            {
+                "Speaker Size": "Approx. 140-140 mm"
+            },
+            {
+                "Sound Modes: Clear Audio+": "Yes"
+            },
+            {
+                "Sound Modes: DSEE": "Yes"
+            },
+            {
+                "Sound Modes: LIVE SOUND": "Yes"
+            }
+        ],
+        "What's In The Box": [
+            {
+                "SUPPLIED ACCESSORIES": "AC Power Cord"
+            }
+        ]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "name": "SA-SW3 Wireless Subwoofer for QUAD/Bar 9/Bar 8/HT-A9/HT-A7000/HT-A5000/HT-A3000/HT-S2000",
+    "link": "https://electronics.sony.com/audio/soundbars/c/all-soundbars/audio/soundbars/all-soundbars/p/sasw3",
+    "price": "$299.99",
+    "emi": "Starting  4 interest-free payments or as low as $25/mo with Affirm.   /mo",
+    "about_us": [
+        "Enjoy dramatic sound with the SW3 subwoofer for use with Quad/ Bar 9/ Bar 8/ HT-A9/ HT-A7000/ HT-A5000/ HT-A3000/ HT-S2000",
+        "Direct wireless connection with Quad/ Bar 9/ Bar 8/ HT-A9/ HT-A7000/ HT-A5000/ HT-A3000/ HT-S2000",
+        "Rich, powerful bass from a 160mm driver",
+        "\u03a3 Magnetic Circuit for deep, clear bass with less distortion",
+        "Omnidirectional Block Design to match Quad/ Bar 9/ Bar 8/HT-A9/ HT-A7000/ HT-A5000/ HT-A3000/ HT-S2000"
+    ],
+    "specification": {
+        "Subwoofer": [
+            {
+                "Subwoofer Type": "Wireless"
+            }
+        ],
+        "Amplifier": [
+            {
+                "Amplifier Type": "Digital Amplifier, S-Master"
+            },
+            {
+                "Amplifier Channels": "1ch"
+            }
+        ],
+        "Details": [
+            {
+                "Power Consumption": "40W"
+            }
+        ],
+        "Size & Weight": [
+            {
+                "Subwoofer Size (W X H X D)": "201x382.5x402mm (8x15-1/8x15-7/8in)"
+            },
+            {
+                "Subwoofer Weight": "10.5kg"
+            }
+        ]
+    }
+}

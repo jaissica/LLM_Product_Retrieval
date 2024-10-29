@@ -1,0 +1,56 @@
+{
+    "name": "SS-CS8 Center Channel Speaker",
+    "link": "https://electronics.sony.com/audio/speakers/c/all-speakers/audio/speakers/home-theater-speakers/p/sscs8",
+    "price": "$99.99",
+    "emi": "Starting  4 interest-free payments of $25 with Affirm.   /mo",
+    "about_us": [
+        "2-way, 3-speaker bass-reflex system",
+        "Wide dispersion Super Tweeters for lifelike high-end",
+        "Mica Reinforced Cellular woofer for a bigger bass response",
+        "Stylish wooden finish"
+    ],
+    "specification": {
+        "Center Speaker": [
+            {
+                "Center Speaker Finish": "Cloth (grille), PP sheet (cabinet)"
+            },
+            {
+                "Center Speaker Maximum Input Power": "145\u00a0W"
+            },
+            {
+                "Center Speaker Model name": "SS-CS8"
+            },
+            {
+                "Center Speaker Rated Impedance": "6 ohms"
+            },
+            {
+                "Center Speaker System": "2-way, 3-driver speaker system"
+            },
+            {
+                "Center Speaker Type": "Bass reflex"
+            },
+            {
+                "Center Speaker Units: Tweeter": "0.98 in dome type x 1"
+            },
+            {
+                "Center Speaker Units: Woofer": "3.94 in cone type x 1"
+            }
+        ],
+        "General Features": [
+            {
+                "Center Speaker": "1"
+            },
+            {
+                "Frequency Response": "55 Hz\u201325 kHz"
+            }
+        ],
+        "Size & Weight": [
+            {
+                "Dimensions (W x H x D)": "16.93 x 5.75 x 8.66 in"
+            },
+            {
+                "Weight": "11.02 lbs"
+            }
+        ]
+    }
+}

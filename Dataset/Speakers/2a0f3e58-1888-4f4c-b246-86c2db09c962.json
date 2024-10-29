@@ -1,0 +1,88 @@
+{
+    "name": "HT-AX7 Portable Theater System with 360 Spatial Sound Mapping",
+    "link": "https://electronics.sony.com/audio/speakers/c/all-speakers/audio/speakers/all-speakers/p/htax7",
+    "price": "$499.99",
+    "emi": "4 payments at 0% APR or  starting 4 interest-free payments or as low as $42/mo with Affirm.   /mo",
+    "about_us": [
+        "360 Spatial Sound Mapping immerses you in spatial sound by placing speakers all around",
+        "Sound Field effect is off, place the three speakers in the corner of your room and the HT-AX7 will create the perfect atmosphere with high-quality, room-filling sound.",
+        "Design and Audio in harmony. No wires to disrupt your layout. Perfect addition to any home and seamlessly blends in with any interior",
+        "Small in size, big in performance. The HT-AX7 has two front speakers and two passive radiators on the side. The front speakers are powered by X-Balanced Speakers Units that give a powerful and clean sound.",
+        "Environment in mind. Sony\u2019s home audio products are designed not only for their excellent sound but also with the environment in mind. We are committed to using less virgin plastic in our products and packing",
+        "No fuss, all fun. Get started with your HT-AX7 in no time using the Sony Home Entertain Connect App. Simply download the app and let it guide you through the initial settings and troubleshoot. You will have complete control over the sound field, volume and more from your smart phone.",
+        "Seamless Connectivity with Bluetooth technology connecting to the HT-AX7 to your device is easy. The wireless rear speakers are automatically paired to the main unit, so simply place the speakers around your room and press play to get immersed!"
+    ],
+    "specification": {
+        "Audio Formats": [
+            {
+                "Bluetooth\u00ae (Receiver)": "AAC, SBC"
+            },
+            {
+                "USB": "WAV, MP3, WMA"
+            }
+        ],
+        "Battery": [
+            {
+                "Battery Life": "Approx. 30 hours"
+            },
+            {
+                "Charge Time": "Front Speaker: Approx. 4 hours, Rear Speaker: Approx. 4.5 hours"
+            },
+            {
+                "Play Time in 10 min Quick Charge": "Approx. 150 minutes"
+            }
+        ],
+        "Sound Function": [
+            {
+                "Sound Effect": "Night Mode, Voice Mode"
+            },
+            {
+                "Sound Mode": "Sound Field"
+            },
+            {
+                "Virtual Surround Technology": "360 Spatial Sound Mapping"
+            }
+        ],
+        "Amplifier": [
+            {
+                "Amplifier Type": "S-Master"
+            }
+        ],
+        "Details": [
+            {
+                "Power Consumption (Front Speaker)": "Approx. 45 W"
+            },
+            {
+                "Power Consumption (Rear Speaker)": "Approx. 3 W"
+            }
+        ],
+        "Interface": [
+            {
+                "Bluetooth\u00ae version": "Bluetooth\u00ae  version 5.2"
+            },
+            {
+                "Bluetooth\u00ae Compatible Profiles": "A2DP, AVRCP, HFP, HSP, SPP"
+            }
+        ],
+        "Size & Weight": [
+            {
+                "Front Speaker size (W X H X D)": "12.04\" x 3.81\" x 4.84\""
+            },
+            {
+                "Front Speaker Weight": "3.09 lb"
+            },
+            {
+                "Rear speaker size (W X H X D)": "4.8\" x 1.53\" x 4.8\""
+            },
+            {
+                "Rear Speaker Weight": "0.65 lb"
+            },
+            {
+                "Rear Speakers on Front Speaker size (W X H X D)": "12.04\" x 5.24\" x 4.84\""
+            },
+            {
+                "Rear Speakers on Front Speaker Weight": "4.41 lb"
+            }
+        ]
+    }
+}

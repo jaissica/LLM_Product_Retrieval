@@ -1,0 +1,108 @@
+{
+    "name": "RA3000 Wi-Fi Enabled 360 Reality Audio Speaker | Black",
+    "link": "https://electronics.sony.com/audio/speakers/c/all-speakers/audio/speakers/360-reality-audio/p/srsra3000-b",
+    "price": "$399.99",
+    "emi": "4 payments at 0% APR or  starting 4 interest-free payments or as low as $34/mo with Affirm.   /mo",
+    "about_us": [
+        "360 Reality Audio1",
+        "Ambient room-filling sound",
+        "Immersive audio enhancement",
+        "Omni-directional sound and deep bass",
+        "Beam tweeter creates floor-to-ceiling sound",
+        "Wi-Fi enabled3",
+        "Works with Alexa6",
+        "Works with Google Assistant5",
+        "Chromecast built-in4",
+        "Spotify connect",
+        "Multi-room music",
+        "Sound calibration",
+        "Bluetooth Compatible7",
+        "Connect wirelessly to your tv",
+        "Adjust volume automatically",
+        "Compatible with Sony Music Center8",
+        "Hi-Res Audio compatible",
+        "Humidity resistant"
+    ],
+    "specification": {
+        "Bluetooth": [
+            {
+                "Compatible Profiles": "A2DP, AVRCP (Absolute Volume), SPP"
+            },
+            {
+                "Supported Codecs": "SBC, AAC"
+            }
+        ],
+        "General Features": [
+            {
+                "Power Consumption": "20W"
+            }
+        ],
+        "Interface": [
+            {
+                "Input and Output Terminals": "Audio in (3.5 mm)"
+            }
+        ],
+        "Size & Weight": [
+            {
+                "Dimensions (W x H x D)": "5 3/4 x 9 3/4 x 6 1/8 inches"
+            },
+            {
+                "Weight": "5 1/2 lb"
+            }
+        ],
+        "Sound": [
+            {
+                "360 Reality Audio": "Yes"
+            },
+            {
+                "Auto sound calibration": "Yes"
+            },
+            {
+                "Auto volume": "Yes (ON/OFF)"
+            },
+            {
+                "Custom EQ": "Yes"
+            },
+            {
+                "Digital Sound Enhancement Engine": "Yes"
+            },
+            {
+                "Immersive Audio Enhancement": "Yes"
+            },
+            {
+                "Number of Speaker": "Tweeter Unit 2, Full-range 1, Passive Radiator 2"
+            },
+            {
+                "Preset EQ": "Yes (OFF/BASS/EXCITED/BRIGHT/VOCAL)"
+            },
+            {
+                "Speaker Size": "Tweeter Unit 11/16\", Full-range 3 1/8\", Passive Radiator 4 x 1 1/2\""
+            }
+        ],
+        "Wi-Fi\u00ae": [
+            {
+                "360RAcast": "Yes"
+            },
+            {
+                "Chromecast built-in": "Yes"
+            },
+            {
+                "Wi-Fi Specifications": "11a, 11b, 11g, 11n"
+            }
+        ],
+        "Wireless Connections": [
+            {
+                "Chromecast built-in": "Yes"
+            },
+            {
+                "Spotify Connect": "Yes"
+            },
+            {
+                "Works with Alexa": "Yes"
+            },
+            {
+                "Works with Google Assistant": "Yes"
+            }
+        ]
+    }
+}
