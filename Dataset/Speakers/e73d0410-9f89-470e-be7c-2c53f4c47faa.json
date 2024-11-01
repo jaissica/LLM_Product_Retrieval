@@ -1,0 +1,134 @@
+{
+    "name": "XV900 Portable Bluetooth\u00ae Wireless Party Speaker",
+    "link": "https://electronics.sony.com/audio/speakers/c/all-speakers/audio/speakers/all-speakers/p/srsxv900",
+    "price": "$799.99",
+    "emi": "4 payments at 0% APR or  starting 4 interest-free payments or as low as $67/mo with Affirm.   /mo",
+    "about_us": [
+        "Power your party with omnidirectional sound1",
+        "Light up the night with omnidirectional party lighting2",
+        "Up to 25 hours of playing time, plus quick charging3",
+        "Sound made to move, with a built-in handle and wheels",
+        "Top touch panel providing seamless access to modes, settings, and lighting",
+        "TV Sound Booster delivers a brilliant audio/visual experience4",
+        "X-Balanced speakers deliver power, clarity, and distortion-free sound",
+        "Personalize your sound with the compatible Sony Music Center app2",
+        "With both microphone and guitar inputs, the XV900 is karaoke-ready",
+        "Plug, play, and charge, with easy USB connectivity for your device8"
+    ],
+    "specification": {
+        "Sound": [
+            {
+                "Speaker type": "4-way, bass reflex"
+            },
+            {
+                "Speaker Size": "Approx.320mm\u00d7320mm"
+            },
+            {
+                "Sound Modes": "LIVE SOUND"
+            },
+            {
+                "LIVE SOUND": "Yes"
+            },
+            {
+                "360 Reality Audio": "No"
+            },
+            {
+                "Line-Shape Diffuser": "No"
+            },
+            {
+                "X-Balanced Speaker Unit": "Yes"
+            },
+            {
+                "Passive Radiator": "Yes"
+            },
+            {
+                "Mega Bass": "Yes"
+            }
+        ],
+        "Bluetooth": [
+            {
+                "Communication System": "Version 5.2"
+            },
+            {
+                "FREQUENCY RANGE": "2.4GHz"
+            },
+            {
+                "Compatible Profiles": "Yes"
+            },
+            {
+                "Frequency Transmission Range": "20 Hz - 20,000 Hz(44.1 kHz sampling)"
+            },
+            {
+                "Bluetooth\u00ae Codecs Support": "SBC, AAC, LDAC"
+            }
+        ],
+        "Interface": [
+            {
+                "Input and Output Terminals": "Stereo Mini Jack(IN)"
+            }
+        ],
+        "General Features": [
+            {
+                "Power Consumption": "Approx. 100W"
+            },
+            {
+                "Battery Life": "approx.25H"
+            },
+            {
+                "Water Protection": "No"
+            },
+            {
+                "Power Supply": "AC"
+            },
+            {
+                "Lighting": "Yes"
+            },
+            {
+                "Portability": "Yes"
+            },
+            {
+                "Echo Canceling": "No"
+            },
+            {
+                "Quick Charge": "Yes"
+            },
+            {
+                "Stereo Mini Jack(IN)": "Yes"
+            }
+        ],
+        "Eco and energy saving": [
+            {
+                "Power Consumption (Standby Mode)": "Approx. 1W"
+            }
+        ],
+        "Application": [
+            {
+                "COMPATIBLE SMARTPHONE APPS": "Sony Music Center/Fiestable"
+            },
+            {
+                "Party Chain": "Yes"
+            }
+        ],
+        "Size & Weight": [
+            {
+                "Dimensions (W x H x D)": "Approx. 410mm\u00d7880mm\u00d7439mm"
+            },
+            {
+                "Weight": "Approx 26.6 kg"
+            }
+        ],
+        "USB": [
+            {
+                "USB Type-C\u2122": "No"
+            },
+            {
+                "USB Power port for smartphone": "Yes"
+            }
+        ],
+        "What's In The Box": [
+            {
+                "SUPPLIED ACCESSORIES": "AC Power Cord"
+            }
+        ]
+    }
+}

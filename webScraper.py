@@ -1,5 +1,4 @@
 # for scraping features
-
 import time
 import json
 import os
@@ -12,7 +11,6 @@ from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
 
 driver = webdriver.Chrome()
-
 
 url = "https://electronics.sony.com/c/all-headphones"
 driver.get(url)

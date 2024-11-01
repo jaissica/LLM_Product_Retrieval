@@ -1,0 +1,54 @@
+{
+    "name": "MDR-Z7M2 Premium Hi-Res Headphones",
+    "link": "https://electronics.sony.com/audio/headphones/c/all-headphones/audio/headphones/headband/p/mdrz7m2",
+    "price": "$899.99",
+    "emi": "",
+    "about_us": [
+        "High-Resolution Audio compatible",
+        "2.76\" HD driver units with aluminum-coated liquid crystal polymer diaphragm",
+        "0.17\" balanced cables and silver-coated oxygen-free copper cables",
+        "Ergonomic earpads"
+    ],
+    "specification": {
+        "General Features": [
+            {
+                "Cord Length": "Headphone cable (Approx. 9.84 ft [3 m], silver-coated OFC strands, Gold-plated stereo mini plug) , Balanced-connection Headphone cable (Approx. 3.94 ft [1.2 m], silver-coated OFC strands, L-shaped gold-plated balanced standard plug)"
+            },
+            {
+                "Cord type": "Detachable Y-type"
+            },
+            {
+                "Diaphragm": "Aluminum-coated LCP diaphragm"
+            },
+            {
+                "Driver Unit": "2.76\", dome type (CCAW Voice Coil )"
+            },
+            {
+                "Frequency Response": "4 Hz\u2013100,000 Hz"
+            },
+            {
+                "Headphone Type": "Closed, dynamic (circumaural)"
+            },
+            {
+                "Impedance (Ohm)": "56 ohms at 1 kHz"
+            },
+            {
+                "Magnet": "Neodymium"
+            },
+            {
+                "Plug": "Headphone cable (Gold-plated stereo mini plug) , Balanced-connection headphone cable (L-shaped gold-plated balanced standard plug)"
+            },
+            {
+                "Sensitivities (dB/mW)": "98 dB/mW"
+            },
+            {
+                "Wearing Style": "Circumaural"
+            }
+        ],
+        "Size & Weight": [
+            {
+                "Weight": "12.0 oz"
+            }
+        ]
+    }
+}

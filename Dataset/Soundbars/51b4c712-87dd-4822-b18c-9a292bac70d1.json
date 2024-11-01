@@ -1,0 +1,117 @@
+{
+    "name": "HT-S40R 5.1ch Home Cinema Soundbar System",
+    "link": "https://electronics.sony.com/audio/soundbars/c/all-soundbars/audio/soundbars/all-soundbars/p/hts40r",
+    "price": "$299.99",
+    "emi": "Starting  4 interest-free payments or as low as $25/mo with Affirm.   /mo",
+    "about_us": [
+        "Get the best seat in the house with 5.1ch real surround sound.",
+        "Enjoy dramatic, high quality surround sound with Dolby\u00ae Digital.",
+        "Rear Speakers deliver powerful surround sound to complete your home cinema experience.",
+        "Set up in seconds with color coded connections and easy connections.",
+        "Enjoy all your favorite songs wirelessly through Bluetooth and NFC technology",
+        "Connect to compatible TVs with a single HDMI ARC cable",
+        "Change your settings and playback from your phone with the Sony | Music Center app."
+    ],
+    "specification": {
+        "Audio Formats": [
+            {
+                "Bluetooth\u00ae (Receiver)": "SBC"
+            },
+            {
+                "HDMI input": "Dolby Digital, LPCM 2ch, Dolby Dual mono"
+            },
+            {
+                "Optical Input": "Dolby Digital, LPCM 2ch"
+            },
+            {
+                "USB": "WAV, MP3, WMA"
+            },
+            {
+                "Dolby Atmos / DTS:X": "No"
+            },
+            {
+                "360 Reality Audio": "No"
+            },
+            {
+                "Hi-Res Audio": "No"
+            }
+        ],
+        "HDMI": [
+            {
+                "HDMI CEC": "Yes"
+            },
+            {
+                "Number of Input/Output": "Input/Output: 0/1 (ARC)"
+            },
+            {
+                "4K/120": "No"
+            }
+        ],
+        "Interface": [
+            {
+                "Input and Output Terminals": "Analog audio input (stereo mini), USB type A, FAT32 / NTFS, Optical-audio input"
+            },
+            {
+                "Wi-Fi\u00ae Connectivity": "No"
+            },
+            {
+                "Bluetooth\u00ae version": "version 5.0"
+            }
+        ],
+        "Sound Function": [
+            {
+                "Sound Effect": "Night Mode, Voice Mode"
+            },
+            {
+                "Sound Mode": "Auto Sound, Cinema, Music"
+            },
+            {
+                "Sound Field Optimization": "No"
+            }
+        ],
+        "Subwoofer": [
+            {
+                "Subwoofer Type": "Wired"
+            }
+        ],
+        "Amplifier": [
+            {
+                "Amplifier Type": "Digital Amplifier, S-Master"
+            },
+            {
+                "Amplifier Channels": "5.1ch"
+            }
+        ],
+        "Details": [
+            {
+                "Power Consumption": "SW 55\u00a0W / SUR 20\u00a0W"
+            },
+            {
+                "Power consumption(on Remote Start mode)": "SW 2\u00a0W / SUR 0.5\u00a0W"
+            },
+            {
+                "Power consumption(on QuickStart mode)": "SW 0.5\u00a0W / SUR 0.5\u00a0W"
+            }
+        ],
+        "Size & Weight": [
+            {
+                "MAIN UNIT SIZE \u2013 BODY ONLY (W X H X D)": "35.5 x 2.13 x 3\""
+            },
+            {
+                "MAIN UNIT WEIGHT \u2013 BODY ONLY": "4 lb 7 oz"
+            },
+            {
+                "SUBWOOFER WEIGHT": "17.20 lb"
+            },
+            {
+                "AMP BOX (OZ)": "1 lb 13 oz"
+            },
+            {
+                "AMP BOX (W x H x D) (INCH)": "6.38 x 2.13 x 6.38\""
+            },
+            {
+                "Rear speaker size (W X H X D) (MM)": "3.38 x 7.13 x 3\""
+            }
+        ]
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "name": "XG500 MEGA BASS\u2122 Portable Bluetooth\u00ae Wireless Speaker",
+    "link": "https://electronics.sony.com/audio/speakers/c/all-speakers/audio/speakers/wireless-speakers/p/srsxg500",
+    "price": "$499.99",
+    "emi": "",
+    "about_us": [
+        "X-Balanced Speakers for powerful bass and crisp sound",
+        "IP66 water resistant and dustproof design2",
+        "Up to 30-hour battery life with quick charging1",
+        "Lightweight design with carry handle for easy portability",
+        "Unleash your inner pop star with mic/guitar rear input",
+        "Connect and stream music easily with Bluetooth\u00ae3",
+        "Subtle LED ring lighting for ambiance",
+        "Charge your device and play your tracks via the USB port",
+        "Fiestable App enhances the party4",
+        "Personalize the sound using the Music Center App4",
+        "Add to the fun with up to 100 speakers via Party Connect4"
+    ],
+    "specification": {
+        "Sound": [
+            {
+                "Speaker Size": "Diameter of Speaker Unit(Tweeter) 2.5cm x 2, Diameter of Speaker Unit(woofer) 11cm x 2"
+            },
+            {
+                "Sound Modes": "Clear Audio+, DSEE, LIVE SOUND"
+            },
+            {
+                "LIVE SOUND": "Yes"
+            },
+            {
+                "360 Reality Audio": "No"
+            },
+            {
+                "Line-Shape Diffuser": "No"
+            },
+            {
+                "X-Balanced Speaker Unit": "Yes"
+            },
+            {
+                "Passive Radiator": "Yes"
+            },
+            {
+                "Mega Bass": "Yes"
+            }
+        ],
+        "Size & Weight": [
+            {
+                "Dimensions (W x H x D)": "460x256x215 mm"
+            },
+            {
+                "Weight": "5.6kg"
+            }
+        ],
+        "Interface": [
+            {
+                "Input and Output Terminals": "Stereo Mini Jack(IN), USB A, Mic Input, Guitar Input"
+            }
+        ],
+        "General Features": [
+            {
+                "Battery Life": "30 HOURS"
+            },
+            {
+                "Water Protection": "IP66"
+            },
+            {
+                "Power Supply": "Internal rechargeable"
+            },
+            {
+                "Lighting": "Yes"
+            },
+            {
+                "Portability": "Yes"
+            },
+            {
+                "Echo Canceling": "No"
+            },
+            {
+                "Quick Charge": "Yes"
+            },
+            {
+                "Stereo Mini Jack(IN)": "Yes"
+            }
+        ],
+        "USB": [
+            {
+                "USB Type-C\u2122": "No"
+            },
+            {
+                "USB Power port for smartphone": "Yes"
+            }
+        ],
+        "What's In The Box": [
+            {
+                "AC power adaptor": "AC Power Cord"
+            }
+        ],
+        "Application": [
+            {
+                "Party Chain": "Yes"
+            }
+        ],
+        "Bluetooth": [
+            {
+                "Bluetooth\u00ae Codecs Support": "SBC, AAC, LDAC"
+            }
+        ]
+    }
+}

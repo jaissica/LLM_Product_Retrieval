@@ -1,0 +1,138 @@
+{
+    "name": "XG300 MEGA BASS\u2122 Portable Bluetooth\u00ae Wireless Speaker",
+    "link": "https://electronics.sony.com/audio/speakers/c/all-speakers/audio/speakers/wireless-speakers/p/srsxg300-bz",
+    "price": "$199.99",
+    "emi": "Starting  4 interest-free payments or as low as $17/mo with Affirm.   /mo",
+    "about_us": [
+        "Super-light, portable design includes a retractable handle",
+        "IP67 rated for water and dust resistance2",
+        "X-Balanced speakers provide power, clarity, and distortion-free sound",
+        "Up to 25 hours of playing time, plus quick charging1",
+        "Personalized sound control via the Sony | Music Center app3",
+        "Customizable ambient LED lighting",
+        "Charge your device via the USB port4",
+        "Stream wirelessly via BLUETOOTH\u00ae or via wired 3.5 mm jack3,5",
+        "Microphone w/ echo cancelling technology",
+        "The Fiestable app enhances the mood with cool effects3",
+        "Add to the fun with up to 100 compatible X-series speakers via Party Connect App3,7"
+    ],
+    "specification": {
+        "Sound": [
+            {
+                "Speaker type": "Woofer(L/R)/Tweeter(L/R)"
+            },
+            {
+                "Speaker Size": "Approx.61mm\u00d768mm"
+            },
+            {
+                "Sound Modes": "Yes"
+            },
+            {
+                "LIVE SOUND": "Yes"
+            },
+            {
+                "360 Reality Audio": "No"
+            },
+            {
+                "Line-Shape Diffuser": "No"
+            },
+            {
+                "X-Balanced Speaker Unit": "Yes"
+            },
+            {
+                "Passive Radiator": "Yes"
+            },
+            {
+                "Mega Bass": "Yes"
+            }
+        ],
+        "Bluetooth": [
+            {
+                "Communication System": "Version 5.2"
+            },
+            {
+                "FREQUENCY RANGE": "2.4GHz"
+            },
+            {
+                "Compatible Profiles": "Yes"
+            },
+            {
+                "Frequency Transmission Range": "20 Hz - 20,000 Hz(44.1 kHz sampling)"
+            },
+            {
+                "Bluetooth\u00ae Codecs Support": "SBC, AAC, LDAC"
+            }
+        ],
+        "Interface": [
+            {
+                "Input and Output Terminals": "Yes(Only for DC OUT)"
+            }
+        ],
+        "General Features": [
+            {
+                "Power Consumption": "Approx. 17W"
+            },
+            {
+                "Battery Life": "approx.25H"
+            },
+            {
+                "Water Protection": "IP67"
+            },
+            {
+                "Power Supply": "DC+AC Adaptor"
+            },
+            {
+                "Lighting": "Yes"
+            },
+            {
+                "Portability": "Yes"
+            },
+            {
+                "Echo Canceling": "Yes"
+            },
+            {
+                "Quick Charge": "Yes"
+            },
+            {
+                "Stereo Mini Jack(IN)": "Yes"
+            },
+            {
+                "Built-in microphone (Hands Free Calling)": "Yes"
+            }
+        ],
+        "Eco and energy saving": [
+            {
+                "Power Consumption (Standby Mode)": "Approx. 0.3W"
+            }
+        ],
+        "Application": [
+            {
+                "COMPATIBLE SMARTPHONE APPS": "Sony Music Center/Fiestable"
+            },
+            {
+                "Party Chain": "Yes"
+            }
+        ],
+        "Size & Weight": [
+            {
+                "Dimensions (W x H x D)": "Approx. 318mm\u00d7138mm\u00d7136mm"
+            },
+            {
+                "Weight": "Approx. 3 kg"
+            }
+        ],
+        "What's In The Box": [
+            {
+                "What's In The Box": "Yes"
+            }
+        ],
+        "USB": [
+            {
+                "USB Type-C\u2122": "Yes"
+            },
+            {
+                "USB Power port for smartphone": "Yes"
+            }
+        ]
+    }
+}

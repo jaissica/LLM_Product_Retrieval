@@ -1,0 +1,256 @@
+{
+    "name": "INZONE Buds Truly Wireless Noise Canceling Gaming Earbuds | Black",
+    "link": "https://electronics.sony.com/audio/headphones/c/all-headphones/audio/gaming-audio/all-inzone-headsets/p/wfg700n-b",
+    "price": "$179.99",
+    "emi": "Starting  4 interest-free payments or as low as $15/mo with Affirm.   /mo",
+    "about_us": [
+        "Active noise canceling and personalized spatial sound helps you stay on top.",
+        "Industry's longest battery life with up to 12 hrs for Gaming & Chat with 2.4GHz low latency connection (24 hrs with charging case)1",
+        "Reduced ear contact for increased comfort",
+        "The AI-assisted microphone helps you be heard in action",
+        "Enhance precision with low latency",
+        "Designed in collaboration with professional gamers to help you get the edge over your rivals.",
+        "Access useful controls with a tap of your finger.",
+        "Personalize your experience through the INZONE Hub software2",
+        "Smartphone device must be compatible with LE Audio or USB-C\u00ae Connection. LE Audio connection is currently not compatible with iPhone and iPad."
+    ],
+    "specification": {
+        "Battery Info (Carging Case)": [
+            {
+                "(Battery1) Battery Cell Type": "Square"
+            },
+            {
+                "(Battery1) Chemical Composition": "Li-ion"
+            },
+            {
+                "(Battery1) Number of Batteries (X)": "1"
+            },
+            {
+                "(Battery1) Battery Weight (g) (XX.Xg)": "Approx. 8.4 g"
+            },
+            {
+                "(Battery1) Number of Lithium Ion Cells (X)": "1"
+            },
+            {
+                "(Battery1) How is the lithium battery packaged (X)": "Laminate"
+            },
+            {
+                "(Battery1) Energy Content (Wh) (XXXWh)": "1.7 Wh"
+            },
+            {
+                "(Battery1) Battery Voltage (V) (XV)": "3.85 V"
+            },
+            {
+                "(Battery1) Discharge Capacity (mAh) (XXXmAh)": "450 mAh"
+            }
+        ],
+        "Battery Info (headphones)": [
+            {
+                "(Battery1) Battery Cell Type": "Coin"
+            },
+            {
+                "(Battery1) Chemical Composition": "Li-ion"
+            },
+            {
+                "(Battery1) Number of Batteries (X)": "2"
+            },
+            {
+                "(Battery1) Battery Weight (g) (XX.Xg)": "Approx. 1.8 g x2"
+            },
+            {
+                "(Battery1) Number of Lithium Ion Cells (X)": "1"
+            },
+            {
+                "(Battery1) How is the lithium battery packaged": "CAN"
+            },
+            {
+                "(Battery1) Energy Content (Wh) (X.XXXWh)": "0.36 Wh x2"
+            },
+            {
+                "(Battery1) Battery Voltage (V) (X.XV)": "3.85 V"
+            },
+            {
+                "(Battery1) Discharge Capacity (mAh) (X.XXXmAh)": "90.5 mAh x2"
+            }
+        ],
+        "Bluetooth": [
+            {
+                "Bluetooth\u00ae Technology": "Version5.3"
+            },
+            {
+                "Power Output": "class1.5"
+            },
+            {
+                "Effective Range": "Line of sight approx.30ft (10m)"
+            },
+            {
+                "FREQUENCY RANGE": "2.4GHz band(2.4000GHz-2.4835GHz)"
+            },
+            {
+                "LE AUDIO": "Yes"
+            },
+            {
+                "LE AUDIO PROFILE": "TMAP, CSIP, MCP, VCP, CCP"
+            },
+            {
+                "LE AUDIO SUPPORTED AUDIO FORMAT(S)": "LC3"
+            }
+        ],
+        "General": [
+            {
+                "Country of Origin": "Vietnam"
+            }
+        ],
+        "General Features (Active Headphones)": [
+            {
+                "Battery Charge Time (Buds)": "Approx. 2.0 hrs"
+            },
+            {
+                "Battery Charge Time (Charging Case)": "Approx. 3.0 hrs (USB charging)"
+            },
+            {
+                "Quick Charging (10min charge/more than 60min playback time)": "Yes"
+            },
+            {
+                "Playback time (Quick Charging)": "5 min charge, play uo to approx. 1 hr"
+            },
+            {
+                "Battery Charge Method": "USB Charging (with case)"
+            },
+            {
+                "Battery Life (continuous music playback time)": "USB transciever connection:\nMax.12hours (NC OFF) /\nMax.11hours (NC ON)\n\nBluetooth (LE Audio) connection:\nMax.24hours (NC OFF) /\nMax.18hours (NC ON)"
+            },
+            {
+                "Battery Life (continuous music playback time) (Buds+Case)": "USB transciever connection:\nMax.24hours (NC OFF)\n\nBluetooth (LE Audio) connection:\nMax.48hours (NC OFF)"
+            },
+            {
+                "BATTERY LIFE (CONTINUOUS COMMUNICATION TIME)": "USB transciever connection:\nMax.12hours (NC OFF) /\nMax.11hours (NC ON)\n\nBluetooth (LE Audio) connection:\nMax.11hours (NC OFF) /\nMax.10hours (NC ON)"
+            }
+        ],
+        "General Features (Headphone)": [
+            {
+                "Headphone Type": "Closed, dynamic"
+            },
+            {
+                "Driver Unit": "8.4mm"
+            },
+            {
+                "Weights (Approx.) *excl.cable erights": "Approx. 6.5g*2"
+            },
+            {
+                "Weights (Approx. oz) *excl.cable erights": "Approx. 0.23oz*2"
+            },
+            {
+                "Wireless Connection method": "2.4GHz"
+            },
+            {
+                "Waterproof": "IPX4 equivalent"
+            }
+        ],
+        "General Features (Microphone)": [
+            {
+                "MICROPHONE MUTE": "Touch"
+            }
+        ],
+        "Noise Canceling": [
+            {
+                "Ambient Sound Mode - Normal": "Yes"
+            },
+            {
+                "Ambient Sound Mode - Voice": "Yes"
+            },
+            {
+                "Quick Attention": "Yes"
+            },
+            {
+                "dual NC": "Yes"
+            },
+            {
+                "Digital Noise Cancelling": "Yes"
+            },
+            {
+                "Seamless control between NC/ASM": "Yes"
+            }
+        ],
+        "Package": [
+            {
+                "Serial Nr": "Yes"
+            },
+            {
+                "Sub Master Carton Qty": "5"
+            },
+            {
+                "Sub Master Carton Length (cm)": "24.3"
+            },
+            {
+                "Sub Master Carton Width (cm)": "9.5"
+            },
+            {
+                "Sub Master Carton Height (cm)": "13.2"
+            },
+            {
+                "Master Carton Qty": "10"
+            },
+            {
+                "Master Carton Length (cm)": "25.5"
+            },
+            {
+                "Master Carton Width (cm)": "19.9"
+            },
+            {
+                "Master Carton Weight (kg)": "1.93"
+            },
+            {
+                "Sub Master Carton Weight (kg)": "0.87"
+            },
+            {
+                "Packaging Language": "EN/FR(CF)/ES(LA)"
+            },
+            {
+                "Individual Package Dimension (Length) cm": "8.7"
+            },
+            {
+                "Individual Package Dimension (Width) cm": "4.6"
+            },
+            {
+                "Individual Package Dimension (Height) cm": "14.1"
+            },
+            {
+                "Individual Package Weight (kg)": "0.16"
+            },
+            {
+                "Master Carton Height (cm)": "15.4"
+            }
+        ],
+        "Supplied Accessories": [
+            {
+                "Hybrid silicone rubber earbuds": "Yes"
+            },
+            {
+                "Warranty card": "Yes"
+            },
+            {
+                "Charging Case": "Yes"
+            },
+            {
+                "USB Cable": "Yes"
+            },
+            {
+                "Reference Guide": "Yes"
+            },
+            {
+                "USB transceiver": "Yes"
+            }
+        ],
+        "Application": [
+            {
+                "360 SPATIAL SOUND FOR GAMING": "Yes"
+            }
+        ],
+        "General Features": [
+            {
+                "Lithium Battery": "Yes"
+            }
+        ]
+    }
+}

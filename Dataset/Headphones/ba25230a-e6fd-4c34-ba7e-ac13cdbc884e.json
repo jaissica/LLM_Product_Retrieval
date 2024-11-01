@@ -1,0 +1,130 @@
+{
+    "name": "WH-1000XM5 Wireless Industry Leading Noise Canceling Headphones | Black",
+    "link": "https://electronics.sony.com/audio/headphones/c/all-headphones/audio/headphones/headband/p/wh1000xm5-b",
+    "price": "$349.99",
+    "emi": "4 payments at 0% APR or  starting 4 interest-free payments or as low as $30/mo with Affirm.   /mo",
+    "about_us": [
+        "Industry-leading noise cancellation optimized to you1",
+        "Magnificent Sound, engineered to perfection",
+        "Crystal clear hands-free calling",
+        "Up to 30-hour battery life with quick charging (3 min charge for 3 hours of playback)2",
+        "Ultra-comfortable, lightweight design with soft fit leather",
+        "Multipoint connection allows you to quickly switch between devices",
+        "Redesigned collapsible case made for easy storage in a bag",
+        "WH-1000XM5 headphones feature intuitive touch control settings",
+        "For everyday convenience, just Speak-to-Chat and Quick Attention mode stop your music and let in ambient sound",
+        "Instant pause. Instant play.",
+        "Quick Access feature allows you to configure your wireless headphones to Spotify, Amazon or Endel without using your phone,5,10 with just 2-3 taps."
+    ],
+    "specification": {
+        "Battery": [
+            {
+                "BATTERY LIFE (CONTINUOUS COMMUNICATION TIME)": "Max. 24 hrs (NC ON) , Max. 32 hrs (NC OFF)"
+            },
+            {
+                "Battery Charge Method": "USB"
+            },
+            {
+                "Battery Charge Time": "Approx. 3.5 hrs"
+            },
+            {
+                "Battery Life (continuous music playback time)": "Max. 30 hrs (NC ON), Max. 40 hrs (NC OFF)"
+            },
+            {
+                "Lithium Battery": "Yes"
+            }
+        ],
+        "Bluetooth\u00ae Specification": [
+            {
+                "Bluetooth\u00ae version": "Bluetooth Specification Version 5.2"
+            },
+            {
+                "Effective Range": "32.81 ft"
+            },
+            {
+                "FREQUENCY RANGE": "2.4 GHz band (2.4000\u20132.4835 GHz)"
+            },
+            {
+                "Profile": "A2DP, AVRCP, HFP, HSP"
+            },
+            {
+                "Supported Audio Format(s)": "SBC, AAC, LDAC"
+            },
+            {
+                "Supported Content Protection": "SCMS-T"
+            }
+        ],
+        "General Features": [
+            {
+                "Cord Length": "approx. 3.94 ft"
+            },
+            {
+                "Cord type": "Single-sided (detachable)"
+            },
+            {
+                "Driver Unit": "1.18 inches / 30mm"
+            },
+            {
+                "Frequency Response": "4 Hz\u201340,000 Hz (JEITA)"
+            },
+            {
+                "Frequency Response (Active Operation)": "4 Hz\u201340,000 Hz"
+            },
+            {
+                "Frequency Response (Bluetooth\u00ae Communication)": "20 Hz\u201320,000 Hz (44.1 kHz Sampling) 20 Hz\u201340,000 Hz (LDAC 96 kHz Sampling 990 kbps)"
+            },
+            {
+                "Headphone Type": "Closed, dynamic"
+            },
+            {
+                "Impedance (Ohm)": "48 ohm (1 kHz) (when connecting via the headphone cable with the unit turned on), 16 ohm (1 kHz) (when connecting via the headphone cable with the unit turned off)"
+            },
+            {
+                "Input(s)": "Stereo Mini Jack"
+            },
+            {
+                "Magnet": "Neodymium"
+            },
+            {
+                "Passive Operation": "Yes"
+            },
+            {
+                "Plug": "Gold-plated L-shaped stereo mini plug"
+            },
+            {
+                "Sensitivities (dB/mW)": "102 dB (1 kHz) / mW (when connecting via the headphone cable with the unit turned on), 100 dB (1 kHz) / mW (when connecting via the headphone cable with the unit turned off)"
+            },
+            {
+                "Volume Control": "Touch Sensor"
+            },
+            {
+                "Wearing Style": "Over Ear"
+            },
+            {
+                "DSEE Extreme": "Yes"
+            },
+            {
+                "Ambient Sound Mode": "Yes"
+            }
+        ],
+        "Noise Canceling": [
+            {
+                "Ambient Sound Mode": "Yes"
+            },
+            {
+                "Atmospheric Pressure Optimizing": "Yes"
+            },
+            {
+                "Personal NC Optimizer": "Auto NC Optimizer"
+            },
+            {
+                "Quick Attention": "Yes"
+            }
+        ],
+        "Size & Weight": [
+            {
+                "Weight": "Approx. 8.82 oz"
+            }
+        ]
+    }
+}

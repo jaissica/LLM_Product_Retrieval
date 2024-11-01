@@ -1,0 +1,49 @@
+{
+    "name": "MDR-ZX110NC Noise Canceling On-ear Headphones | Black",
+    "link": "https://electronics.sony.com/audio/headphones/c/all-headphones/audio/headphones/headband/p/mdrzx110nc",
+    "price": "$49.99",
+    "emi": "EMI info not found",
+    "about_us": [
+        "Integrated noise canceling technology",
+        "80 hours of battery life",
+        "Lightweight for ultimate music mobility",
+        "Dynamic 1.18 in drivers",
+        "Y-shaped cord type, 3.94 ft length"
+    ],
+    "specification": {
+        "General Features": [
+            {
+                "Cord Length": "3.94 ft"
+            },
+            {
+                "Diaphragm": "PET"
+            },
+            {
+                "Driver Unit": "1.18\u00a0in dynamic \u2013 Dome type"
+            },
+            {
+                "Frequency Response": "10\u201322,000 Hz"
+            },
+            {
+                "Impedance (Ohm)": "Power ON 220 ohm, OFF 45 ohm (at 1\u00a0kHz)"
+            },
+            {
+                "Magnet": "Neodymium"
+            },
+            {
+                "Plug": "L-shaped gold-plated stereo mini"
+            },
+            {
+                "Sensitivities (dB/mW)": "115 dB/mW \u2013 Power on\n110 dB/mW \u2013 Power off"
+            },
+            {
+                "Wearing Style": "On-ear\nHeadband"
+            }
+        ],
+        "Size & Weight": [
+            {
+                "Weight": "5.29\u00a0oz (including battery and excluding cable)"
+            }
+        ]
+    }
+}

@@ -1,0 +1,303 @@
+{
+    "name": "WH-1000XM4 Wireless Premium Noise Canceling Headphones | Blue",
+    "link": "https://electronics.sony.com/audio/headphones/c/all-headphones/audio/headphones/headband/p/wh1000xm4-l",
+    "price": "$299.99",
+    "emi": "Starting  4 interest-free payments or as low as $25/mo with Affirm.   /mo",
+    "about_us": [
+        "Industry-leading noise canceling1 with Dual Noise Sensor technology",
+        "Next-level music with Edge-AI, co-developed with Sony Music Studios Tokyo",
+        "Up to 30-hour battery life with quick charging (10 min charge for 5 hours of playback) 2",
+        "Touch Sensor controls to pause/play/skip tracks, control volume, activate your voice assistant4, and answer phone calls",
+        "Speak-to-chat technology automatically reduces volume during conversations",
+        "Superior call quality with precise voice pickup",
+        "Wearing detection pauses playback when headphones are removed",
+        "Seamless multiple-device pairing6",
+        "Adaptive Sound Control provides a personalized listening experience",
+        "Updated design relieves pressure for long-lasting comfort"
+    ],
+    "specification": {
+        "App Function": [
+            {
+                "Adaptive Sound Control": "Yes"
+            },
+            {
+                "App compatible": "Yes"
+            },
+            {
+                "Playback Controller": "Yes"
+            },
+            {
+                "Product Tutorial": "Yes"
+            },
+            {
+                "Battery level indication\uff08icon with %\uff09": "Yes"
+            }
+        ],
+        "Battery": [
+            {
+                "Battery Charge Method": "USB"
+            },
+            {
+                "Battery Charge Time": "-"
+            },
+            {
+                "Battery Life (Waiting Time)": "Max. 30 hours (NC ON), Max. 200 hours (NC OFF)"
+            },
+            {
+                "BATTERY LIFE (CONTINUOUS MUSIC PLAYBACK TIME WITH INTERNAL MEMORY)": "Max. 30 hours (NC ON), Max. 38 hours (NC OFF)"
+            }
+        ],
+        "Bluetooth Codec": [
+            {
+                "AAC": "Yes"
+            },
+            {
+                "LDAC": "Yes"
+            },
+            {
+                "SBC": "Yes"
+            }
+        ],
+        "Bluetooth\u00ae Specification": [
+            {
+                "Bluetooth\u00ae version": "Version 5.0"
+            },
+            {
+                "Effective Range": "Line of sight approx. 30 ft (10 m)"
+            },
+            {
+                "FREQUENCY RANGE": "2.4 GHz band (2.4000\u20132.4835 GHz)"
+            },
+            {
+                "Profile": "A2DP, AVRCP, HFP, HSP"
+            },
+            {
+                "Supported Audio Format(s)": "SBC, AAC, LDAC"
+            },
+            {
+                "Supported Content Protection": "SCMS-T"
+            }
+        ],
+        "General Features": [
+            {
+                "Cord Length": "Headphone cable (approx. 3.94 ft, OFC strands, gold-plated stereo mini plug)"
+            },
+            {
+                "Cord type": "Single-sided (detachable)"
+            },
+            {
+                "Diaphragm": "Aluminum coated LCP"
+            },
+            {
+                "Driver Unit": "1.57 \", dome type (CCAW Voice coil)"
+            },
+            {
+                "Frequency Response": "4 Hz-40,000 Hz"
+            },
+            {
+                "Frequency Response (Active Operation)": "4 Hz-40,000 Hz"
+            },
+            {
+                "Frequency Response (Bluetooth\u00ae Communication)": "-"
+            },
+            {
+                "Headphone Type": "Closed, dynamic"
+            },
+            {
+                "Magnet": "Neodymium"
+            },
+            {
+                "NFC": "Yes"
+            },
+            {
+                "Passive Operation": "Yes"
+            },
+            {
+                "Plug": "Gold-plated L-shaped stereo mini plug"
+            },
+            {
+                "Sensitivities (dB/mW)": "105 dB / mW (1 kHz) (when connecting via the headphone cable with the unit turned on), 101 dB / mW (1 kHz) (when connecting via the headphone cable with the unit turned off)"
+            },
+            {
+                "Wearing Style": "Circumaural"
+            },
+            {
+                "Waterproof": "-"
+            },
+            {
+                "DSEE Extreme": "Yes"
+            }
+        ],
+        "Hands-free Calling": [
+            {
+                "Echo Cancellation": "Yes"
+            },
+            {
+                "HD Voice": "Yes"
+            },
+            {
+                "Hands-free Calling": "Yes"
+            },
+            {
+                "Noise Suppression": "Yes"
+            },
+            {
+                "Side-tone": "Yes"
+            }
+        ],
+        "Mechanical": [
+            {
+                "Weight": "254g"
+            },
+            {
+                "Foldable Function": "Yes"
+            }
+        ],
+        "Noise Canceling": [
+            {
+                "Ambient Sound Control (20 steps)": "Yes"
+            },
+            {
+                "Ambient Sound Mode": "Yes"
+            },
+            {
+                "Ambient Sound Mode - Normal": "Yes"
+            },
+            {
+                "Ambient Sound Mode - Voice": "Yes"
+            },
+            {
+                "Atmospheric Pressure Optimizing": "Yes"
+            },
+            {
+                "Digital Noise Canceling": "Industry Leading Noise Canceling"
+            },
+            {
+                "Dual Noise Sensor Technology": "Yes"
+            },
+            {
+                "Noise Canceling ON/OFF Switch": "Yes"
+            },
+            {
+                "Quick Attention": "Yes"
+            },
+            {
+                "Speak-to-Chat": "Yes"
+            },
+            {
+                "Wind Noise Reduction": "Yes"
+            },
+            {
+                "Personal Noise Canceling Optimizer": "Yes"
+            }
+        ],
+        "Other Specification": [
+            {
+                "Music playback time (BTNC & w/o sound effect)": "30h (AAC)"
+            },
+            {
+                "Standby time (NC OFF)": "200h"
+            },
+            {
+                "[Headphone main unit] Quick Charging or Short-time charging time": "10min. Charge -> 5 hours play"
+            },
+            {
+                "Supplied Accessory": "USB Type-C Cable (20cm)\nAudio Cable (Color Variation / 1.2m)\nCarrying Case (Color Variation)\nIn-flight Adapter"
+            }
+        ],
+        "Portable Headphone Amplifier": [
+            {
+                "Volume Control": "Touch Sensor"
+            }
+        ],
+        "Processor/Transmitter": [
+            {
+                "Input(s)": "Stereo Mini Jack"
+            }
+        ],
+        "Sound": [
+            {
+                "360 Reality Audio compatible": "Yes"
+            },
+            {
+                "DSEE Extreme": "Yes"
+            },
+            {
+                "Frequency Response": "4Hz-40,000Hz"
+            },
+            {
+                "Hi-Res Compatible": "Yes"
+            },
+            {
+                "Driver Unit": "40mm HD Driver Unit"
+            },
+            {
+                "EQ (5 Band + CLEAR BASS) compatible with Hi-Res quality": "Yes"
+            },
+            {
+                "EQ Preset": "Yes"
+            },
+            {
+                "User Custom EQ": "Yes"
+            }
+        ],
+        "UI": [
+            {
+                "Disable Touch Sensor Control": "Yes"
+            },
+            {
+                "Disable Voice Guidance via APP": "Yes"
+            },
+            {
+                "H/W Buttons": "Power, Custom"
+            },
+            {
+                "Touch Sensor Control Panel": "Yes"
+            }
+        ],
+        "Others": [
+            {
+                "Amazon Alexa (BTVA)": "Yes"
+            },
+            {
+                "Battery remaining amount detection \uff0810 steps\uff09": "Yes"
+            },
+            {
+                "Battery remaining indication": "Yes"
+            },
+            {
+                "Customize Auto Power Off Setting via APP": "Yes"
+            },
+            {
+                "Easy pairing via HPC app": "Yes"
+            },
+            {
+                "Enable / disable Auto Power Off by wearing detection": "Yes"
+            },
+            {
+                "Google Assistant (BTVA)": "Yes"
+            },
+            {
+                "Multi Device Connection": "Yes"
+            },
+            {
+                "NFC": "Yes"
+            },
+            {
+                "Play/Pause control by wearing detection": "Yes"
+            },
+            {
+                "USB type-C compatible": "Yes"
+            },
+            {
+                "Voice Assist Function \uff08Siri/Google Assistant\uff09": "Yes"
+            },
+            {
+                "Wearing Detection": "Yes"
+            },
+            {
+                "Wired active operation": "Yes"
+            }
+        ]
+    }
+}

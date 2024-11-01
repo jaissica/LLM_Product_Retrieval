@@ -1,0 +1,60 @@
+{
+    "name": "HT-X8500 2.1ch Dolby Atmos\u00ae/DTS:X\u00ae Soundbar with built-in subwoofer",
+    "link": "https://electronics.sony.com/audio/soundbars/c/all-soundbars/audio/soundbars/all-soundbars/p/htx8500",
+    "price": "$299.99",
+    "emi": "Starting  4 interest-free payments or as low as $25/mo with Affirm.   /mo",
+    "about_us": [
+        "7.1.2ch Dolby Atmos/DTS:X with Vertical Sound Engine1",
+        "Dual built-in subwoofers for deep bass",
+        "All sound upscaled close to 7.1.2ch audio",
+        "Seven different sound modes to enhance your entertainment experience",
+        "Voice enhancement for greater clarity",
+        "Slim, low-profile design complements your TV",
+        "4K HDR passthrough-enabled to ensure a high-quality entertainment experience",
+        "One-cable HDMI eARC for simple, high-quality connection to your TV",
+        "Easily integrates with your AV system with HDMI and optical inputs",
+        "Wireless connectivity to your TV with Bluetooth\u00ae3",
+        "Stream all your favorite music directly from your smartphone or tablet via Bluetooth\u00ae3"
+    ],
+    "specification": {
+        "Weights and Measurements": [
+            {
+                "Dimensions (Approx.)": "Bar speaker: 35 1/8 \u00d72 5/8 \u00d7 3 7/8 in (890 x 64 x 96 mm)\nCarton: 949 x 160 x 170 mm (WxHxD)"
+            },
+            {
+                "Weight (Approx.)": "Bar speaker: 6 lb 13 2/5 oz (3.1 kg)\nGross weight: 5kg"
+            }
+        ],
+        "Interface": [
+            {
+                "Wi-Fi\u00ae Connectivity": "No"
+            }
+        ],
+        "Power": [
+            {
+                "Power Consumption (in Operation)": "32W"
+            }
+        ],
+        "HDMI": [
+            {
+                "4K/120": "No"
+            }
+        ],
+        "Audio Formats": [
+            {
+                "Dolby Atmos / DTS:X": "Yes"
+            },
+            {
+                "360 Reality Audio": "No"
+            },
+            {
+                "Hi-Res Audio": "No"
+            }
+        ],
+        "Sound Function": [
+            {
+                "Sound Field Optimization": "No"
+            }
+        ]
+    }
+}
