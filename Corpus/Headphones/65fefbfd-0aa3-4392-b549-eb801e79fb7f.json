@@ -1,0 +1,85 @@
+{
+    "65fefbfd-0aa3-4392-b549-eb801e79fb7f": {
+        "name": "MDR-M1 Professional Reference\u00a0Closed Monitor Headphones",
+        "link": "https://electronics.sony.com/audio/headphones/c/all-headphones/audio/professional-audio/professional-headphones/p/mdrm1",
+        "price": "$249.99",
+        "emi": "Starting   /mo",
+        "about_us": [
+            "Extreme light-weight design (Approx. 216g)",
+            "Beat response control for tight, powerful bass",
+            "Detachable cables, machined aluminum connectors",
+            "High sound isolation for precise open mic monitoring",
+            "Superior sound isolation, advanced ear pad insulation",
+            "Well-balanced frequency response range (5Hz \u2013 80 kHz)",
+            "Accurate sound localization for precise mic distance detection"
+        ],
+        "specification": {
+            "Size & Weight": [
+                {
+                    "Weight": "Approx. 216 g (without cable)"
+                }
+            ],
+            "General Features": [
+                {
+                    "Headphone Type": "Closed dynamic"
+                },
+                {
+                    "Driver Unit": "40 mm"
+                },
+                {
+                    "Magnet": "Neodymium"
+                },
+                {
+                    "Impedance (Ohm)": "50 (omega) at 1kHz"
+                },
+                {
+                    "Frequency Response": "5 Hz - 80,000 Hz (JEITA)"
+                },
+                {
+                    "Frequency Response (Active Operation)": "5 Hz - 80,000 Hz (JEITA)"
+                },
+                {
+                    "Sensitivities (dB/mW)": "102dB/mW"
+                },
+                {
+                    "Cord Length": "Approx. 1.2m/2.5m"
+                },
+                {
+                    "Plug": "Gold, Stereo Unimatch Plug 1/4\" and 1/8\""
+                },
+                {
+                    "Input(s)": "Stereo Standard plug/Stereo mini plug"
+                },
+                {
+                    "Wearing Style": "Over-ear"
+                }
+            ],
+            "What's In The Box": [
+                {
+                    "SUPPLIED ACCESSORIES": "Headphones cable (Approx. 1.2m/2.5m - Stereo mini plug)\nPlug adaptor (Stereo standard plug \u2194 Stero mini plug)\nReference Guide\nWarranty Card"
+                }
+            ]
+        },
+        "features": {
+            "Studio sound, unleashed": [
+                "Ultra-wideband playback and a closed acoustic structure with high sound isolation allows\u00a0for detailed and precise monitoring, for a wide range of audio production workflows."
+            ],
+            "Ultra-wideband playback": [
+                "The uniquely designed driver unit balances low distortion with reproduction of low frequencies to high frequencies for ultra-wideband playback and accurate reproduction from 5Hz\u201380kHz."
+            ],
+            "High-fidelity, faithful sound reproduction": [
+                "A closed acoustic structure with effective sound\u00a0isolation facilitates precise audio production in a variety of applications."
+            ],
+            "In collaboration with creators": [
+                "We collaborated with\u00a0renowned industry engineers to achieve a sound that accurately reproduces the creative intent."
+            ],
+            "For the long haul": [
+                "The soft, thick earpads are designed to provide a reassuring, comfortable fit throughout even the longest sessions."
+            ],
+            "Easy to maintain": [
+                "Designed for years of dependable use, supplied with two detachable cable lengths and easy to replace earpads.",
+                "The versatile screw-in plug adapter makes it easy to connect to devices with either a 6.3 mm or 3.5 mm stereo jack. The cable connection to the headphone uses a screw system, allowing for secure attachment and cable replacement."
+            ]
+        }
+    }
+}

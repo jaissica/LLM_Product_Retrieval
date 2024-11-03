@@ -1,0 +1,80 @@
+{
+    "2e67590f-4550-4d9f-a179-1e78005325d9": {
+        "name": "MDR-EX15AP Wired In-ear Headphones with Microphone | Black",
+        "link": "https://electronics.sony.com/audio/headphones/c/all-headphones/audio/headphones/in-ear/p/mdrex15ap-b",
+        "price": "$9.99",
+        "emi": "EMI info not found",
+        "about_us": [
+            "Comfortable, secure-fitting silicone earbuds",
+            "Lightweight for ultimate music mobility",
+            "Choice of colors to suit your style",
+            "0.35 in neodymium drivers for powerful, balanced sound",
+            "8\u00a0Hz\u201322\u00a0kHz frequency range"
+        ],
+        "specification": {
+            "General Features": [
+                {
+                    "CAPACITY": "100mW"
+                },
+                {
+                    "Closed Type": "Yes"
+                },
+                {
+                    "Cord Length": "3.94 ft"
+                },
+                {
+                    "Cord type": "Y-type"
+                },
+                {
+                    "Diaphragm": "PET"
+                },
+                {
+                    "Driver Unit": "0.35 in dynamic"
+                },
+                {
+                    "Dynamic Type": "Yes"
+                },
+                {
+                    "Frequency Response": "8\u201322,000 Hz"
+                },
+                {
+                    "Impedance (Ohm)": "16 ohm (1 kHz)"
+                },
+                {
+                    "Magnet": "Neodymium"
+                },
+                {
+                    "Plug": "Gold-plated L-shaped four-conductor stereo mini"
+                },
+                {
+                    "Sensitivities (dB/mW)": "100 dB/mW"
+                },
+                {
+                    "Wearing Style": "Closed earbuds"
+                }
+            ],
+            "Size & Weight": [
+                {
+                    "Weight": "0.11\u00a0oz"
+                }
+            ]
+        },
+        "features": {
+            "Smartphone playback control1": [
+                "Smartphone playback control1The integrated microphone and multi-function control1button make the MDR-EX15AP the perfect companion for your smartphone. Android\u2122users can also enjoy the convenient Smart Key app for added control functionality directly from your smartphone."
+            ],
+            "Comfortable fit": [
+                "Comfortable fitHybrid silicone earbuds provide long lasting comfort; small, medium and large earbuds are included to fine tune your fitment."
+            ],
+            "Great sound": [
+                "Great soundHigh quality 9 mm dome type driver units coupled with high-energy neodymium magnets produce great sounding treble and midrange with powerful bass response."
+            ],
+            "Tangle free cord": [
+                "Tangle free cordThe included Y-type cord with cord-slider prevents tangles on the go."
+            ],
+            "Fashionable and Colorful": [
+                "Fashionable and ColorfulAccent your style with 2-tone design and colors."
+            ]
+        }
+    }
+}

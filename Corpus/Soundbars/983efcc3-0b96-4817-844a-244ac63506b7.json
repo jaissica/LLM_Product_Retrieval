@@ -1,0 +1,140 @@
+{
+    "983efcc3-0b96-4817-844a-244ac63506b7": {
+        "name": "HT-S100F 2ch Built-in Tweeter Soundbar",
+        "link": "https://electronics.sony.com/audio/soundbars/c/all-soundbars/audio/soundbars/all-soundbars/p/hts100f",
+        "price": "$99.99",
+        "emi": "Starting   /mo",
+        "about_us": [
+            "Deep sound with Bass Reflex speaker",
+            "Compact, space saving design",
+            "Easy TV set up with HDMI ARC",
+            "High sound quality from S-Force Front Surround",
+            "Music playback with USB and Bluetooth\u00ae"
+        ],
+        "specification": {
+            "Audio Formats": [
+                {
+                    "Bluetooth\u00ae (Receiver)": "SBC"
+                },
+                {
+                    "HDMI input": "Dolby\u00ae Digital, Dolby\u00ae Dual mono, LPCM 2ch"
+                },
+                {
+                    "Optical Input": "Dolby\u00ae Digital, Dolby\u00ae Dual mono, LPCM 2ch"
+                },
+                {
+                    "USB": "WAV, MP3, WMA"
+                },
+                {
+                    "Dolby Atmos / DTS:X": "Yes"
+                },
+                {
+                    "360 Reality Audio": "No"
+                },
+                {
+                    "Hi-Res Audio": "No"
+                }
+            ],
+            "HDMI": [
+                {
+                    "BRAVIA Sync": "Yes"
+                },
+                {
+                    "HDMI CEC": "Yes"
+                },
+                {
+                    "Number of Input/Output": "0/1 (ARC)"
+                },
+                {
+                    "4K/120": "No"
+                }
+            ],
+            "Interface": [
+                {
+                    "Input and Output Terminals": "HDMI\u2122(ARC), Optical-audio input, USB type A"
+                },
+                {
+                    "Bluetooth\u00ae": "RX (receiver)"
+                },
+                {
+                    "NFC": "No"
+                },
+                {
+                    "Wi-Fi\u00ae Connectivity": "No"
+                },
+                {
+                    "Bluetooth\u00ae version": "version 4.2"
+                }
+            ],
+            "Sound Function": [
+                {
+                    "Sound Effect": "Night Mode, Voice Mode"
+                },
+                {
+                    "Sound Mode": "Auto Sound, Theater, Music, Standard"
+                },
+                {
+                    "Virtual Surround Technology": "S-Force"
+                },
+                {
+                    "Sound Field Optimization": "No"
+                }
+            ],
+            "Speaker Layout": [
+                {
+                    "Speaker Structure": "2.0ch"
+                },
+                {
+                    "bar speaker": "1"
+                }
+            ],
+            "Wireless Features": [
+                {
+                    "Wireless Multi-room": "No"
+                },
+                {
+                    "Wireless Surround": "No"
+                },
+                {
+                    "Wireless Surround (with optional wireless speakers)": "No"
+                }
+            ],
+            "Amplifier": [
+                {
+                    "Amplifier Type": "S-Master\u2122"
+                }
+            ],
+            "Details": [
+                {
+                    "Power Consumption": "30 W"
+                },
+                {
+                    "Power consumption(on Remote Start mode)": "0.5 W (Bluetooth\u00ae standby off/Control for HDMI\u2122 off)"
+                },
+                {
+                    "Wall-mountable": "Yes"
+                }
+            ],
+            "Size & Weight": [
+                {
+                    "MAIN UNIT SIZE \u2013 BODY ONLY (W X H X D)": "35-1/2\" x 2-1/2\" x 3-1/2\""
+                },
+                {
+                    "MAIN UNIT WEIGHT \u2013 BODY ONLY": "5.29\u00a0lb"
+                }
+            ]
+        },
+        "features": {
+            "All features": [
+                "HT-S100F 2.0 channel Single Sound bar with Integrated TweeterThe compact, space-conscious HT-S100F sound bar delivers enhanced sound quality, featuring a Bass Reflex speaker for deeper audio. This sound bar connects easily to a TV with HDMI ARC and brings high quality, room-filling sound with S-Force Pro Front Surround sound, with the ability to play your favorite music via USB or Bluetooth.",
+                "Perfectly designed for entertainmentEnjoy your favorite TV shows in enhanced sound quality delivered by this 2 channel sound bar with a Bass Reflex speaker. The HT-S100F\u2019s slim profile design fits easily in your home and sits comfortably within any interiors",
+                "Perfect pairing and simple connectivity with your TVConnecting to your TV has never been easier. With HDMI ARC, one cable gives an easy connection for all your TV audio. You can control both with just one remote.",
+                "Hear sound come from all aroundEmulates cinema style sound fields for rich, high-fidelity audio that fills the room.",
+                "2 channelsThe two speaker setup delivers front surround sound from a compact unit.",
+                "Bass Reflex speakerA speaker that delivers punchy bass without compromising detail and clarity.",
+                "Enjoy all your musicConnect via USB to play your favorite tunes or stream wirelessly over Bluetooth.",
+                "Wall MountableMount to the wall for seamless integration with your entertainment center."
+            ]
+        }
+    }
+}

@@ -1,0 +1,218 @@
+{
+    "ac46d871-cc4f-494d-8d99-ccdb88b99d5a": {
+        "name": "HT-A9 High Performance Home Theater System",
+        "link": "https://electronics.sony.com/audio/soundbars/c/all-soundbars/audio/soundbars/all-soundbars/p/hta9",
+        "price": "$1,499.99",
+        "emi": "4 payments at 0% APR or  starting  /mo",
+        "about_us": [
+            "360 Spatial Sound Mapping for a whole new surround experience with Dolby Atmos\u00ae and DTS:X\u00ae",
+            "Flexible layout with wireless connectivity",
+            "Hi-Res Audio capable X-Balanced speaker units",
+            "Immersive Audio Enhancement converts regular audio to near 7.1.4 Ch",
+            "Vivid visuals and fast paced game play with 8K2 and 4K/1203 passthrough",
+            "Stream your way with Bluetooth9, Wi-Fi, Chromecast built-in10, Spotify Connect, and Apple AirPlay 2",
+            "Customize your setup with two subwoofer choices",
+            "Pairs with BRAVIA4 for easy access to home theater system controls",
+            "Control content with your voice using Google Assistant5 and Amazon Alexa6",
+            "Premium audio made easy with onscreen user interface for sound adjustments"
+        ],
+        "specification": {
+            "Interface": [
+                {
+                    "Input and Output Terminals": "USB typeA(FW Update only), Ethernet, S-Center Out"
+                },
+                {
+                    "Wi-Fi\u00ae Connectivity": "Yes"
+                },
+                {
+                    "Bluetooth": "RX(receiver)/TX(transmitter)"
+                },
+                {
+                    "IEEE802.11 version": "IEEE 802.11 a/b/g/n/ac"
+                },
+                {
+                    "HDCP2.2": "Yes"
+                }
+            ],
+            "HDMI": [
+                {
+                    "Number of Input/Output": "1 / 1 (eARC/ARC)"
+                },
+                {
+                    "eARC": "Yes"
+                },
+                {
+                    "4K/60p/YUV4:4:4": "Yes"
+                },
+                {
+                    "HDR": "Yes"
+                },
+                {
+                    "Dolby Vision\u2122 Compatible": "Yes"
+                },
+                {
+                    "HLG (hybrid log gamma)": "Yes"
+                },
+                {
+                    "BRAVIA Sync": "Yes"
+                },
+                {
+                    "HDMI CEC": "Yes"
+                },
+                {
+                    "4K/120": "Yes"
+                }
+            ],
+            "Audio Formats": [
+                {
+                    "HDMI input": "Dolby Digital, Dolby Digital plus, Dolby TrueHD, Dolby Atmos, Dolby Dual mono, DTS, DTS HD High Resolution Audio, DTS HD Master Audio, DTS ES, DTS 96/24, DTS:X, LPCM"
+                },
+                {
+                    "HDMI eARC": "Dolby Digital, Dolby Digital plus, Dolby TrueHD, Dolby Atmos, Dolby Dual mono, DTS, DTS HD High Resolution Audio, DTS HD Master Audio, DTS ES, DTS 96/24, DTS:X, LPCM"
+                },
+                {
+                    "Bluetooth(Receiver)": "AAC, SBC, LDAC"
+                },
+                {
+                    "Bluetooth(Transmitter)": "SBC, LDAC"
+                },
+                {
+                    "Dolby Atmos / DTS:X": "Yes"
+                },
+                {
+                    "360 Reality Audio": "Yes"
+                },
+                {
+                    "Hi-Res Audio": "Yes"
+                }
+            ],
+            "Sound Function": [
+                {
+                    "Sound Mode": "Auto Sound, Cinema, Music"
+                },
+                {
+                    "Sound Effect": "Night Mode, Voice Mode, Immersive Audio Enhancement"
+                },
+                {
+                    "Virtual Surround Technology": "360 Spatial Sound Mapping, Dolby Surround, Nural:X"
+                },
+                {
+                    "Sound Field Optimization": "Yes"
+                }
+            ],
+            "Speaker Layout": [
+                {
+                    "Speaker Structure": "4.0.4ch"
+                }
+            ],
+            "Network Function": [
+                {
+                    "Network Function": "Chromecast built-in, Spotify Connect, Music Service Button, Google Home, Works with Google Assistant"
+                }
+            ],
+            "Features for PlayStation\u00ae5": [
+                {
+                    "Features for PlayStation\u00ae5": "AUTO TONE HDR MAPPING compatible (Pass-through)*\nAUTO GENRE PICTURE MODE compatible (Pass-through)*\n*Requires firmware update released Spring 2022"
+                }
+            ],
+            "Amplifier": [
+                {
+                    "Amplifier Type": "Digital Amplifier, S-Master HX"
+                },
+                {
+                    "Amplifier Channels": "12ch"
+                },
+                {
+                    "Power Output (Total)": "504W"
+                }
+            ],
+            "Details": [
+                {
+                    "Power Consumption": "Control Box 15W / Speaker 22W"
+                }
+            ]
+        },
+        "features": {
+            "All features": [
+                "Designed with the environment in mind",
+                "Sony is committed not only to offering products, services and content that deliver exciting experiences but also to working towards our goal of a zero environmental footprint throughout our business activities.",
+                "300W14 of deep, rich bass from a 180mm driver with passive radiator.",
+                "200W14 of sound from a compact bass reflex subwoofer with a 160mm driver.",
+                "300W14 of deep, rich bass from a 180mm driver with passive radiator.",
+                "200W14 of sound from a compact bass reflex subwoofer with a 160mm driver."
+            ],
+            "A new frontier of surround sound": [
+                "Immerse yourself in a multi-dimensional audio experience with the HT-A9 Home Theater System. Unique 360 Spatial Sound Mapping technology calibrates sound to your room for an environment that seems to expand beyond the walls."
+            ],
+            "360 Spatial Sound that adapts to your environment": [
+                "Our revolutionary 360 Spatial Sound Mapping technology creates up to twelve phantom speakers from just four real speakers. Here's how."
+            ],
+            "360 Spatial Sound experience, like you are in the scene": [
+                "Surrounded on all sides by multiple phantom speakers within an optimized sound field, you\u2019ll hear every flap of wing and gust of wind with incredible intensity. It\u2019s like you and your living room are inside the movie."
+            ],
+            "Flexible layout for any situation": [
+                "Reduce clutter and enjoy a simple setup without a need for extra cables. HT-A9\u2019s speakers wirelessly connect to the control box, allowing you to place them anywhere in the room. Sound Field Optimization allows you to have the speakers at different heights and distances and will measure the position of each speaker to create the best sound for your room."
+            ],
+            "Connect wirelessly": [
+                "Place the control box near the TV and link up via HDMI. The four speakers connect wirelessly to the control box so there\u2019s no cables across your living space."
+            ],
+            "Sound Field Optimization": [
+                "Activate Sound Field Optimization any time by performing Easy Setup from the home menu on the TV screen. The HT-A9 Home Theater System intelligently measures the distance between speakers and ceiling for smart and easy set up."
+            ],
+            "Innovative speaker design": [
+                "Our speakers are designed with leading-edge technologies to deliver the supreme sound quality and wide directivity required for 360 Spatial Sound Mapping."
+            ],
+            "Technology inside": [
+                "1 - Up-firing speaker (X-Balanced Speaker Unit)2 - Soft Dome Type Tweeter3 - Wide Directivity Woofer (X-Balanced Speaker Unit)4 - Dual microphones"
+            ],
+            "X-Balanced Speaker Unit": [
+                "The unique rectangular shape of these speakers maximizes the diaphragm area for richer bass. It also reduces driver excursion while maintaining sound pressure, resulting in less distortion and greater vocal clarity."
+            ],
+            "Movies and games feel so real": [
+                "Support for 8K2, 4K/1203 passthrough, and Dolby Vision7 brings vivid visuals  and quality sound to shows, movies, and fast paced video game play."
+            ],
+            "Enjoy an immersive gaming and movie experience": [
+                "Enjoy immersive gaming and movie watching with optimized picture settings by Auto HDR Tone Mapping and Auto Genre Picture Mode when connecting BRAVIA XRTM TVs and PlayStaion\u00ae512,13 through this product with firmware update released Spring 2022."
+            ],
+            "Immerse yourself in supreme music quality": [
+                "Enjoy music the way the artists truly intended with High-Resolution Audio for crystal clear precision. Or discover a new way of listening with 360 Reality Audio1 for a truly immersive live concert or studio session experience. With the HT-A9 Home Theater System, your music comes to life like never before."
+            ],
+            "Real-time restoration of all your compressed files": [
+                "Using Edge-AI (Artificial Intelligence), DSEE Extreme\u2122 (Digital Sound Enhancement Engine) upscales compressed digital music files in real time. Dynamically recognising instrumentation, musical genres, and individual elements of each song, such as vocals or interludes, it restores the high-range sound lost in compression for a richer, more complete listening experience."
+            ],
+            "Hear extra deep bass with an optional subwoofer": [
+                "Adding an optional subwoofer to your system to handle low frequencies allows the system to reproduce sounds with greater impact and power than before. Two models are available, designed to bring out deeper bass, more voice clarity and extra fidelity in everything you listen to."
+            ],
+            "Perfect with Sony TVs": [
+                "Paired with BRAVIA XRTM TVs, the HT-A9 brings you an immersive audio-visual experience with our best picture and sound quality. It\u2019s the perfect soundbar for BRAVIA XR TVs."
+            ],
+            "Even more immersion with Acoustic Center Sync": [
+                "When connected with the supplied cable to a BRAVIA TVs, the TV speaker plays the center channel role in your Home Theater System and part of the 360 Spatial Sound Mapping setup.4 This enables sound to precisely match what's on the screen for a truly immersive experience."
+            ],
+            "Sound perfectly matches action": [
+                "With Acoustic Center Sync, you'll hear dialogue from exactly where the character is standing in the scene. Action and sound are precisely aligned so your viewing becomes much more immersive."
+            ],
+            "Effortless control with BRAVIA TVs": [
+                "Everything links up perfectly when connected to the new range of BRAVIA XR\u2122 TVs. Control sound settings and volume using only the TV remote and easily check the status of the audio system while watching favorite programs. With an integrated UI, Home Theater System settings automatically appear on the BRAVIA TVs Quick Setting menu.4"
+            ],
+            "Omnidirectional Block Design": [
+                "The HT-A9 is one of our latest home sound systems, designed using the Omnidirectional Block concept. The cylindrical shape represents a single solid block providing 360 spatial sound. It fits perfectly against the wall with a flat rear surface. The light pearl grey color blends well with walls, shelves and other interior elements."
+            ],
+            "Enjoy movies like never before with 360 Spatial Sound": [
+                "A clever algorithm adds overhead, all-encompassing sound to conventional surround soundtracks and even stereo audio, converting everything you listen to into immersive 360 Spatial Sound experiences. Just press the Immersive AE button on the remote to activate.8"
+            ],
+            "Experience 360 Spatial Sound Mapping": [
+                "Want to try out our 360 Spatial Sound Mapping video on your favorite devices? Just slip on your headphones and watch this video to experience immersive sound."
+            ],
+            "Voice control": [
+                "Connect to your home\u2019s other devices with Google Assistant5 or Amazon Alexa6."
+            ],
+            "Set up in seconds": [
+                "The HT-A9 is almost ready to go straight out of the box. Simply plug it in, connect to your TV using HDMI and power on. With LAN, HDMI IN and HDMI OUT (eARC), you\u2019re all set to enjoy a new spatial surround sound experience."
+            ],
+            "Easy Listening": [
+                "It\u2019s never been easier to listen to your favorite tracks. HT-A9 supports audio streaming via Bluetooth9, Wi-Fi, Chromecast built-in10, Spotify Connect, and Apple AirPlay 2."
+            ]
+        }
+    }
+}

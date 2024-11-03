@@ -1,0 +1,74 @@
+{
+    "a975bd25-d200-4a48-b9b4-bc91cb08e9a4": {
+        "name": "MDR-ZX110NC Noise Canceling On-ear Headphones | Black",
+        "link": "https://electronics.sony.com/audio/headphones/c/all-headphones/audio/headphones/headband/p/mdrzx110nc",
+        "price": "$49.99",
+        "emi": "EMI info not found",
+        "about_us": [
+            "Integrated noise canceling technology",
+            "80 hours of battery life",
+            "Lightweight for ultimate music mobility",
+            "Dynamic 1.18 in drivers",
+            "Y-shaped cord type, 3.94 ft length"
+        ],
+        "specification": {
+            "General Features": [
+                {
+                    "Cord Length": "3.94 ft"
+                },
+                {
+                    "Diaphragm": "PET"
+                },
+                {
+                    "Driver Unit": "1.18\u00a0in dynamic \u2013 Dome type"
+                },
+                {
+                    "Frequency Response": "10\u201322,000 Hz"
+                },
+                {
+                    "Impedance (Ohm)": "Power ON 220 ohm, OFF 45 ohm (at 1\u00a0kHz)"
+                },
+                {
+                    "Magnet": "Neodymium"
+                },
+                {
+                    "Plug": "L-shaped gold-plated stereo mini"
+                },
+                {
+                    "Sensitivities (dB/mW)": "115 dB/mW \u2013 Power on\n110 dB/mW \u2013 Power off"
+                },
+                {
+                    "Wearing Style": "On-ear\nHeadband"
+                }
+            ],
+            "Size & Weight": [
+                {
+                    "Weight": "5.29\u00a0oz (including battery and excluding cable)"
+                }
+            ]
+        },
+        "features": {
+            "Noise-free audio experience": [
+                "Noise-free audio experienceFlip the switch and take advantage of proven Noise Canceling technology, based on the intelligent analysis of environmental ambient noise, and enjoy outstanding noise-free (up to 95%)1audio performance."
+            ],
+            "Enjoy rich, full frequency response": [
+                "Enjoy rich, full frequency response30 mm driver units deliver full, balanced sound for a complete listening experience from 10 - 22,000 Hz."
+            ],
+            "Enjoy long battery life": [
+                "Enjoy long battery lifeOne AAA alkaline battery provides up to 80 hours of continuous, noise-free music playback.1."
+            ],
+            "Battery not required": [
+                "Battery not requiredPassive mode allows for continued listening in a conventional fashion when the battery runs low."
+            ],
+            "High-energy magnets": [
+                "High-energy magnetsHigh-energy 300 kJ/m3neodymium magnets facilitate the delivery of rich, powerful sound with deep bass and clear highs-just right for today's popular music genres."
+            ],
+            "Swivel, folding design": [
+                "Swivel, folding designCompact for portability yet affording listening flexibility, the swivel, folding earpads let you enjoy music in many ways."
+            ],
+            "Tangle-free cables": [
+                "Tangle-free cablesThe durable, 1.2 m y-type cable resists snags and tangles so you can get caught up in your music, not your cord."
+            ]
+        }
+    }
+}

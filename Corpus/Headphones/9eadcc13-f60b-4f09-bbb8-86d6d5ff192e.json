@@ -1,0 +1,91 @@
+{
+    "9eadcc13-f60b-4f09-bbb8-86d6d5ff192e": {
+        "name": "Float Run Open-Ear Wireless Headphones",
+        "link": "https://electronics.sony.com/audio/headphones/c/all-headphones/audio/headphones/all-headphones/p/wioe610-b",
+        "price": "$79.99",
+        "emi": "Starting   /mo",
+        "about_us": [
+            "Comfortable headphones designed for runners",
+            "Small and light design for a stress free listening experience",
+            "Designed to be stable and secure",
+            "Hear the world around you as well as your music",
+            "IPX41 water resistance against sweat and splashes",
+            "Off ear style delivers a natural, wider sound",
+            "Work with accessories like sunglasses or hats",
+            "Up to 10 hours of playtime and 10 minutes quick charge for 1 hour of play2",
+            "Built in microphone",
+            "USB-C charging and supplied carrying case"
+        ],
+        "specification": {
+            "General Features": [
+                {
+                    "Headphone Type": "Open, dynamic"
+                },
+                {
+                    "Driver Unit": "16 mm"
+                },
+                {
+                    "Wearing Style": "IPX4"
+                },
+                {
+                    "General Features (Active Headphones)": "Yes"
+                }
+            ],
+            "Size & Weight": [
+                {
+                    "Weight": "33 g"
+                }
+            ],
+            "Battery": [
+                {
+                    "Battery Charge Method": "USB type-C"
+                },
+                {
+                    "BATTERY LIFE (CONTINUOUS COMMUNICATION TIME)": "Max. 10h (Full charge)"
+                },
+                {
+                    "Battery Life (Waiting Time)": "Max. 200h (Full charge)"
+                },
+                {
+                    "General Features (Active Headphones)": "Max. 10h (Full charge)"
+                }
+            ],
+            "Bluetooth\u00ae Specification": [
+                {
+                    "Bluetooth\u00ae version": "Version5.0"
+                },
+                {
+                    "Effective Range": "Line of sight approx.30ft (10m)"
+                },
+                {
+                    "FREQUENCY RANGE": "2.4GHz band(2.4000GHz-2.4835GHz)"
+                },
+                {
+                    "Profile": "A2DP, AVRCP, HFP, HSP"
+                },
+                {
+                    "Supported Audio Format(s)": "SBC, AAC"
+                }
+            ],
+            "What's In The Box": [
+                {
+                    "SUPPLIED ACCESSORIES": "USB type-C (approx.20cm(7.88 in.))"
+                }
+            ]
+        },
+        "features": {
+            "You won\u2019t feel a thing": [
+                "With an innovative off-ear design, you won\u2019t have to worry about pressure or stuffiness becoming uncomfortable, even on long runs."
+            ],
+            "Going the distance": [
+                "Thanks to the neckband design, these running headphones are secure and stable, no matter how you move."
+            ],
+            "No compromise on sound quality": [
+                "The 16mm drivers and precise tuning combine with the off-ear style to give you a more natural and wider sound while you work out."
+            ],
+            "Hear the world around you": [
+                "The unique open design of the Float Run headphones keeps you in touch with your surroundings, while delivering a spacious soundtrack. You'll get the maximum impact from your music and can stay safe in busy surroundings."
+            ]
+        }
+    }
+}

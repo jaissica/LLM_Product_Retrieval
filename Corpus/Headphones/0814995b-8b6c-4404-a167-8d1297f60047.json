@@ -1,0 +1,71 @@
+{
+    "0814995b-8b6c-4404-a167-8d1297f60047": {
+        "name": "MDR-EX110AP Wired In-ear Headphones with Microphone | Black",
+        "link": "https://electronics.sony.com/audio/headphones/c/all-headphones/audio/headphones/in-ear/p/mdrex110ap-b",
+        "price": "$19.99",
+        "emi": "EMI info not found",
+        "about_us": [
+            "Comfortable, secure-fitting silicone earbuds",
+            "0.35 in neodymium drivers for dynamic sound",
+            "Choice of colors to suit your style",
+            "5\u201324,000 Hz frequency range",
+            "Y-type cord, 3.94 ft length"
+        ],
+        "specification": {
+            "General Features": [
+                {
+                    "Cord Length": "3.94 ft"
+                },
+                {
+                    "Cord type": "Y-shape"
+                },
+                {
+                    "Driver Unit": "0.35 in dynamic"
+                },
+                {
+                    "Frequency Response": "5-24,000\u00a0Hz"
+                },
+                {
+                    "Headphone Type": "Closed, dynamic, microphone"
+                },
+                {
+                    "Impedance (Ohm)": "16 ohm (1 kHz)"
+                },
+                {
+                    "Magnet": "Neodymium"
+                },
+                {
+                    "Plug": "Gold-plated L-shaped four-conductor stereo mini"
+                },
+                {
+                    "Sensitivities (dB/mW)": "103 dB / mW"
+                },
+                {
+                    "Wearing Style": "Closed earbuds"
+                }
+            ],
+            "Size & Weight": [
+                {
+                    "Weight": "3g"
+                }
+            ]
+        },
+        "features": {
+            "Smartphone playback control1": [
+                "Smartphone playback control1The integrated microphone and multi-function control1button make the MDR-EX110AP the perfect companion for your smartphone. Android\u2122users can also enjoy the convenient Smart Key app for added control functionality directly from your smartphone."
+            ],
+            "Upgraded sound quality": [
+                "Upgraded sound qualityThe upgraded 9mm driver units coupled with high-energy neodymium magnets provide increased efficiency and deliver extended treble and mid-range frequency response with powerful bass."
+            ],
+            "Comfortable fit": [
+                "Comfortable fitHybrid silicone earbuds provide long lasting comfort; x-small, small, medium and large earbuds are included to fine tune your fitment."
+            ],
+            "Tangle free cord": [
+                "Tangle free cordThe included Y-type cord with cord-slider prevents tangles on the go."
+            ],
+            "Fashionable and Colorful": [
+                "Fashionable and ColorfulAccent your style with a variety of colors in a satin finish."
+            ]
+        }
+    }
+}

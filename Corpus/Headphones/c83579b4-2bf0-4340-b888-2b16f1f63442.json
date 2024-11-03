@@ -1,0 +1,74 @@
+{
+    "c83579b4-2bf0-4340-b888-2b16f1f63442": {
+        "name": "MDR-ZX310AP Wired On-ear Folding Headphones | Black",
+        "link": "https://electronics.sony.com/audio/headphones/c/all-headphones/audio/headphones/headband/p/mdrzx310ap-b",
+        "price": "$19.99",
+        "emi": "EMI info not found",
+        "about_us": [
+            "Lightweight, folding design for ultimate music mobility",
+            "1.18 in neodymium drivers for powerful, balanced sound",
+            "10-24,000 Hz frequency range",
+            "Y-type cord, 3.94 ft length",
+            "Choice of colors to suit your style"
+        ],
+        "specification": {
+            "General Features": [
+                {
+                    "CAPACITY": "1,000 W"
+                },
+                {
+                    "Closed Type": "YES"
+                },
+                {
+                    "Cord Length": "3.94 ft"
+                },
+                {
+                    "Cord type": "Y-type"
+                },
+                {
+                    "Driver Unit": "1.18\u00a0in dynamic \u2013 Dome type"
+                },
+                {
+                    "Dynamic Type": "YES"
+                },
+                {
+                    "Frequency Response": "10\u201324,000 Hz"
+                },
+                {
+                    "Impedance (Ohm)": "24 ohm (1KHz)"
+                },
+                {
+                    "Plug": "Four-conductor gold plated L-shaped stereo mini"
+                },
+                {
+                    "Sensitivities (dB/mW)": "98 dB/mW"
+                },
+                {
+                    "Wearing Style": "On-ear\nHeadband"
+                }
+            ],
+            "Size & Weight": [
+                {
+                    "Weight": "4.41 oz"
+                }
+            ]
+        },
+        "features": {
+            "Smartphone playback control1": [
+                "Smartphone playback control1The integrated microphone and multi-function control1button make the the MDR-ZX310AP the perfect companion for your smartphone. Android\u2122users can also enjoy the convenient Smart Key app for added control functionality directly from your smartphone."
+            ],
+            "Quality Sound": [
+                "Quality SoundThe large 30mm driver units coupled with ferrite magnets will accurately reproduce a broad, dynamic frequency range. You'll enjoy smooth transitions in treble and mid-range frequencies with powerful bass response."
+            ],
+            "Pressure Relieving Earpads": [
+                "Pressure Relieving EarpadsThe lightweight, adjustable headband with swivel ear pads is designed for comfort so you can enjoy extended listening sessions without fatigue."
+            ],
+            "Swivel Earcups": [
+                "Swivel EarcupsThe slim, swivel and folding style earcups stow away for compact portability."
+            ],
+            "Y-Type cord": [
+                "Y-Type cordThe traditional Y-type cord design helps reduce the chance of tangles while the 4-conductor gold plated, L-shaped plug ensures a good connection."
+            ]
+        }
+    }
+}
