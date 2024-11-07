@@ -1,0 +1,80 @@
+{
+    "9ee37ad7-f40e-4f89-b250-b79fb3155b9a": {
+        "name": "WLA-NS7 Wireless TV Adapter",
+        "link": "https://electronics.sony.com/audio/speakers/c/all-speakers/audio/headphones/headphone-accessories/p/wlans7",
+        "price": "$59.99",
+        "emi": "Starting   /mo",
+        "about_us": [
+            "Connect seamlessly to your TV1",
+            "Experience Dolby Atmos with select sony headphones and Bravia XR TV2",
+            "Compatible with most TVs",
+            "Lower lag time then a traditional Bluetooth connection1",
+            "Compatible with most Sony headphones"
+        ],
+        "specification": {
+            "Size & Weight": [
+                {
+                    "Dimensions (W x H x D)": "0lb 2oz, \u03c62 3/8 x 29/32in"
+                },
+                {
+                    "Weight": "Approx.29g"
+                }
+            ],
+            "Bluetooth": [
+                {
+                    "Communication System": "Version 5.0"
+                },
+                {
+                    "Max. Communication Range": "30m, 98feet"
+                },
+                {
+                    "Compatible Profiles": "A2DP, AVRCP"
+                },
+                {
+                    "Supported Codecs": "SBC(Low Latency)"
+                },
+                {
+                    "Frequency Transmission Range": "20 Hz - 20,000 Hz(44.1 kHz sampling)"
+                }
+            ],
+            "Interface": [
+                {
+                    "Input and Output Terminals": "Optical Digital Input, USB Type-C\u00ae"
+                }
+            ],
+            "General Features": [
+                {
+                    "Power Consumption": "0.3W"
+                },
+                {
+                    "Power Supply": "DC 5V"
+                }
+            ],
+            "What's In The Box": [
+                {
+                    "What's In The Box": "Optical Cable\nUSB Cable"
+                }
+            ]
+        },
+        "features": {
+            "All features": [
+                "This image is using WH-1000XM4. The same experience is available with selected Sony headphones."
+            ],
+            "360 Spatial Sound that adapts to your ears": [
+                "With BRAVIA XR\u2122 and Selected Sony Headphones Tailor your Dolby Atmos\u00ae experience with BRAVIA XR\u2122 and selected Sony headphones and enjoy 360 Spatial Sound. The WLA-NS7 wireless transmitter works with our headphones to create atmospheric personal cinema that surrounds you for a whole new way of listening.1"
+            ],
+            "A personal cinematic experience, just for you": [
+                "With the Sony | 360 Spatial Sound Personalizer app2, you\u2019ll enjoy a sound experience that\u2019s optimized for you. The app captures and analyses your ear shape, then creates your own personal spatial sound field when paired with BRAVIA XR TVs and selected Sony headphones.1"
+            ],
+            "Connect": [
+                "Connect the WLA-NS7 wireless transmitter to your BRAVIA XR TV with an optical cable and USB cable."
+            ],
+            "Pair": [
+                "Pair your Sony headphones with the wireless transmitter over a Bluetooth\u00ae connection.2"
+            ],
+            "Personalize": [
+                "Capture your ear shape using the Sony | 360 Spatial Sound Personalizer app2 and enjoy a personalized sound experience.1"
+            ]
+        }
+    }
+}

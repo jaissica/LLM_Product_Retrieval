@@ -1,0 +1,68 @@
+{
+    "60629ac0-8862-49d3-a5d4-7d36ce3ef755": {
+        "name": "SA-CS9 Active Subwoofer with Bass Reflex",
+        "link": "https://electronics.sony.com/audio/speakers/c/all-speakers/audio/speakers/home-theater-speakers/p/sacs9",
+        "price": "Price not found",
+        "emi": "EMI info not found",
+        "about_us": [
+            "9.84 in MRC cone-type active subwoofer",
+            "Bass reflex enclosure for distortion-free, low-frequency sound",
+            "Rigid, premium audio component construction"
+        ],
+        "specification": {
+            "Front Speaker": [
+                {
+                    "Front Speaker Units: Woofer": "9.84\" mica reinforced cellular woofer"
+                }
+            ],
+            "General Features": [
+                {
+                    "Center Speaker": "0"
+                },
+                {
+                    "Frequency Response": "28\u2013200 Hz"
+                },
+                {
+                    "Front Speaker": "0"
+                },
+                {
+                    "Surround": "0"
+                }
+            ],
+            "Size & Weight": [
+                {
+                    "Dimensions (W x H x D)": "11.61\" x 13.58\" x 15.75\""
+                },
+                {
+                    "Weight": "25.35 lb"
+                }
+            ]
+        },
+        "features": {
+            "9.84 in active subwoofer for thumping bass": [
+                "9.84 in active subwoofer for thumping bassEnjoy deep, rich bass from this powerful active subwoofer. The 9.84 in cone diaphragm can move a larger volume of air, producing powerful low-end resonance that makes bass sound rich and authentic. The subwoofer reinforces low frequency sounds in movies and music for a great multi-channel home theater experience."
+            ],
+            "Mica Reinforced Cellular cone for undistorted audio": [
+                "Mica Reinforced Cellular cone for undistorted audioThe perfect partner for today's bass-driven music. Many speakers use paper cones that flex and deteriorate over time, leading to a more distorted sound. Mica Reinforced Cellular (MRC) fiber woofers are rigid, holding their shape even when moving at high pressure and speed, so you can drive the bass harder without compromising audio quality."
+            ],
+            "Power every beat with a built-in amplifier": [
+                "Power every beat with a built-in amplifierDrive bass-heavy music and bring your party alive. This subwoofer includes a built-in amplifier with up to 115 W power output. Electrical circuits susceptible to vibration are located outside the cabinet, releasing high pressure within the enclosure for a clear and powerful bass sound."
+            ],
+            "Minimizing vibration for tight bass": [
+                "Minimizing vibration for tight bassSuppressing vibration in the cabinet is vital for tight, accurate bass. Unwanted vibrations are handled in two ways: by acoustically absorbing waves generated from the rear pressure of the unit, and damping vibrations within the cabinet itself. Designers optimized the type and layout of sound absorbing materials to keep cabinet vibration to a minimum."
+            ],
+            "Bass reflex system reproduces deep beats": [
+                "Bass reflex system reproduces deep beatsThe subwoofer is built on strong foundations with an enclosed structure designed to keep sound pure and natural. Bass reflex ducts suppress unwanted noise and improve low frequency sound reproduction so you hear deep, powerful bass from music and movies."
+            ],
+            "Premium components, premium sound": [
+                "Premium components, premium soundPoor parts can have a significant impact on overall sound quality. This subwoofer uses only premium components: a powerful transformer capable of providing stable power, a robust electrical circuit, and a large heat sink to suppress temperature variations in the event of a power surge."
+            ],
+            "Smart finish for style and substance": [
+                "Smart finish for style and substanceThis speaker has a smart black finish that blends with most contemporary interiors. The wood veneer also retains its shape well, ensuring that the sound won't be influenced by changes in temperature and humidity."
+            ],
+            "Compact design for small spaces": [
+                "Compact design for small spacesPowerful and compact, this subwoofer is perfect for easy installation in tight spots. Because of the reduced baffle area, the speaker minimizes sound field distortion for optimum clarity and precision."
+            ]
+        }
+    }
+}

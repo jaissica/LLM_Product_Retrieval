@@ -1,0 +1,75 @@
+{
+    "576cbb71-9f33-413d-89bc-d709bbb9ee17": {
+        "name": "MDR-MV1 Open Back Reference Monitor Headphones",
+        "link": "https://electronics.sony.com/audio/headphones/c/all-headphones/audio/headphones/all-headphones/p/mdrmv1",
+        "price": "$399.99",
+        "emi": "4 payments at 0% APR or  starting  /mo",
+        "about_us": [
+            "Open back design",
+            "Wide frequency response range (5Hz to 80kHz)",
+            "For immersive mixing and stereo mastering",
+            "Accurate sound object positioning with a 360 degree sound space",
+            "Comfortable for long session use",
+            "Lightweight, high-strength aluminum alloy for the housing",
+            "Detachable, machined aluminum connectors for professional use"
+        ],
+        "specification": {
+            "General Features": [
+                {
+                    "Driver Unit": "40 mm (1.58 in)"
+                },
+                {
+                    "Frequency Response": "5 Hz - 80,000 Hz (IEC\u00b9)"
+                },
+                {
+                    "Magnet": "Neodymium"
+                },
+                {
+                    "type": "Open back, Dynamic"
+                },
+                {
+                    "Power Handling Capacity": "1,500 mW (IEC\u00b9)"
+                },
+                {
+                    "Impedance": "24 Q at 1 kHz"
+                },
+                {
+                    "Sensitivity": "100 dB/mW"
+                },
+                {
+                    "Mass": "Approx. 223 g (7.87 oz) without cable"
+                },
+                {
+                    "Weight": "Approx. 0.5 lbs. (223 g) without cable"
+                },
+                {
+                    "Product Dimension (W*H*D) inches(mm)": "L:  8.0\" x W 2.4\" x H: 9.5\" (incl. hook)"
+                }
+            ],
+            "What's In The Box": [
+                {
+                    "SUPPLIED ACCESSORIES": "Stereo Headphones, Headphone cable (approx. 2.5 m (98.43 in), stereo phone plug), Plug adapter (approx. 20 cm (1.58 in), stereo phone jack\u2194 stereo mini plug)"
+                }
+            ]
+        },
+        "features": {
+            "All features": [
+                "Open Back Studio Monitor Headphones",
+                "Open back Studio Monitor Headphones for creating spatial and stereo sound with wide frequency range and soundstage feel. Neutral and high-resolution acoustic characteristics reproduce all sound elements exactly as they are, providing lightweight and excellent wearing comfort for creators during long studio sessions.",
+                "Discover the MDR-MV1",
+                "Studio monitor sound for mixing and mastering",
+                "Accurate reproduction of the spatial information of the sound source with carefully tuned open back acoustic structure to support mixing and mastering of both spatial and stereo sounds with High-Resolution Audio capability.Uncolored frequency response suitable for production, obtained through collaboration with creators. (5Hz - 80kHz)",
+                "Excellent wearing comfort",
+                "Excellent wearing comfort for creators during long studio sessions. Lightweight, soft and stable fitting provides superior comfort for extended working or listening sessions during the creation of music content.",
+                "Spatial sound recreation",
+                "Reproduce each sound's positions and movements accurately in 360 degrees to enable spatial sound experience in the headphones, virtualizing a speaker-based production environment.",
+                "Stereo sound creation with High-Resolution Audio capability",
+                "By reproducing sound sources neutrally with High-Resolution Audio capability, each sound element can be monitored accurately. It assists the mixing and mastering stages by facilitating the capture of the feel of the venue and space, as well as the changes in sound details.",
+                "Carefully tuned open-back acoustic structure",
+                "When playing back spatial sound sources with headphones, the sound field is virtually reproduced by performing signal processing that considers HRTF for the spatial information of the sound source. By adopting an open back acoustic structure that does not acoustically close the housing, the reflected sound inside the headphones is reduced, enabling more accurate sound field reproduction. In addition, for optimal control of the airflow in front and back of the driver unit, the acoustic resistor is used as large area as possible to eliminate spatial resonance. Realizes natural and rich bass reproduction without coloring.",
+                "Detachable cables for professional use",
+                "The cable plug uses a 6.3 mm stereo standard plug widely used in production scenes. By using the bundled plug adaptor, it is also possible to connect to devices with 3.5 mm stereo mini jacks. The connection part to the main unit is detachable with a screw system, allowing for secure connection and cable replacement."
+            ]
+        }
+    }
+}

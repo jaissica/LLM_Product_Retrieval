@@ -1,0 +1,316 @@
+{
+    "e5e299f3-bdb8-4abe-8fbc-dead801f4298": {
+        "name": "INZONE Buds Truly Wireless Noise Canceling Gaming Earbuds | Black",
+        "link": "https://electronics.sony.com/audio/headphones/c/all-headphones/audio/gaming-audio/all-inzone-headsets/p/wfg700n-b",
+        "price": "$179.99",
+        "emi": "Starting   /mo",
+        "about_us": [
+            "Active noise canceling and personalized spatial sound helps you stay on top.",
+            "Industry's longest battery life with up to 12 hrs for Gaming & Chat with 2.4GHz low latency connection (24 hrs with charging case)1",
+            "Reduced ear contact for increased comfort",
+            "The AI-assisted microphone helps you be heard in action",
+            "Enhance precision with low latency",
+            "Designed in collaboration with professional gamers to help you get the edge over your rivals.",
+            "Access useful controls with a tap of your finger.",
+            "Personalize your experience through the INZONE Hub software2",
+            "Smartphone device must be compatible with LE Audio or USB-C\u00ae Connection. LE Audio connection is currently not compatible with iPhone and iPad."
+        ],
+        "specification": {
+            "Battery Info (Carging Case)": [
+                {
+                    "(Battery1) Battery Cell Type": "Square"
+                },
+                {
+                    "(Battery1) Chemical Composition": "Li-ion"
+                },
+                {
+                    "(Battery1) Number of Batteries (X)": "1"
+                },
+                {
+                    "(Battery1) Battery Weight (g) (XX.Xg)": "Approx. 8.4 g"
+                },
+                {
+                    "(Battery1) Number of Lithium Ion Cells (X)": "1"
+                },
+                {
+                    "(Battery1) How is the lithium battery packaged (X)": "Laminate"
+                },
+                {
+                    "(Battery1) Energy Content (Wh) (XXXWh)": "1.7 Wh"
+                },
+                {
+                    "(Battery1) Battery Voltage (V) (XV)": "3.85 V"
+                },
+                {
+                    "(Battery1) Discharge Capacity (mAh) (XXXmAh)": "450 mAh"
+                }
+            ],
+            "Battery Info (headphones)": [
+                {
+                    "(Battery1) Battery Cell Type": "Coin"
+                },
+                {
+                    "(Battery1) Chemical Composition": "Li-ion"
+                },
+                {
+                    "(Battery1) Number of Batteries (X)": "2"
+                },
+                {
+                    "(Battery1) Battery Weight (g) (XX.Xg)": "Approx. 1.8 g x2"
+                },
+                {
+                    "(Battery1) Number of Lithium Ion Cells (X)": "1"
+                },
+                {
+                    "(Battery1) How is the lithium battery packaged": "CAN"
+                },
+                {
+                    "(Battery1) Energy Content (Wh) (X.XXXWh)": "0.36 Wh x2"
+                },
+                {
+                    "(Battery1) Battery Voltage (V) (X.XV)": "3.85 V"
+                },
+                {
+                    "(Battery1) Discharge Capacity (mAh) (X.XXXmAh)": "90.5 mAh x2"
+                }
+            ],
+            "Bluetooth": [
+                {
+                    "Bluetooth\u00ae Technology": "Version5.3"
+                },
+                {
+                    "Power Output": "class1.5"
+                },
+                {
+                    "Effective Range": "Line of sight approx.30ft (10m)"
+                },
+                {
+                    "FREQUENCY RANGE": "2.4GHz band(2.4000GHz-2.4835GHz)"
+                },
+                {
+                    "LE AUDIO": "Yes"
+                },
+                {
+                    "LE AUDIO PROFILE": "TMAP, CSIP, MCP, VCP, CCP"
+                },
+                {
+                    "LE AUDIO SUPPORTED AUDIO FORMAT(S)": "LC3"
+                }
+            ],
+            "General": [
+                {
+                    "Country of Origin": "Vietnam"
+                }
+            ],
+            "General Features (Active Headphones)": [
+                {
+                    "Battery Charge Time (Buds)": "Approx. 2.0 hrs"
+                },
+                {
+                    "Battery Charge Time (Charging Case)": "Approx. 3.0 hrs (USB charging)"
+                },
+                {
+                    "Quick Charging (10min charge/more than 60min playback time)": "Yes"
+                },
+                {
+                    "Playback time (Quick Charging)": "5 min charge, play uo to approx. 1 hr"
+                },
+                {
+                    "Battery Charge Method": "USB Charging (with case)"
+                },
+                {
+                    "Battery Life (continuous music playback time)": "USB transciever connection:\nMax.12hours (NC OFF) /\nMax.11hours (NC ON)\n\nBluetooth (LE Audio) connection:\nMax.24hours (NC OFF) /\nMax.18hours (NC ON)"
+                },
+                {
+                    "Battery Life (continuous music playback time) (Buds+Case)": "USB transciever connection:\nMax.24hours (NC OFF)\n\nBluetooth (LE Audio) connection:\nMax.48hours (NC OFF)"
+                },
+                {
+                    "BATTERY LIFE (CONTINUOUS COMMUNICATION TIME)": "USB transciever connection:\nMax.12hours (NC OFF) /\nMax.11hours (NC ON)\n\nBluetooth (LE Audio) connection:\nMax.11hours (NC OFF) /\nMax.10hours (NC ON)"
+                }
+            ],
+            "General Features (Headphone)": [
+                {
+                    "Headphone Type": "Closed, dynamic"
+                },
+                {
+                    "Driver Unit": "8.4mm"
+                },
+                {
+                    "Weights (Approx.) *excl.cable erights": "Approx. 6.5g*2"
+                },
+                {
+                    "Weights (Approx. oz) *excl.cable erights": "Approx. 0.23oz*2"
+                },
+                {
+                    "Wireless Connection method": "2.4GHz"
+                },
+                {
+                    "Waterproof": "IPX4 equivalent"
+                }
+            ],
+            "General Features (Microphone)": [
+                {
+                    "MICROPHONE MUTE": "Touch"
+                }
+            ],
+            "Noise Canceling": [
+                {
+                    "Ambient Sound Mode - Normal": "Yes"
+                },
+                {
+                    "Ambient Sound Mode - Voice": "Yes"
+                },
+                {
+                    "Quick Attention": "Yes"
+                },
+                {
+                    "dual NC": "Yes"
+                },
+                {
+                    "Digital Noise Cancelling": "Yes"
+                },
+                {
+                    "Seamless control between NC/ASM": "Yes"
+                }
+            ],
+            "Package": [
+                {
+                    "Serial Nr": "Yes"
+                },
+                {
+                    "Sub Master Carton Qty": "5"
+                },
+                {
+                    "Sub Master Carton Length (cm)": "24.3"
+                },
+                {
+                    "Sub Master Carton Width (cm)": "9.5"
+                },
+                {
+                    "Sub Master Carton Height (cm)": "13.2"
+                },
+                {
+                    "Master Carton Qty": "10"
+                },
+                {
+                    "Master Carton Length (cm)": "25.5"
+                },
+                {
+                    "Master Carton Width (cm)": "19.9"
+                },
+                {
+                    "Master Carton Weight (kg)": "1.93"
+                },
+                {
+                    "Sub Master Carton Weight (kg)": "0.87"
+                },
+                {
+                    "Packaging Language": "EN/FR(CF)/ES(LA)"
+                },
+                {
+                    "Individual Package Dimension (Length) cm": "8.7"
+                },
+                {
+                    "Individual Package Dimension (Width) cm": "4.6"
+                },
+                {
+                    "Individual Package Dimension (Height) cm": "14.1"
+                },
+                {
+                    "Individual Package Weight (kg)": "0.16"
+                },
+                {
+                    "Master Carton Height (cm)": "15.4"
+                }
+            ],
+            "Supplied Accessories": [
+                {
+                    "Hybrid silicone rubber earbuds": "Yes"
+                },
+                {
+                    "Warranty card": "Yes"
+                },
+                {
+                    "Charging Case": "Yes"
+                },
+                {
+                    "USB Cable": "Yes"
+                },
+                {
+                    "Reference Guide": "Yes"
+                },
+                {
+                    "USB transceiver": "Yes"
+                }
+            ],
+            "Application": [
+                {
+                    "360 SPATIAL SOUND FOR GAMING": "Yes"
+                }
+            ],
+            "General Features": [
+                {
+                    "Lithium Battery": "Yes"
+                }
+            ]
+        },
+        "features": {
+            "All features": [
+                "Refined for Victory,Advised by Fnatic",
+                "Gaming excellence by Fnatic Pro-Player met INZONE development. INZONE Buds is here through the collaboration.",
+                "All your favorite features in the box",
+                "Sound Quality",
+                "Battery Life",
+                "Wearing Comfort & Design",
+                "Connection & Usability",
+                "Approved by the best, for you",
+                "Designed in collaboration with professional gamers to help you get the edge over your rivals.",
+                "360 Spatial Sound for Gaming",
+                "Always be one step ahead with 360 spatial sound.2,3 Pinpoint opponents, detect direction and distance effortlessly, ensuring you always have the upper hand.",
+                "The perfect audio for your ear shape",
+                "Create a personalised hearing profile by taking photos of your ears using the 360 Spatial Sound Personalizer feature in the smartphone app.2,3 Then you can enjoy your game with unmatched spatial accuracy.",
+                "Optimized for your ear",
+                "Every ear perceives sound uniquely. Recognizing this, the INZONE Buds were designed to emit test sounds, using feedback microphones to gauge how they resonate in your ear. Through the INZONE Hub PC software,2 this acoustic insight is transformed into a tailored spatial listening experience, crafted just for you.",
+                "Experience 360 Spatial Sound for Gaming",
+                "Want to hear how Spatial Sound works with your favorite devices? Put your headphones on and immerse yourself.",
+                "Be fully immersed in the gaming experience",
+                "By faithfully reproducing every sound within the game, from powerful explosions to subtle footsteps, you'll feel transported into the world of the game. This is made possible through a specially engineered Dynamic Driver X unit that is designed for wide frequency reproduction. The diaphragm structure, which utilizes various materials for both the dome and edge, ensures minimal distortion and a clear sound quality, delivering an unparalleled level of auditory realism.",
+                "No distractions and a quality soundscape",
+                "Sony's active noise cancellation capability helps to block out background noise, so that you can focus on your game. An 8.4 mm driver delivers high-quality sound, all the way from low frequency bass to higher register tones.",
+                "Industry\u2019s-leading 12-hour battery with 2.4 GHz connection",
+                "With the industry's longest battery life1, the INZONE Buds' L1 processor ensures up to 12 hours1 of play, and a staggering 24 hours with the charging case. Dive into extended, uninterrupted gaming sessions, powered to outlast your competition.",
+                "Quick charging if you're in a hurry",
+                "Spend more time gaming and less time charging. 5 minutes of charge will get you up to an hour of uninterrupted playtime.1",
+                "Wearing comfort and design",
+                "A truly wireless experience",
+                "Light-weight, small in size, and truly wireless, these earbuds are designed so that you'll forget you're even wearing them.",
+                "Lighter contact, greater comfort",
+                "Designed to be light-weight and reduce ear contact to maximize comfort.",
+                "Light mode or dark mode?",
+                "With two color options available, black and white, you can choose the one that best suits your style.",
+                "Low Latency allows enhanced precision",
+                "Every millisecond counts. With a USB-C\u00ae dongle connection, experience latency under 30ms so nothing stands in your way.",
+                "AI helps you be heard in the action",
+                "Let AI amplify improve your communication while in the action. The INZONE Buds employ an AI DNN (Deep Neural Network algorithm), crafted from over 500 million voice samples. This advanced AI noise reduction ensures your voice stands out, distinct from the surrounding ambient sounds.",
+                "Customizable controls",
+                "Intuitive and easy to operate, you can access useful controls with a tap of your finger. Through the INZONE Hub, you can customize and assign specific actions to your preference such as music playback and in-game volume adjustments.",
+                "Have it your way",
+                "Our INZONE Hub PC software allows you to personalize your INZONE Buds by customizing a wide range of operations, including a variety of sound and hardware settings and tap operation customization.2 Using the EQ function, fine-tune your game's sound frequencies for enhanced clarity and immersion.",
+                "One output for multiple devices",
+                "Seamless, low-latency audio across devices. The USB-C\u00ae dongle ensures the INZONE Buds effortlessly adapt to PCs, consoles, or mobile devices, offering versatile connectivity.",
+                "LE Audio Compatible",
+                "Sustainability",
+                "Sustainability in mind",
+                "Our products are designed with the environment in mind. There's no plastic in our INZONE Buds packaging, which uses recycled materials and non-woven cellulose, reflecting Sony\u2019s commitment to reducing the environmental impact of our products and practices.",
+                "Aiming to achieve a zero environmental footprint",
+                "Inspired by the beauty of the world, we are doing our part to help preserve the Earth while still offering a superior sound and listening experience. With a goal of achieving a zero environmental footprint across the entire Sony Group by the year 2050, we are accelerating numerous initiatives for the environment."
+            ],
+            "Sony Electronics Inc. is the official partner of Final Fantasy VII Rebirth4": [
+                "Encounter powerful summons with the INZONE M9 Gaming Monitor and INZONE Buds."
+            ],
+            "LE Audio Compatible": [
+                "INZONE Buds are designed with LE Audio compatibility. This low-latency, energy-efficient connection ensures you enjoy up to 24 hours (up to 48 hours with case) of battery life, for longer immersion.INZONE Buds only support LE Audio connection (codec: LC3).Please note that the regular Bluetooth (Bluetooth Classic) codecs SBC, AAC, aptX and LDAC are not supported.LE Audio connection is currently not compatible with iPhone and iPad."
+            ]
+        }
+    }
+}

@@ -1,0 +1,393 @@
+{
+    "efc29457-d336-4a2c-b496-7248380b11be": {
+        "name": "WH-1000XM4 Wireless Premium Noise Canceling Headphones | Blue",
+        "link": "https://electronics.sony.com/audio/headphones/c/all-headphones/audio/headphones/headband/p/wh1000xm4-l",
+        "price": "$299.99",
+        "emi": "Starting   /mo",
+        "about_us": [
+            "Industry-leading noise canceling1 with Dual Noise Sensor technology",
+            "Next-level music with Edge-AI, co-developed with Sony Music Studios Tokyo",
+            "Up to 30-hour battery life with quick charging (10 min charge for 5 hours of playback) 2",
+            "Touch Sensor controls to pause/play/skip tracks, control volume, activate your voice assistant4, and answer phone calls",
+            "Speak-to-chat technology automatically reduces volume during conversations",
+            "Superior call quality with precise voice pickup",
+            "Wearing detection pauses playback when headphones are removed",
+            "Seamless multiple-device pairing6",
+            "Adaptive Sound Control provides a personalized listening experience",
+            "Updated design relieves pressure for long-lasting comfort"
+        ],
+        "specification": {
+            "App Function": [
+                {
+                    "Adaptive Sound Control": "Yes"
+                },
+                {
+                    "App compatible": "Yes"
+                },
+                {
+                    "Playback Controller": "Yes"
+                },
+                {
+                    "Product Tutorial": "Yes"
+                },
+                {
+                    "Battery level indication\uff08icon with %\uff09": "Yes"
+                }
+            ],
+            "Battery": [
+                {
+                    "Battery Charge Method": "USB"
+                },
+                {
+                    "Battery Charge Time": "-"
+                },
+                {
+                    "Battery Life (Waiting Time)": "Max. 30 hours (NC ON), Max. 200 hours (NC OFF)"
+                },
+                {
+                    "BATTERY LIFE (CONTINUOUS MUSIC PLAYBACK TIME WITH INTERNAL MEMORY)": "Max. 30 hours (NC ON), Max. 38 hours (NC OFF)"
+                }
+            ],
+            "Bluetooth Codec": [
+                {
+                    "AAC": "Yes"
+                },
+                {
+                    "LDAC": "Yes"
+                },
+                {
+                    "SBC": "Yes"
+                }
+            ],
+            "Bluetooth\u00ae Specification": [
+                {
+                    "Bluetooth\u00ae version": "Version 5.0"
+                },
+                {
+                    "Effective Range": "Line of sight approx. 30 ft (10 m)"
+                },
+                {
+                    "FREQUENCY RANGE": "2.4 GHz band (2.4000\u20132.4835 GHz)"
+                },
+                {
+                    "Profile": "A2DP, AVRCP, HFP, HSP"
+                },
+                {
+                    "Supported Audio Format(s)": "SBC, AAC, LDAC"
+                },
+                {
+                    "Supported Content Protection": "SCMS-T"
+                }
+            ],
+            "General Features": [
+                {
+                    "Cord Length": "Headphone cable (approx. 3.94 ft, OFC strands, gold-plated stereo mini plug)"
+                },
+                {
+                    "Cord type": "Single-sided (detachable)"
+                },
+                {
+                    "Diaphragm": "Aluminum coated LCP"
+                },
+                {
+                    "Driver Unit": "1.57 \", dome type (CCAW Voice coil)"
+                },
+                {
+                    "Frequency Response": "4 Hz-40,000 Hz"
+                },
+                {
+                    "Frequency Response (Active Operation)": "4 Hz-40,000 Hz"
+                },
+                {
+                    "Frequency Response (Bluetooth\u00ae Communication)": "-"
+                },
+                {
+                    "Headphone Type": "Closed, dynamic"
+                },
+                {
+                    "Magnet": "Neodymium"
+                },
+                {
+                    "NFC": "Yes"
+                },
+                {
+                    "Passive Operation": "Yes"
+                },
+                {
+                    "Plug": "Gold-plated L-shaped stereo mini plug"
+                },
+                {
+                    "Sensitivities (dB/mW)": "105 dB / mW (1 kHz) (when connecting via the headphone cable with the unit turned on), 101 dB / mW (1 kHz) (when connecting via the headphone cable with the unit turned off)"
+                },
+                {
+                    "Wearing Style": "Circumaural"
+                },
+                {
+                    "Waterproof": "-"
+                },
+                {
+                    "DSEE Extreme": "Yes"
+                }
+            ],
+            "Hands-free Calling": [
+                {
+                    "Echo Cancellation": "Yes"
+                },
+                {
+                    "HD Voice": "Yes"
+                },
+                {
+                    "Hands-free Calling": "Yes"
+                },
+                {
+                    "Noise Suppression": "Yes"
+                },
+                {
+                    "Side-tone": "Yes"
+                }
+            ],
+            "Mechanical": [
+                {
+                    "Weight": "254g"
+                },
+                {
+                    "Foldable Function": "Yes"
+                }
+            ],
+            "Noise Canceling": [
+                {
+                    "Ambient Sound Control (20 steps)": "Yes"
+                },
+                {
+                    "Ambient Sound Mode": "Yes"
+                },
+                {
+                    "Ambient Sound Mode - Normal": "Yes"
+                },
+                {
+                    "Ambient Sound Mode - Voice": "Yes"
+                },
+                {
+                    "Atmospheric Pressure Optimizing": "Yes"
+                },
+                {
+                    "Digital Noise Canceling": "Industry Leading Noise Canceling"
+                },
+                {
+                    "Dual Noise Sensor Technology": "Yes"
+                },
+                {
+                    "Noise Canceling ON/OFF Switch": "Yes"
+                },
+                {
+                    "Quick Attention": "Yes"
+                },
+                {
+                    "Speak-to-Chat": "Yes"
+                },
+                {
+                    "Wind Noise Reduction": "Yes"
+                },
+                {
+                    "Personal Noise Canceling Optimizer": "Yes"
+                }
+            ],
+            "Other Specification": [
+                {
+                    "Music playback time (BTNC & w/o sound effect)": "30h (AAC)"
+                },
+                {
+                    "Standby time (NC OFF)": "200h"
+                },
+                {
+                    "[Headphone main unit] Quick Charging or Short-time charging time": "10min. Charge -> 5 hours play"
+                },
+                {
+                    "Supplied Accessory": "USB Type-C Cable (20cm)\nAudio Cable (Color Variation / 1.2m)\nCarrying Case (Color Variation)\nIn-flight Adapter"
+                }
+            ],
+            "Portable Headphone Amplifier": [
+                {
+                    "Volume Control": "Touch Sensor"
+                }
+            ],
+            "Processor/Transmitter": [
+                {
+                    "Input(s)": "Stereo Mini Jack"
+                }
+            ],
+            "Sound": [
+                {
+                    "360 Reality Audio compatible": "Yes"
+                },
+                {
+                    "DSEE Extreme": "Yes"
+                },
+                {
+                    "Frequency Response": "4Hz-40,000Hz"
+                },
+                {
+                    "Hi-Res Compatible": "Yes"
+                },
+                {
+                    "Driver Unit": "40mm HD Driver Unit"
+                },
+                {
+                    "EQ (5 Band + CLEAR BASS) compatible with Hi-Res quality": "Yes"
+                },
+                {
+                    "EQ Preset": "Yes"
+                },
+                {
+                    "User Custom EQ": "Yes"
+                }
+            ],
+            "UI": [
+                {
+                    "Disable Touch Sensor Control": "Yes"
+                },
+                {
+                    "Disable Voice Guidance via APP": "Yes"
+                },
+                {
+                    "H/W Buttons": "Power, Custom"
+                },
+                {
+                    "Touch Sensor Control Panel": "Yes"
+                }
+            ],
+            "Others": [
+                {
+                    "Amazon Alexa (BTVA)": "Yes"
+                },
+                {
+                    "Battery remaining amount detection \uff0810 steps\uff09": "Yes"
+                },
+                {
+                    "Battery remaining indication": "Yes"
+                },
+                {
+                    "Customize Auto Power Off Setting via APP": "Yes"
+                },
+                {
+                    "Easy pairing via HPC app": "Yes"
+                },
+                {
+                    "Enable / disable Auto Power Off by wearing detection": "Yes"
+                },
+                {
+                    "Google Assistant (BTVA)": "Yes"
+                },
+                {
+                    "Multi Device Connection": "Yes"
+                },
+                {
+                    "NFC": "Yes"
+                },
+                {
+                    "Play/Pause control by wearing detection": "Yes"
+                },
+                {
+                    "USB type-C compatible": "Yes"
+                },
+                {
+                    "Voice Assist Function \uff08Siri/Google Assistant\uff09": "Yes"
+                },
+                {
+                    "Wearing Detection": "Yes"
+                },
+                {
+                    "Wired active operation": "Yes"
+                }
+            ]
+        },
+        "features": {
+            "All features": [
+                "Sony brings you closer to the music and the artists you love. Watch exclusive videos and enter to win prizes only available for Sony fans.",
+                "The ear cups swivel inwards so they pack up neatly in a compact case.",
+                "The supplied carrying case is durable and includes a cable for wired listening.",
+                "The ear cups swivel inwards so they pack up neatly in a compact case.",
+                "The supplied carrying case is durable and includes a cable for wired listening."
+            ],
+            "Be at one with your music": [
+                "Discover how the WH-1000XM4 headphones blend our advanced noise canceling with exceptional sound quality and a range of smart features for an unrivaled listening experience."
+            ],
+            "Premium noise cancellation": [
+                "Premium noise cancellation technology means you hear every word, note, and tune with incredible clarity, no matter your environment. These noise canceling headphones feature additional microphones that assist in isolating sound for a reduction of even more high and mid frequency sounds."
+            ],
+            "ONLY MUSIC.NOTHING ELSE.": [
+                "Sony\u2019s intelligent premium noise canceling headphones with superior sound elevate your listening experience with the ability to personalize and control everything you hear."
+            ],
+            "The technology that makes it happen": [
+                "Dual noise sensor technology, featuring two microphones on each earcup, captures ambient noise and passes the data to the HD Noise-Canceling Processor QN1. Using a new algorithm, the HD Noise-Canceling Processor QN1 then applies noise-canceling processing in real time to a range of acoustic environments. Working together with a new Bluetooth\u00ae Audio SoC (System on Chip), it senses and adjusts to music and noise signals, as well as acoustic characteristics between the driver unit and ears, at over 700 times per second."
+            ],
+            "Optimizing noise canceling": [
+                "To maximize noise-canceling performance, the WH-1000XM4 headphones incorporate two technologies: Personal Noise-Canceling Optimizer, designed specifically for you, and Atmospheric Pressure Optimizing, designed specifically for air travel."
+            ],
+            "Sony | Sound Connect app": [
+                "Adjust ambient sound with the Sony | Sound Connect app to cancel noise while still allowing essential sounds, like overhead announcements, through when you're listening on the move.",
+                "With the Sony | Sound Connect app, Ambient Sound Control lets you adjust the volume of background sound and gives you the option to allow voices alone to be heard. Meanwhile the Equalizer lets you customize sound levels to suit your music."
+            ],
+            "Wireless freedom, premium sound": [
+                "LDAC transmits approximately three times more data (at the maximum transfer rate of 990 kbps) than conventional BLUETOOTH\u00ae audio, allowing you to enjoy High-Resolution Audio content in exceptional quality, as close as possible to that of a dedicated wired connection."
+            ],
+            "Sound you can believe in": [
+                "A built-in analog amplifier integrated in the HD Noise-Canceling Processor QN1 realizes an unmatched signal-to-noise ratio for low distortion and exceptional sound quality for portable devices. Powerful 1.57\" drivers, with Liquid Crystal Polymer (LCP) diaphragms, make the headphones perfect for handling heavy beats and can reproduce a full range of frequencies up to 40 kHz."
+            ],
+            "Real-time restoration of all your compressed files": [
+                "Using Edge-AI (Artificial Intelligence) co-developed with Sony Music Studios Tokyo, DSEE Extreme\u2122 (Digital Sound Enhancement Engine) upscales compressed digital music files in real time. Dynamically recognizing instrumentation, musical genres, and individual elements of each song, such as vocals or interludes, it restores the high-range sound lost in compression for a richer, more complete listening experience."
+            ],
+            "Smart listening technology to enhance your listening": [
+                "The WH-1000XM4 headphones use an array of smart technologies to create a seamless, hands-free listening experience. For example, simply start speaking to automatically pause your music in Speak-to-Chat, or enjoy adaptive playback thanks to the proximity sensor and two acceleration sensors that detect whether your headphones are being worn or not."
+            ],
+            "Adaptive Sound Control automatically adjusts to whatever you do": [
+                "Adaptive Sound Control is a smart function that senses where you are and what you're doing, then adjusts ambient sound settings for the ideal listening experience."
+            ],
+            "Traveling": [
+                "Lose yourself in your journey, with no background noise to interrupt your favorite tracks."
+            ],
+            "Walking": [
+                "Be aware of everything around you, from street to office, while still enjoying music."
+            ],
+            "Waiting": [
+                "Hear important announcements while you wait without noticing other background noise."
+            ],
+            "Learns your favorite locations": [
+                "Over time, Adaptive Sound Control learns to recognize locations that you frequently visit, such as your workplace, the gym, or a favorite caf\u00e9, and tailors sound to suit the situation."
+            ],
+            "Quick Attention": [
+                "Need to quickly hear voices or sounds around you? Just place your hand over the housing to instantly turn your music volume down and let ambient sound in."
+            ],
+            "Wear all day in total comfort": [
+                "WH-1000XM4 headphones blend sophisticated style with exceptional comfort. Super-soft, pressure-relieving ear pads in foamed urethane evenly distribute pressure and increase ear/pad contact for a stable fit. And with a lighter-weight design, you'll barely notice you're wearing them."
+            ],
+            "All day power and quick charging": [
+                "With a huge 30 hours of battery life, you'll have enough power even for long trips. And if you need to top up in a hurry, you can get 5 hours' worth of charge after just 10 minutes with the optional AC adapter.2"
+            ],
+            "Effortless operation": [
+                "From controlling your music to accessing your voice assistant or making hands-free calls\u2014with the WH-1000XM4, it couldn't be easier."
+            ],
+            "Be smarter with Voice Assistant": [
+                "Manage your day, just by asking your assistant. Enjoy entertainment, connect with friends, get information, listen to music and notifications, set reminders, and more.4"
+            ],
+            "Clearer hands-free calling": [
+                "Conversation flows freely with easy, hands-free calling. Leave your phone where it is, just speak with a double tap. Thanks to Precise Voice Pickup Technology, which combines five built-in microphones with advanced audio signal processing, WH-1000XM4 delivers clearer voice quality to the other person on the phone."
+            ],
+            "Control at your fingertips": [
+                "Change the track, turn the volume up or down, and take or make calls just by tapping or swiping the panel."
+            ],
+            "Multipoint connection": [
+                "For total convenience, WH-1000XM4 headphones can be paired with two Bluetooth devices at the same time. So when a call comes in, your headphones know which device is ringing and connect to the right one automatically. You'll also be able to quickly, smoothly switch your headphones to either of the two devices at the touch of a button.3"
+            ],
+            "Fast Pair": [
+                "The WH-1000XM4 supports Google's helpful new Fast Pair feature. It lets you easily locate where you left your WH-1000XM4 headphones by tone sound, or checking their last known location in Google's Find My Device app on your smartphone."
+            ],
+            "So immersive. So real.": [
+                "Immerse yourself in sound all around you. As real as if you are there at a live concert or with the artist recording in a studio. With 360 Reality Audio, music has never been so immersive and so real. These headphones let you enjoy 360 Reality Audio."
+            ],
+            "Artist Connection App": [
+                "Try sample music on the demo player by downloading the Artist Connection App"
+            ]
+        }
+    }
+}
