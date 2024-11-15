@@ -1,0 +1,330 @@
+{
+    "c66b053e-7cf1-4e11-8e12-8b274a6b551a": {
+        "name": "BRAVIA Theater Bar 9 with 13 speakers, Dolby Atmos\u00ae/DTS:X\u00ae",
+        "link": "https://electronics.sony.com/audio/soundbars/c/all-soundbars/audio/soundbars/all-soundbars/p/hta9000",
+        "price": "$1,199.99",
+        "emi": "4 payments at 0% APR or  starting  /mo",
+        "about_us": [
+            "Hear cinema-style surround sound all around you with 360 Spatial Sound Mapping.",
+            "Sound is auto calibrated to your room\u2019s characteristics with Sound Field Optimization.",
+            "Supports industry-standard audio formats including Dolby Atmos\u00ae, DTS:X\u00ae, and IMAX\u00ae Enhanced.2,3",
+            "With 13 speaker units, hear exceptional acoustic performance and precise room filling spatial audio.",
+            "Expand the cinematic experience with optional wireless subwoofer (SW3/SW5) and rear speakers (RS3R/SA-RS5).",
+            "Pair with compatible BRAVIA TVs to control the soundbar from the TV menu and hear elevated audio with Acoustic Center Sync.",
+            "Use BRAVIA Connect app to easily control BRAVIA Theater from your smartphone and change volume, sound profiles, and advanced settings.",
+            "Supports video formats 4K HDR, 8K HDR, Dolby Vision\u00ae and HDMI 2.1 gaming features 4K120, VRR, ALLM.2,6",
+            "Level-up with compatibility for BRAVIA TV exclusive features for PS5\u00ae \u2013 Auto HDR Tone Mapping and Auto Genre Picture Mode.7",
+            "Wirelessly stream music with support for Spotify Connect\u2122, Apple\u00ae AirPlay\u00ae 2 and Bluetooth\u00ae.8,9,10",
+            "Bring your music to life with high-res audio compatibility, low-res up-mixing, and 360 Reality Audio.11"
+        ],
+        "specification": {
+            "Bluetooth\u00ae Communication (Receiver)": [
+                {
+                    "AAC": "Yes"
+                },
+                {
+                    "SBC": "Yes"
+                },
+                {
+                    "LDAC": "Yes"
+                }
+            ],
+            "Color": [
+                {
+                    "Color": "Black"
+                }
+            ],
+            "Firmware Update": [
+                {
+                    "via Network": "Yes"
+                }
+            ],
+            "Function for Custom Installation": [
+                {
+                    "Control Features": "CIS IP Control: Yes"
+                },
+                {
+                    "Controller Connectivity": "Certification (Crestron/Control4/Savant): Yes,\nCertification (IHIJI): Yes"
+                }
+            ],
+            "Function with BRAVIA": [
+                {
+                    "ACOUSTIC CENTER SYNC": "Yes"
+                },
+                {
+                    "VOICE ZOOM": "Yes"
+                },
+                {
+                    "Quick Setting Menu": "Yes"
+                }
+            ],
+            "Interfaces": [
+                {
+                    "Display": "LED indicator: Yes,\nLED Indicator OFF Mode: Yes"
+                },
+                {
+                    "Button on main unit": "Power: Yes"
+                },
+                {
+                    "HDMI": "HLG (hybrid log gamma): Yes,\nHDCP2.2: Yes,\nHDCP2.3: Yes,\n18Gbps: Yes,\n40Gbps: Yes,\nx.v.Color (xvYCC): Yes,\nHDMI control: Yes,\nScene Select Sync: Yes,\nHome Theater Control: Yes,\nBRAVIA Sync: Yes,\nHDMI CEC: Yes,\nHDMI standby through: Yes"
+                },
+                {
+                    "Speaker Terminal": "S-Center out: Yes"
+                },
+                {
+                    "WI-FI": "Wi-Fi method: Yes,\nIEEE802.11 version: a/b/g/n/ac"
+                }
+            ],
+            "Network Service": [
+                {
+                    "Spotify Connect": "Yes"
+                },
+                {
+                    "AirPlay 2": "Yes"
+                }
+            ],
+            "Power": [
+                {
+                    "Power Consumption": "Power Consumption(On Operation) *approx: 62W,\nPower Consumption(On Standby mode) *approx: Less than 0.5W,\nPower consumption(Bluetooth\u00ae standby mode) *approx\u00b9\u00b3: Less than 2.3W\nPower consumption(Network standby mode) *approx: Less than 2.3W"
+                },
+                {
+                    "Power Supply": "Power Requirement: 120 V,\nPower frequency: 60 Hz"
+                },
+                {
+                    "Power Cable Length": "Bar Speaker (mm): 1600"
+                },
+                {
+                    "Plug details": "AC plug type: A"
+                },
+                {
+                    "Power Setting": "Auto Standby: Yes,\nNetwork / Bluetooth\u00ae Standby Mode\u00b9\u00b3: Yes"
+                }
+            ],
+            "Shop Front Mode": [
+                {
+                    "Built in Demo": "Yes"
+                },
+                {
+                    "USB playback demo": "Yes"
+                },
+                {
+                    "DEMO mode(1/2/3/4)": "Yes (Yes/Yes/-/-)"
+                }
+            ],
+            "Sound Function": [
+                {
+                    "Sound Mode": "Sound Field: Yes"
+                },
+                {
+                    "Sound Effect": "Night Mode: Yes,\nVoice Mode: Yes"
+                },
+                {
+                    "Sound Adjustment": "Subwoofer volume: Yes(w Option Woofer),\nBass level: Yes,\nAV Sync: Yes,\nRear Speaker volume: Yes(w Option Rear),\nAdvanced Auto Volume(AAV): Yes,\nAudio DRC: Yes,\nMute: Yes,\nRear level: Yes"
+                },
+                {
+                    "Sound Enhancement": "DSEE Ultimate: Yes"
+                },
+                {
+                    "Surround": "Dolby Speaker Virtual: Yes,\nDolby Surround: Yes,\nNeural:X: Yes"
+                },
+                {
+                    "DCAC Feature": "Sound Field Optimization: Yes,\nmic for DCAC: Yes(built-in)"
+                }
+            ],
+            "Speaker Layout": [
+                {
+                    "Speaker Structure": "13 units"
+                }
+            ],
+            "Speaker Unit(Side)": [
+                {
+                    "Full Range": "Number of speaker: 2,\nEnclosure Type: Acoustic suspension,\nUnit size (mm): 46 x 54,\nUnit size (inch): 1 13/16 x 2 1/4,\nDriver Unit: cone,\nX-Balanced Speaker Unit: Yes"
+                }
+            ],
+            "Operation": [
+                {
+                    "Easy Setup": "Yes(BCA)"
+                }
+            ],
+            "Speaker Unit(front)": [
+                {
+                    "Woofer": "Number of speaker: 2,\nEnclosure Type: Acoustic suspension,\nUnit size (mm): 45 x 90,\nUnit size (inch): 1 13/16 x 3 5/8,\nDriver Unit: cone,\nX-Balanced Speaker Unit: Yes"
+                },
+                {
+                    "Tweeter": "Number of speaker: 2,\nUnit size (mm): 10,\nUnit size (inch): 13/32,\nDriver Unit: soft dome"
+                },
+                {
+                    "Upfiring Speaker": "Upfiring Speaker: 2,\nUnit size (mm): 46 x 54,\nUnit size (inch): 1 13/16 x 2 1/4,\nDriver Unit: cone,\nX-Balanced Speaker Unit: Yes"
+                },
+                {
+                    "Beam Tweeter": "Number of speaker: 2"
+                },
+                {
+                    "Passive Radiator": "Passive Radiator: Yes,\nNr of Passive Radiator: 2"
+                }
+            ],
+            "Speaker Grill": [
+                {
+                    "Speaker Grill (Bar)": "Bar grill type: fixed,\nFront Grille Material: Fabric"
+                }
+            ],
+            "Speaker Unit(Center)": [
+                {
+                    "Woofer": "Number of speaker: 2,\nEnclosure Type: Acoustic suspension,\nUnit size (mm): 45 x 90,\nUnit size (inch): 1 13/16 x 3 5/8,\nDriver Unit: cone,\nX-Balanced Speaker Unit: Yes"
+                },
+                {
+                    "Tweeter": "Number of speaker: 1,\nUnit size (mm): 22,\nUnit size (inch): 7/8,\nDriver Unit: soft dome"
+                }
+            ],
+            "Wireless Function": [
+                {
+                    "Wireles Surround (with optional wireless speakers)": "Yes"
+                }
+            ],
+            "Amplifier": [
+                {
+                    "Amplifier Type": "Digital Amplifier: Yes,\nS-Master HX: Yes"
+                },
+                {
+                    "Number of Channel": "13ch"
+                }
+            ],
+            "Bluetooth\u00ae Specification": [
+                {
+                    "Bluetooth\u00ae communication(RX / TX)\u00b9\u00b3": "RX/-"
+                },
+                {
+                    "A2DP": "Yes"
+                },
+                {
+                    "AVRCP": "Yes"
+                },
+                {
+                    "Bluetooth\u00ae version\u00b9\u00b3": "5.2"
+                },
+                {
+                    "Bluetooth\u00ae Standby\u00b9\u00b3": "Yes"
+                }
+            ],
+            "Application": [
+                {
+                    "Sony | BRAVIA Connect": "Sony | Home Entertainment Connect via Wi-Fi: Yes"
+                }
+            ],
+            "Weight and Measurements": [
+                {
+                    "Dimensions (Approx.)": "bar speaker (WxHxD) mm: 1300 x 64 x 113,\nbar speaker (WxHxD) inch: 51 1/4 x 2 5/8 x 4 1/2,\ncarton type: Box,\nCarton (WxHxD) mm: W1404 x H137 x D250"
+                },
+                {
+                    "Weight (Approx.)": "bar speaker (kg): 5.5,\nbar speaker (oz): 12 lb 3 oz"
+                }
+            ],
+            "Decode Format": [
+                {
+                    "High Resolution Audio": "Yes"
+                },
+                {
+                    "360 Reality Audio": "Yes"
+                },
+                {
+                    "HDMI input": "IMAX ENHANCED: future update,\nLPCM: 2ch/5.1ch/7.1ch,\nLPCM fs: -192kHz/24bit,\nMPEG-H 3D Audio BL profile(Level3/Level4): Yes,\n360 Reality Audio: Yes"
+                },
+                {
+                    "HDMI ARC": "Dolby Digital: Yes,\nDolby Digital Plus: Yes,\nDolby Digital Plus/Atmos: Yes,\nDolby Dual mono: Yes,\nDTS: Yes,\nDTS 96/24: Yes,\nLPCM 2ch: Yes,\nLPCM fs: 48kHz/24bit"
+                },
+                {
+                    "HDMI eARC": "DTS: Yes,\nDTS HD High Resolution Audio: Yes,\nDTS HD Master Audio: Yes,\nDTS ES: Yes,\nDTS 96/24: Yes,\nDTS:X: Yes,\nIMAX ENHANCED: future update,\nLPCM: 192kHz/24bit"
+                }
+            ],
+            "Supplied Accessories": [
+                {
+                    "Remote Commander": "Model Name: RHT-AH513U,\nBatteries for remote commander: Yes"
+                },
+                {
+                    "Cable": "TV center speaker mode cable,\nHDMI Cable,\nAC Cord"
+                },
+                {
+                    "Instruction Manual / Reference Guide": "English(US) or English(GB): Yes,\nFrench or French(CA): Yes,\nSpanish or Spanish(LA): Yes"
+                },
+                {
+                    "Card": "Warranty Card"
+                },
+                {
+                    "Others": "Wall mounting bracket: Yes,\nWall mounting template: Yes,\nFoot: Yes"
+                }
+            ],
+            "Interface": [
+                {
+                    "HDMI": "Number of Input/Output: 1 / 1 (eARC/ARC),\neARC: Yes,\n3D pass through: Yes,\n4K/60p/YUV4:4:4: Yes,,\n8K/60  YUV 4-2-0 10bit  (Non compression): Yes,\n4K/120 YUV4-4-4 10bit (Non compression): Yes,\nHDR: Yes,\nDolby Vision: Yes"
+                }
+            ]
+        },
+        "features": {
+            "Taking sound aboveand beyond": [
+                "This is a modal window.",
+                "Beginning of dialog window. Escape will cancel and close the window.",
+                "End of dialog window.",
+                "Our top-of-the-range soundbar features 360 Spatial Sound Mapping with 13 speaker units, a new generation of surround technology for immersive, cinematic sound."
+            ],
+            "All features": [
+                "Music",
+                "Usability",
+                "Surround Sound",
+                "Calibration",
+                "Acoustic Design",
+                "BRAVIA"
+            ],
+            "Rewriting the rules of surround sound": [
+                "Go beyond conventional surround sound. Combining physical and phantom speakers, BRAVIA Theatre Bar 9 creates a wider surround sound field for outstanding immersion.",
+                "Experience the ultimate in home surround. 360 Spatial Sound Mapping technology creates 5 phantom speakers in front of you and reflects sound off the ceiling and walls, enabling cinema-style surround sound from a single soundbar.",
+                "Now more people can enjoy the same immersive surround experience. By using phantom speakers, 360 Spatial Sound Mapping technology achieves wider coverage than conventional virtual surround systems.1",
+                "Add optional wireless rear speakers for an even more expansive sound stage. Working with the rear speakers, the Bar 9 creates up to 11 phantom speakers, including speakers behind you for that authentic cinema feel.1",
+                "To complete the cinematic experience, combine Sony\u2019s optional wireless rear speakers with an optional subwoofer and enjoy sound with even greater impact.",
+                "Bring authentic cinema surround sound quality to your living room. BRAVIA Theatre Bar 9 not only supports industry-standard formats including Dolby Atmos\u00ae and DTS:X\u00ae, but also has IMAX\u00ae Enhanced certification.2,3",
+                "Sony's new upmixer delivers rich surround sound even from stereo content. Its innovative algorithm extracts and redistributes individual audio objects to immerse you in 3D sound. While upmixing, AI Sound Separation processing detects human voices and makes them sound clearer."
+            ],
+            "Makes everywhere the best seat": [
+                "It doesn\u2019t matter which seat you\u2019re in. It doesn\u2019t even matter what your room\u2019s acoustics are like. Sound Field Optimization lets everyone experience movie theater surround sound.",
+                "We\u2019ve made surround sound simple. Sound Field Optimization not only calibrates sound based on speaker position, it also takes your room\u2019s acoustics into account, and your listening position too.",
+                "Adding rear speakers? Don\u2019t worry about finding the perfect position. Sound Field Optimization calibrates sound based on their location and uses phantom speakers to fill any gaps in the surround stage.",
+                "No need to remodel your home to get movie theatre acoustics. Sound Field Optimization analyses your room's acoustic characteristics, then uses advanced signal processing to overwrite them with those of a movie theater.",
+                "Enjoy quality surround sound wherever you're sitting. Just run calibration with our smartphone app, BRAVIA Connect, and BRAVIA Theatre Bar 9 will detect your position in the room and optimize sound to suit.5"
+            ],
+            "Innovative acoustic design with 13 speaker units": [
+                "There\u2019s more to great surround sound than signal processing alone. Your physical speakers need to deliver exceptional acoustic performance too \u2013 and BRAVIA Theatre Bar 9 doesn\u2019t disappoint.",
+                "Discover clear, wide surround sound from a single soundbar. The Bar 9 features a new 2-way speaker with added tweeters for front and centre, delivering wider surround sound and a precise sound image.",
+                "Don\u2019t be fooled by the slimline design. Thanks to built-in quad woofers and passive radiators, the Bar 9 generates the type of deep, resonant bass you\u2019d expect from much larger speakers.",
+                "For added atmosphere, side speakers fill your living space with wide directional sound while beam tweeters expand the sound stage by reflecting directional high frequency sound off the walls.",
+                "Up-firing speakers reflect sound off the ceiling for immersive overhead audio. 360 Spatial Sound Mapping creates phantom ceiling speakers for even more atmospheric sound.",
+                "The speakers\u2019 unique rectangular shape maximizes the diaphragm area for punchy bass. It also reduces driver excursion and maintains sound pressure, ensuring less distortion and greater vocal clarity."
+            ],
+            "With BRAVIA, home becomes cinema": [
+                "Bring the emotion and excitement of a movie theatre home. Pair BRAVIA Theatre Bar 9 with a BRAVIA TV for an unmatched audio-visual experience, immersing you in every scene as never before.",
+                "Step up to a completely cinematic experience. Acoustic Center Sync enables the Bar 9 to use your compatible BRAVIA as a centre speaker. So sound comes from the screen, adjusted as part of one integrated speaker system.4",
+                "No more muffled voices. Combined with compatible BRAVIA, our new Voice Zoom 3\u2122 powered by AI machine learning recognises human voices and amplifies or reduces their volume so even faint dialogue sounds loud and clear.",
+                "Control surround sound easily with your BRAVIA TV remote. Sound settings automatically appear on the BRAVIA Quick Settings menu for easy control of features, like Sound Field and volume.5",
+                "Get the most out of all your entertainment. BRAVIA Theatre Bar 9 supports the latest audio and visual formats, taking movies, games and music to a whole new level.",
+                "With its HDMI 2.1 capability, BRAVIA Theatre Bar 9 ensures the original picture quality of any source is preserved, right up to 8K HDR.6",
+                "Lose yourself in gaming. Enjoy immersive overhead sound with the PlayStation\u00ae5 console, optimized picture settings by Auto HDR Tone Mapping and Auto Genre Picture Mode when connecting compatible BRAVIA\u2122 TVs and PS5\u00ae console. This product also supports VRR, ALLM and SBTM for more realistic gaming.2,6,7"
+            ],
+            "From cinema to music venue": [
+                "Give your music the sound stage it deserves. With BRAVIA Theatre Bar 9 it's easy to stream your favorite tracks and enjoy every detail in high-quality upmixed sound.",
+                "It's not all about movies. You can also enjoy music in high-quality upmixed sound. Built-in support for Spotify Connect\u2122 and Apple AirPlay lets you play all your favorite tracks.8,9,10",
+                "Stream audio content wirelessly. Bluetooth\u00ae technology makes it easy to enjoy music, podcasts and more from your smartphone, tablet or laptop.",
+                "Using Edge-AI, DSEE Ultimate\u2122 (Digital Sound Enhancement Engine) upscales compressed digital music files in real time, restoring acoustic details for a richer listening experience.",
+                "Bring your music to life as never before. Enjoy tracks the way the artists intended with High-Resolution Audio. Or discover 360 Reality Audio for a truly immersive live music experience.11"
+            ],
+            "So easy to use": [
+                "BRAVIA Theatre Bar 9 makes surround sound simple. From initial set-up to smartphone control, it's all about minimum effort, maximum enjoyment.",
+                "The BRAVIA Connect smartphone app guides you through initial settings, assists with troubleshooting, and lets you control volume, sound field and more. It also notifies you about software updates and lets you control a compatible TV too.",
+                "Simply plug in the Bar 9, connect to your TV using HDMI, and power on. With LAN, HDMI IN and HDMI OUT (eARC), you\u2019re all set to enjoy a new spatial surround sound experience.",
+                "To help people who are blind or have low vision set up the soundbar, tactile dots indicate a QR code for the BRAVIA Connect app, which offers screen reader support. Tactile dots on the back panel indicate the eARC HDMI terminal for connecting to a TV.",
+                "The supplied spacer allows the soundbar to sit tidily over the TV stand for an integrated look that saves you space."
+            ],
+            "Environment in mind": [
+                "Sustainability",
+                "Sony\u2019s home audio products are designed not only for excellent sound experience but also with the environment in mind. We are committed to using less virgin plastic in our products and packaging."
+            ]
+        }
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "dae78cf9-d9e9-4556-87fc-5d5e6bf54ebe": {
+        "name": "MDR-EX155AP Wired In-ear Headphones with Microphone | Black",
+        "link": "https://electronics.sony.com/audio/headphones/c/all-headphones/audio/headphones/in-ear/p/mdrex155ap-b",
+        "price": "$29.99",
+        "emi": "EMI info not found",
+        "about_us": [
+            "About Us info not found"
+        ],
+        "specification": {
+            "General Features": [
+                {
+                    "Headphone Type": "Closed, Dynamic"
+                },
+                {
+                    "Driver Unit": "9 mm, dome type (CCAW Voice Coil )"
+                },
+                {
+                    "Magnet": "Neodymium"
+                },
+                {
+                    "Impedance (Ohm)": "16 ohm (1kHz)"
+                },
+                {
+                    "Frequency Response": "5Hz-24,000Hz"
+                },
+                {
+                    "Sensitivities (dB/mW)": "103dB / mW"
+                },
+                {
+                    "Cord Length": "Approx. 1.2 m, Litz cable,Y-type"
+                },
+                {
+                    "Plug": "L-shaped gold-plated 4-pole mini plug"
+                },
+                {
+                    "Wearing Style": "In-ear"
+                }
+            ],
+            "Portable Headphone Amplifier": [
+                {
+                    "Weight": "Approx. 3g"
+                }
+            ],
+            "Color": [
+                {
+                    "Color Options": "Black, White"
+                }
+            ],
+            "What's In The Box": [
+                {
+                    "In the Box": "Hybrid earpiece SS/S/M/L Cable adjuster\nPlaceholder"
+                }
+            ]
+        },
+        "features": {}
+    }
+}
