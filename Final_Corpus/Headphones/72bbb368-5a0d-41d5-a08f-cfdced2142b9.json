@@ -1,0 +1,58 @@
+{
+    "72bbb368-5a0d-41d5-a08f-cfdced2142b9": {
+        "name": "WH-RF400 Home Wireless Headphones",
+        "link": "https://electronics.sony.com/audio/headphones/c/all-headphones/audio/headphones/headband/p/whrf400",
+        "price": "$139.99",
+        "specification": [
+            {
+                "Charge Time": "Approx. 7 hrs (Full charge)"
+            },
+            {
+                "Cord Length": "N/A"
+            },
+            {
+                "Cord type": "N/A"
+            },
+            {
+                "Diaphragm": "PET"
+            },
+            {
+                "Driver Unit": "1.57\""
+            },
+            {
+                "Frequency Response": "10 Hz-22,000 Hz"
+            },
+            {
+                "Headphone Type": "Dynamic"
+            },
+            {
+                "Impedance (Ohm)": "32 ohm (1 kHz)"
+            },
+            {
+                "Magnet": "Neodymium"
+            },
+            {
+                "Plug": "N/A"
+            },
+            {
+                "Sensitivities (dB/mW)": "100 dB/mW"
+            },
+            {
+                "Usage Time": "Maximum 20 Hours"
+            },
+            {
+                "Volume Control": "Yes (Rotary)"
+            },
+            {
+                "Wearing Style": "Over-ear"
+            },
+            {
+                "Weight": "275 g (with supplied rechargeable battery)"
+            }
+        ],
+        "features": [
+            "Zone out and tune in",
+            "150-ft wireless range"
+        ]
+    }
+}

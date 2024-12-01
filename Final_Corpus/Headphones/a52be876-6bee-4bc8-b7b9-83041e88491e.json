@@ -1,0 +1,46 @@
+{
+    "a52be876-6bee-4bc8-b7b9-83041e88491e": {
+        "name": "MDR-ZX110 Wired On-Ear Headphones | Black",
+        "link": "https://electronics.sony.com/audio/headphones/c/all-headphones/audio/headphones/headband/p/mdrzx110-blk",
+        "price": "$9.99",
+        "specification": [
+            {
+                "Closed Type": "Yes"
+            },
+            {
+                "Cord Length": "3.94 ft"
+            },
+            {
+                "Cord type": "Y-Shape"
+            },
+            {
+                "Driver Unit": "1.18 in dynamic – Dome type"
+            },
+            {
+                "Dynamic Type": "Yes"
+            },
+            {
+                "Frequency Response": "12–22,000Hz"
+            },
+            {
+                "Impedance (Ohm)": "24 ohm (1KHz)"
+            },
+            {
+                "Plug": "L-shaped stereo mini"
+            },
+            {
+                "Sensitivities (dB/mW)": "98 dB/mW"
+            },
+            {
+                "Wearing Style": "Over-ear\nHeadband"
+            },
+            {
+                "Weight": "4.23 oz"
+            }
+        ],
+        "features": [
+            "Neodymium dynamic drivers deliver precise sound",
+            "Swivel folding design makes travel easy"
+        ]
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "cf949865-e941-4582-a496-e91d7b809ed1": {
+        "name": "SS-CS3 Hi-Res Floorstanding Speaker (Single)",
+        "link": "https://electronics.sony.com/audio/speakers/c/all-speakers/audio/speakers/home-theater-speakers/p/sscs3",
+        "price": "$229.99",
+        "specification": [
+            {
+                "Front Speaker Dimensions (W x H x D)": "9.05 x 36.30 x 10.24 in"
+            },
+            {
+                "Front Speaker Enclosure Type": "Bass reflex"
+            },
+            {
+                "Front Speaker Input terminal": "Screw type"
+            },
+            {
+                "Front Speaker Model name": "SS-CS3"
+            },
+            {
+                "Front Speaker Rated Impedance": "6 ohms"
+            },
+            {
+                "Front Speaker System": "3-way, 4-driver speaker system"
+            },
+            {
+                "Front Speaker Units: Tweeter": "0.98 in dome type x 1"
+            },
+            {
+                "Front Speaker Units: Woofer": "5.12 in cone type x 2"
+            },
+            {
+                "Frequency Response": "45 Hz–50 kHz"
+            },
+            {
+                "Dimensions (W x H x D)": "9.05 x 36.30 x 10.24 in"
+            },
+            {
+                "Weight": "25.35 lb"
+            }
+        ],
+        "features": [
+            "High-Resolution Audio for uncompromising sound",
+            "Super tweeters expand your soundstage"
+        ]
+    }
+}
