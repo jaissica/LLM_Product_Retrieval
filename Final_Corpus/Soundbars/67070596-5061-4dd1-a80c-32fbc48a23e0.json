@@ -1,0 +1,31 @@
+{
+    "67070596-5061-4dd1-a80c-32fbc48a23e0": {
+        "name": "SA-SW3 Wireless Subwoofer for QUAD/Bar 9/Bar 8/HT-A9/HT-A7000/HT-A5000/HT-A3000/HT-S2000",
+        "link": "https://electronics.sony.com/audio/soundbars/c/all-soundbars/audio/soundbars/all-soundbars/p/sasw3",
+        "price": "$299.99",
+        "specification": [
+            {
+                "Subwoofer Type": "Wireless"
+            },
+            {
+                "Amplifier Type": "Digital Amplifier, S-Master"
+            },
+            {
+                "Amplifier Channels": "1ch"
+            },
+            {
+                "Power Consumption": "40W"
+            },
+            {
+                "Subwoofer Size (W X H X D)": "201x382.5x402mm (8x15-1/8x15-7/8in)"
+            },
+            {
+                "Subwoofer Weight": "10.5kg"
+            }
+        ],
+        "features": [
+            "Feel the power of deep bass",
+            "Rich, deep bass"
+        ]
+    }
+}

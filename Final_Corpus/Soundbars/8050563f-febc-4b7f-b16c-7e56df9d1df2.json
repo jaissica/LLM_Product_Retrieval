@@ -1,0 +1,91 @@
+{
+    "8050563f-febc-4b7f-b16c-7e56df9d1df2": {
+        "name": "HT-S2000 3.1ch Dolby Atmos® Soundbar",
+        "link": "https://electronics.sony.com/audio/soundbars/c/all-soundbars/audio/soundbars/all-soundbars/p/hts2000-uc2",
+        "price": "$299.99",
+        "specification": [
+            {
+                "Speaker Structure": "3.1ch(Built-in-Subwoofer)"
+            },
+            {
+                "bar speaker": "HT-S2000"
+            },
+            {
+                "Number of Input/Output": "- / 1 (eARC/ARC)"
+            },
+            {
+                "eARC": "Yes"
+            },
+            {
+                "BRAVIA Sync": "Yes"
+            },
+            {
+                "HDMI CEC": "Yes"
+            },
+            {
+                "Input and Output Terminals": "Optical audio input: Yes,\nUSB typeA: Yes,\nFile System: FAT32"
+            },
+            {
+                "Bluetooth": "RX"
+            },
+            {
+                "IEEE802.11 version": "a/b/g/n/ac"
+            },
+            {
+                "Bluetooth version": "5.2"
+            },
+            {
+                "HDMI eARC": "Dolby Digital,\nDolby Digital plus,\nDolby TrueHD,\nDolby Atmos,\nDolby Dual mono,\nDTS,\nDTS HD High Resolution Audio,\nDTS HD Master Audio,\nDTS ES,\nDTS 96/24,\nDTS:X,\nLPCM: 2ch/5.1ch/7.1ch,\nLPCM fs: -192kHz/24bit"
+            },
+            {
+                "Optical Input": "Dolby Digital: Yes,\nDolby Dual mono: Yes,\nDTS: Yes,\nLPCM 2ch: Yes,\nLPCM fs: -48kHz/24bit"
+            },
+            {
+                "USB": "Wav: Yes"
+            },
+            {
+                "BLUETOOTH (RECEIVER)": "AAC,\nSBC"
+            },
+            {
+                "Sound Effect": "Night Mode,\nVoice Mode"
+            },
+            {
+                "Virtual Surround Technology": "S-Force PRO\nVertical Surround Engine\nDTS Virtual:X"
+            },
+            {
+                "Wireless Surround (with optional wireless speakers)": "Yes"
+            },
+            {
+                "Amplifier Type": "Digital Amplifier,\nS-Master"
+            },
+            {
+                "Amplifier Channels": "Number of Channel: 5ch"
+            },
+            {
+                "SUPPLIED ACCESSORIES": "Batteries for remote commander,\nHDMI Cable,\nAC Adaptor,\nAC Cord,\nWall Mount Template,\nCustomer Registration Card,\nWarranty Card"
+            },
+            {
+                "Model name": "RMT-AH513U"
+            },
+            {
+                "Power Consumption (On Operation) *approx": "50W"
+            },
+            {
+                "Main Unit Size - Body Only (W x H x D) (INCH)": "31 1/2 in\n× 2 5/8 in × 5 in"
+            },
+            {
+                "Main Unit Size - Body Only (W x H x D) (MM)": "800 X 64 X 124"
+            },
+            {
+                "Main Unit Weight - Body Only (KG)": "3.7kg"
+            },
+            {
+                "Main Unit Weight - Body Only (OZ)": "8 lb 3 oz"
+            }
+        ],
+        "features": [
+            "Clear dialogue. Deep bass. Powerful sound.",
+            "Immersive surround sound"
+        ]
+    }
+}

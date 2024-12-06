@@ -1,0 +1,31 @@
+{
+    "8036e937-4a58-490c-bbac-cc856ffc2ce8": {
+        "name": "SA-SW5 Wireless Subwoofer for QUAD/Bar 9/Bar 8/HT-A9/HT-A7000/HT-A5000/HT-A3000/HT-S2000",
+        "link": "https://electronics.sony.com/audio/soundbars/c/all-soundbars/audio/soundbars/all-soundbars/p/sasw5",
+        "price": "$499.99",
+        "specification": [
+            {
+                "Subwoofer Type": "Wireless"
+            },
+            {
+                "Amplifier Type": "Digital Amplifier, S-Master"
+            },
+            {
+                "Amplifier Channels": "1ch"
+            },
+            {
+                "Power Consumption": "43W"
+            },
+            {
+                "Subwoofer Size (W X H X D)": "277 X 409 X 422mm"
+            },
+            {
+                "Subwoofer Weight": "13kg"
+            }
+        ],
+        "features": [
+            "Amplify your entertainment with powerful, booming bass",
+            "Deep, explosive bass"
+        ]
+    }
+}

@@ -1,0 +1,91 @@
+{
+    "50e5fdb3-39ba-4fc8-9104-acd911879a03": {
+        "name": "LinkBuds Truly Wireless Earbuds | Gray",
+        "link": "https://electronics.sony.com/audio/headphones/c/all-headphones/audio/headphones/truly-wireless-earbuds/p/wfl900-h",
+        "price": "$129.99",
+        "specification": [
+            {
+                "BATTERY LIFE (CONTINUOUS COMMUNICATION TIME)": "Max. 2.5 hrs"
+            },
+            {
+                "Battery Charge Method": "USB Charging (with Case)"
+            },
+            {
+                "Battery Life (Waiting Time)": "Max. 10 hrs"
+            },
+            {
+                "Battery Life (continuous music playback time) (Buds+Case)": "Max. 17.5hrs (5.5hrs+12hrs)"
+            },
+            {
+                "Bluetooth® version": "Bluetooth Specification Version 5.2"
+            },
+            {
+                "Effective Range": "32.81 ft"
+            },
+            {
+                "FREQUENCY RANGE": "2.4 GHz band (2.4000 GHz–2.4835 GHz)"
+            },
+            {
+                "Profile": "A2DP, AVRCP, HFP, HSP"
+            },
+            {
+                "Supported Audio Format(s)": "SBC, AAC"
+            },
+            {
+                "Supported Content Protection": "SCMS-T"
+            },
+            {
+                "Dimension": "Approx. 1.63 x 1.91 x 1.22\" (41.4 x 48.5 x 30.9 mm )"
+            },
+            {
+                "Weight": "Approx. 1.2 oz (34 g)"
+            },
+            {
+                "DSEE": "Yes"
+            },
+            {
+                "Frequency Response (Bluetooth® Communication)": "20 Hz–20,000 Hz (44.1 kHz sampling)"
+            },
+            {
+                "Headphone Type": "Open, Dynamic"
+            },
+            {
+                "Magnet": "High-power neodymium magnets"
+            },
+            {
+                "Waterproof": "Yes (IPX4)"
+            },
+            {
+                "Weight": "Approx. 0.14 oz (4.1 g) x2"
+            },
+            {
+                "Adaptive Control": "Yes"
+            },
+            {
+                "Speak to Chat": "Yes"
+            },
+            {
+                "Quick Access (Spotify)": "Yes"
+            },
+            {
+                "360 Reality Audio": "Yes"
+            },
+            {
+                "Wide Area Tap": "Yes"
+            },
+            {
+                "Wearing Detection": "Yes"
+            },
+            {
+                "Google Assistant": "Yes"
+            },
+            {
+                "Siri and Amazon Alexa": "Yes"
+            }
+        ],
+        "features": [
+            "Quick Access",
+            "A new sound experience for AR gaming"
+        ]
+    }
+}

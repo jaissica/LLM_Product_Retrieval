@@ -1,0 +1,43 @@
+{
+    "a975bd25-d200-4a48-b9b4-bc91cb08e9a4": {
+        "name": "MDR-ZX110NC Noise Canceling On-ear Headphones | Black",
+        "link": "https://electronics.sony.com/audio/headphones/c/all-headphones/audio/headphones/headband/p/mdrzx110nc",
+        "price": "$49.99",
+        "specification": [
+            {
+                "Cord Length": "3.94 ft"
+            },
+            {
+                "Diaphragm": "PET"
+            },
+            {
+                "Driver Unit": "1.18 in dynamic – Dome type"
+            },
+            {
+                "Frequency Response": "10–22,000 Hz"
+            },
+            {
+                "Impedance (Ohm)": "Power ON 220 ohm, OFF 45 ohm (at 1 kHz)"
+            },
+            {
+                "Magnet": "Neodymium"
+            },
+            {
+                "Plug": "L-shaped gold-plated stereo mini"
+            },
+            {
+                "Sensitivities (dB/mW)": "115 dB/mW – Power on\n110 dB/mW – Power off"
+            },
+            {
+                "Wearing Style": "On-ear\nHeadband"
+            },
+            {
+                "Weight": "5.29 oz (including battery and excluding cable)"
+            }
+        ],
+        "features": [
+            "Noise-free audio experience",
+            "Enjoy rich, full frequency response"
+        ]
+    }
+}

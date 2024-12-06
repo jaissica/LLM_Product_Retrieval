@@ -1,0 +1,76 @@
+{
+    "95046899-9ef6-4205-9adb-55731ba6f94b": {
+        "name": "RA3000 Wi-Fi Enabled 360 Reality Audio Speaker | Black",
+        "link": "https://electronics.sony.com/audio/speakers/c/all-speakers/audio/speakers/360-reality-audio/p/srsra3000-b",
+        "price": "$399.99",
+        "specification": [
+            {
+                "Compatible Profiles": "A2DP, AVRCP (Absolute Volume), SPP"
+            },
+            {
+                "Supported Codecs": "SBC, AAC"
+            },
+            {
+                "Power Consumption": "20W"
+            },
+            {
+                "Input and Output Terminals": "Audio in (3.5 mm)"
+            },
+            {
+                "Dimensions (W x H x D)": "5 3/4 x 9 3/4 x 6 1/8 inches"
+            },
+            {
+                "Weight": "5 1/2 lb"
+            },
+            {
+                "360 Reality Audio": "Yes"
+            },
+            {
+                "Auto sound calibration": "Yes"
+            },
+            {
+                "Auto volume": "Yes (ON/OFF)"
+            },
+            {
+                "Custom EQ": "Yes"
+            },
+            {
+                "Digital Sound Enhancement Engine": "Yes"
+            },
+            {
+                "Immersive Audio Enhancement": "Yes"
+            },
+            {
+                "Number of Speaker": "Tweeter Unit 2, Full-range 1, Passive Radiator 2"
+            },
+            {
+                "Preset EQ": "Yes (OFF/BASS/EXCITED/BRIGHT/VOCAL)"
+            },
+            {
+                "Speaker Size": "Tweeter Unit 11/16\", Full-range 3 1/8\", Passive Radiator 4 x 1 1/2\""
+            },
+            {
+                "360RAcast": "Yes"
+            },
+            {
+                "Chromecast built-in": "Yes"
+            },
+            {
+                "Wi-Fi Specifications": "11a, 11b, 11g, 11n"
+            },
+            {
+                "Chromecast built-in": "Yes"
+            },
+            {
+                "Spotify Connect": "Yes"
+            },
+            {
+                "Works with Alexa": "Yes"
+            },
+            {
+                "Works with Google Assistant": "Yes"
+            }
+        ],
+        "features": []
+    }
+}
