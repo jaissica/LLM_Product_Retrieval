@@ -1,0 +1,7 @@
+,Query,Model_accuracy,System_accuracy
+0,Get me links of headphones:,92.86,72.22
+1,Get me links of speakers:,77.78,73.68
+2,Get me headphones with frequency response more than 50000 Hz or 50 kHz,100.00,100.00
+3,Speakers in less than 200 $,42.86,42.86
+4,Soundbars having input and output terminal USB typeA,100.00,50.00
+5,Gaming type headphone:,100.00,100.00
