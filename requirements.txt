@@ -1,0 +1,5 @@
+nltk
+openai
+pinecone
+pandas
+streamlit
