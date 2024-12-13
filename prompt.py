@@ -165,8 +165,8 @@ def get_acurracy_mat(query_data, query_res):
     return accuracy
 
 # Testing the prompt feature
-prompt_llm("Get me links of headphones", model_name="4")
-print("-------")
+# prompt_llm("Get me links of headphones", model_name="4")
+# print("-------")
 res = response.choices[0].message.content
 final = res.split("|")
 total = 0
@@ -193,6 +193,7 @@ for type, ques in parsed_data.items():
         ans35[type][q] = prompt_llm(q )
         ans4[type][q] = prompt_llm(q, "4")
 
+# functions to calculate accuracy
 print("-------")
 get_acurracy_mat(parsed_data, ans35)
 print("-------")
