@@ -1,4 +1,5 @@
 # for scraping features
+#Step 1 - scrap data
 import time
 import json
 import os
