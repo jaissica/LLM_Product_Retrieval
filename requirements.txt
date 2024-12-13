@@ -1,6 +1,7 @@
 nltk
-openai
+openai==0.28
 pinecone
 pinecone-client
 pandas
 streamlit
+selenium

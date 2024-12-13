@@ -1,0 +1,205 @@
+{
+    "c66b053e-7cf1-4e11-8e12-8b274a6b551a": {
+        "name": "BRAVIA Theater Bar 9 with 13 speakers, Dolby Atmos®/DTS:X®",
+        "link": "https://electronics.sony.com/audio/soundbars/c/all-soundbars/audio/soundbars/all-soundbars/p/hta9000",
+        "price": "$1,199.99",
+        "specification": [
+            {
+                "AAC": "Yes"
+            },
+            {
+                "SBC": "Yes"
+            },
+            {
+                "LDAC": "Yes"
+            },
+            {
+                "Color": "Black"
+            },
+            {
+                "via Network": "Yes"
+            },
+            {
+                "Control Features": "CIS IP Control: Yes"
+            },
+            {
+                "Controller Connectivity": "Certification (Crestron/Control4/Savant): Yes,\nCertification (IHIJI): Yes"
+            },
+            {
+                "ACOUSTIC CENTER SYNC": "Yes"
+            },
+            {
+                "VOICE ZOOM": "Yes"
+            },
+            {
+                "Quick Setting Menu": "Yes"
+            },
+            {
+                "Display": "LED indicator: Yes,\nLED Indicator OFF Mode: Yes"
+            },
+            {
+                "Button on main unit": "Power: Yes"
+            },
+            {
+                "HDMI": "HLG (hybrid log gamma): Yes,\nHDCP2.2: Yes,\nHDCP2.3: Yes,\n18Gbps: Yes,\n40Gbps: Yes,\nx.v.Color (xvYCC): Yes,\nHDMI control: Yes,\nScene Select Sync: Yes,\nHome Theater Control: Yes,\nBRAVIA Sync: Yes,\nHDMI CEC: Yes,\nHDMI standby through: Yes"
+            },
+            {
+                "Speaker Terminal": "S-Center out: Yes"
+            },
+            {
+                "WI-FI": "Wi-Fi method: Yes,\nIEEE802.11 version: a/b/g/n/ac"
+            },
+            {
+                "Spotify Connect": "Yes"
+            },
+            {
+                "AirPlay 2": "Yes"
+            },
+            {
+                "Power Consumption": "Power Consumption(On Operation) *approx: 62W,\nPower Consumption(On Standby mode) *approx: Less than 0.5W,\nPower consumption(Bluetooth® standby mode) *approx¹³: Less than 2.3W\nPower consumption(Network standby mode) *approx: Less than 2.3W"
+            },
+            {
+                "Power Supply": "Power Requirement: 120 V,\nPower frequency: 60 Hz"
+            },
+            {
+                "Power Cable Length": "Bar Speaker (mm): 1600"
+            },
+            {
+                "Plug details": "AC plug type: A"
+            },
+            {
+                "Power Setting": "Auto Standby: Yes,\nNetwork / Bluetooth® Standby Mode¹³: Yes"
+            },
+            {
+                "Built in Demo": "Yes"
+            },
+            {
+                "USB playback demo": "Yes"
+            },
+            {
+                "DEMO mode(1/2/3/4)": "Yes (Yes/Yes/-/-)"
+            },
+            {
+                "Sound Mode": "Sound Field: Yes"
+            },
+            {
+                "Sound Effect": "Night Mode: Yes,\nVoice Mode: Yes"
+            },
+            {
+                "Sound Adjustment": "Subwoofer volume: Yes(w Option Woofer),\nBass level: Yes,\nAV Sync: Yes,\nRear Speaker volume: Yes(w Option Rear),\nAdvanced Auto Volume(AAV): Yes,\nAudio DRC: Yes,\nMute: Yes,\nRear level: Yes"
+            },
+            {
+                "Sound Enhancement": "DSEE Ultimate: Yes"
+            },
+            {
+                "Surround": "Dolby Speaker Virtual: Yes,\nDolby Surround: Yes,\nNeural:X: Yes"
+            },
+            {
+                "DCAC Feature": "Sound Field Optimization: Yes,\nmic for DCAC: Yes(built-in)"
+            },
+            {
+                "Speaker Structure": "13 units"
+            },
+            {
+                "Full Range": "Number of speaker: 2,\nEnclosure Type: Acoustic suspension,\nUnit size (mm): 46 x 54,\nUnit size (inch): 1 13/16 x 2 1/4,\nDriver Unit: cone,\nX-Balanced Speaker Unit: Yes"
+            },
+            {
+                "Easy Setup": "Yes(BCA)"
+            },
+            {
+                "Woofer": "Number of speaker: 2,\nEnclosure Type: Acoustic suspension,\nUnit size (mm): 45 x 90,\nUnit size (inch): 1 13/16 x 3 5/8,\nDriver Unit: cone,\nX-Balanced Speaker Unit: Yes"
+            },
+            {
+                "Tweeter": "Number of speaker: 2,\nUnit size (mm): 10,\nUnit size (inch): 13/32,\nDriver Unit: soft dome"
+            },
+            {
+                "Upfiring Speaker": "Upfiring Speaker: 2,\nUnit size (mm): 46 x 54,\nUnit size (inch): 1 13/16 x 2 1/4,\nDriver Unit: cone,\nX-Balanced Speaker Unit: Yes"
+            },
+            {
+                "Beam Tweeter": "Number of speaker: 2"
+            },
+            {
+                "Passive Radiator": "Passive Radiator: Yes,\nNr of Passive Radiator: 2"
+            },
+            {
+                "Speaker Grill (Bar)": "Bar grill type: fixed,\nFront Grille Material: Fabric"
+            },
+            {
+                "Woofer": "Number of speaker: 2,\nEnclosure Type: Acoustic suspension,\nUnit size (mm): 45 x 90,\nUnit size (inch): 1 13/16 x 3 5/8,\nDriver Unit: cone,\nX-Balanced Speaker Unit: Yes"
+            },
+            {
+                "Tweeter": "Number of speaker: 1,\nUnit size (mm): 22,\nUnit size (inch): 7/8,\nDriver Unit: soft dome"
+            },
+            {
+                "Wireles Surround (with optional wireless speakers)": "Yes"
+            },
+            {
+                "Amplifier Type": "Digital Amplifier: Yes,\nS-Master HX: Yes"
+            },
+            {
+                "Number of Channel": "13ch"
+            },
+            {
+                "Bluetooth® communication(RX / TX)¹³": "RX/-"
+            },
+            {
+                "A2DP": "Yes"
+            },
+            {
+                "AVRCP": "Yes"
+            },
+            {
+                "Bluetooth® version¹³": "5.2"
+            },
+            {
+                "Bluetooth® Standby¹³": "Yes"
+            },
+            {
+                "Sony | BRAVIA Connect": "Sony | Home Entertainment Connect via Wi-Fi: Yes"
+            },
+            {
+                "Dimensions (Approx.)": "bar speaker (WxHxD) mm: 1300 x 64 x 113,\nbar speaker (WxHxD) inch: 51 1/4 x 2 5/8 x 4 1/2,\ncarton type: Box,\nCarton (WxHxD) mm: W1404 x H137 x D250"
+            },
+            {
+                "Weight (Approx.)": "bar speaker (kg): 5.5,\nbar speaker (oz): 12 lb 3 oz"
+            },
+            {
+                "High Resolution Audio": "Yes"
+            },
+            {
+                "360 Reality Audio": "Yes"
+            },
+            {
+                "HDMI input": "IMAX ENHANCED: future update,\nLPCM: 2ch/5.1ch/7.1ch,\nLPCM fs: -192kHz/24bit,\nMPEG-H 3D Audio BL profile(Level3/Level4): Yes,\n360 Reality Audio: Yes"
+            },
+            {
+                "HDMI ARC": "Dolby Digital: Yes,\nDolby Digital Plus: Yes,\nDolby Digital Plus/Atmos: Yes,\nDolby Dual mono: Yes,\nDTS: Yes,\nDTS 96/24: Yes,\nLPCM 2ch: Yes,\nLPCM fs: 48kHz/24bit"
+            },
+            {
+                "HDMI eARC": "DTS: Yes,\nDTS HD High Resolution Audio: Yes,\nDTS HD Master Audio: Yes,\nDTS ES: Yes,\nDTS 96/24: Yes,\nDTS:X: Yes,\nIMAX ENHANCED: future update,\nLPCM: 192kHz/24bit"
+            },
+            {
+                "Remote Commander": "Model Name: RHT-AH513U,\nBatteries for remote commander: Yes"
+            },
+            {
+                "Cable": "TV center speaker mode cable,\nHDMI Cable,\nAC Cord"
+            },
+            {
+                "Instruction Manual / Reference Guide": "English(US) or English(GB): Yes,\nFrench or French(CA): Yes,\nSpanish or Spanish(LA): Yes"
+            },
+            {
+                "Card": "Warranty Card"
+            },
+            {
+                "Others": "Wall mounting bracket: Yes,\nWall mounting template: Yes,\nFoot: Yes"
+            },
+            {
+                "HDMI": "Number of Input/Output: 1 / 1 (eARC/ARC),\neARC: Yes,\n3D pass through: Yes,\n4K/60p/YUV4:4:4: Yes,,\n8K/60  YUV 4-2-0 10bit  (Non compression): Yes,\n4K/120 YUV4-4-4 10bit (Non compression): Yes,\nHDR: Yes,\nDolby Vision: Yes"
+            }
+        ],
+        "features": [
+            "Taking sound aboveand beyond",
+            "Rewriting the rules of surround sound"
+        ]
+    }
+}

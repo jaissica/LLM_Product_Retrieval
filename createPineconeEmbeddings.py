@@ -1,7 +1,6 @@
 # Step 3 - Create pinecone
 from pinecone import Pinecone, ServerlessSpec
 from nltk.tokenize import word_tokenize
-from openai import OpenAI
 import re
 import openai
 import json
@@ -10,9 +9,6 @@ import nltk
 
 
 openai.api_key = "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"
-
-# Initialize OpenAI API
-ai = OpenAI(api_key="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")
 
 # Initialize Pinecone
 pc = Pinecone(
@@ -54,7 +50,7 @@ def extract_text_from_json(json_data, fields_to_extract=None):
 # Function to generate embeddings
 def get_embeddings(text, model="text-embedding-3-small"):
    text = text.replace("\n", " ")
-   return ai.embeddings.create(input = [text], model=model).data[0].embedding
+   return openai.Embedding.create(input = [text], model=model).data[0].embedding
 
 # Function to parse JSONs and upload vectors to Pinecone
 def process_jsons_and_upload(json_list, fields_to_extract=None):

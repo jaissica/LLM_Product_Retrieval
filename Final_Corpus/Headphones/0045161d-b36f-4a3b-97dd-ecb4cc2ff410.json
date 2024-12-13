@@ -1,0 +1,49 @@
+{
+    "0045161d-b36f-4a3b-97dd-ecb4cc2ff410": {
+        "name": "MDR-1AM2 Premium Hi-Res Headphones",
+        "link": "https://electronics.sony.com/audio/headphones/c/all-headphones/audio/headphones/all-headphones/p/mdr1am2-b",
+        "price": "$299.99",
+        "specification": [
+            {
+                "Cord Length": "47-1/4\""
+            },
+            {
+                "Cord type": "Detachable/Silver-coated OFC"
+            },
+            {
+                "Diaphragm": "Aluminum-Coated LCP"
+            },
+            {
+                "Driver Unit": "1.57 in (Dome Type)"
+            },
+            {
+                "Frequency Response": "3–100,000 Hz"
+            },
+            {
+                "Headphone Type": "Closed Dynamic"
+            },
+            {
+                "Impedance (Ohm)": "16 Ω"
+            },
+            {
+                "Magnet": "Neodymium"
+            },
+            {
+                "Plug": "Gold-plated L-shaped Stereo Mini"
+            },
+            {
+                "Sensitivities (dB/mW)": "98 dB / mW"
+            },
+            {
+                "Wearing Style": "Circumaural"
+            },
+            {
+                "Weight": "6.60 oz"
+            }
+        ],
+        "features": [
+            "Enjoy music as the artist intended with High-Resolution Audio",
+            "Aluminum-coated LCP diaphragm for more precision"
+        ]
+    }
+}
