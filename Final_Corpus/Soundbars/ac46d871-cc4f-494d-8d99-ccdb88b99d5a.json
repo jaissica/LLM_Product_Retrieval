@@ -1,0 +1,109 @@
+{
+    "ac46d871-cc4f-494d-8d99-ccdb88b99d5a": {
+        "name": "HT-A9 High Performance Home Theater System",
+        "link": "https://electronics.sony.com/audio/soundbars/c/all-soundbars/audio/soundbars/all-soundbars/p/hta9",
+        "price": "$1,499.99",
+        "specification": [
+            {
+                "Input and Output Terminals": "USB typeA(FW Update only), Ethernet, S-Center Out"
+            },
+            {
+                "Wi-Fi® Connectivity": "Yes"
+            },
+            {
+                "Bluetooth": "RX(receiver)/TX(transmitter)"
+            },
+            {
+                "IEEE802.11 version": "IEEE 802.11 a/b/g/n/ac"
+            },
+            {
+                "HDCP2.2": "Yes"
+            },
+            {
+                "Number of Input/Output": "1 / 1 (eARC/ARC)"
+            },
+            {
+                "eARC": "Yes"
+            },
+            {
+                "4K/60p/YUV4:4:4": "Yes"
+            },
+            {
+                "HDR": "Yes"
+            },
+            {
+                "Dolby Vision™ Compatible": "Yes"
+            },
+            {
+                "HLG (hybrid log gamma)": "Yes"
+            },
+            {
+                "BRAVIA Sync": "Yes"
+            },
+            {
+                "HDMI CEC": "Yes"
+            },
+            {
+                "4K/120": "Yes"
+            },
+            {
+                "HDMI input": "Dolby Digital, Dolby Digital plus, Dolby TrueHD, Dolby Atmos, Dolby Dual mono, DTS, DTS HD High Resolution Audio, DTS HD Master Audio, DTS ES, DTS 96/24, DTS:X, LPCM"
+            },
+            {
+                "HDMI eARC": "Dolby Digital, Dolby Digital plus, Dolby TrueHD, Dolby Atmos, Dolby Dual mono, DTS, DTS HD High Resolution Audio, DTS HD Master Audio, DTS ES, DTS 96/24, DTS:X, LPCM"
+            },
+            {
+                "Bluetooth(Receiver)": "AAC, SBC, LDAC"
+            },
+            {
+                "Bluetooth(Transmitter)": "SBC, LDAC"
+            },
+            {
+                "Dolby Atmos / DTS:X": "Yes"
+            },
+            {
+                "360 Reality Audio": "Yes"
+            },
+            {
+                "Hi-Res Audio": "Yes"
+            },
+            {
+                "Sound Mode": "Auto Sound, Cinema, Music"
+            },
+            {
+                "Sound Effect": "Night Mode, Voice Mode, Immersive Audio Enhancement"
+            },
+            {
+                "Virtual Surround Technology": "360 Spatial Sound Mapping, Dolby Surround, Nural:X"
+            },
+            {
+                "Sound Field Optimization": "Yes"
+            },
+            {
+                "Speaker Structure": "4.0.4ch"
+            },
+            {
+                "Network Function": "Chromecast built-in, Spotify Connect, Music Service Button, Google Home, Works with Google Assistant"
+            },
+            {
+                "Features for PlayStation®5": "AUTO TONE HDR MAPPING compatible (Pass-through)*\nAUTO GENRE PICTURE MODE compatible (Pass-through)*\n*Requires firmware update released Spring 2022"
+            },
+            {
+                "Amplifier Type": "Digital Amplifier, S-Master HX"
+            },
+            {
+                "Amplifier Channels": "12ch"
+            },
+            {
+                "Power Output (Total)": "504W"
+            },
+            {
+                "Power Consumption": "Control Box 15W / Speaker 22W"
+            }
+        ],
+        "features": [
+            "A new frontier of surround sound",
+            "360 Spatial Sound that adapts to your environment"
+        ]
+    }
+}

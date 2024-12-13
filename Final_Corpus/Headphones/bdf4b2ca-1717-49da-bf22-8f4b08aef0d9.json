@@ -1,0 +1,64 @@
+{
+    "bdf4b2ca-1717-49da-bf22-8f4b08aef0d9": {
+        "name": "WH-CH520 Wireless Headphones with Microphone | Black",
+        "link": "https://electronics.sony.com/audio/headphones/c/all-headphones/audio/headphones/headband/p/whch520-b",
+        "price": "$59.99",
+        "specification": [
+            {
+                "Headphone Type": "Closed"
+            },
+            {
+                "Driver Unit": "30mm"
+            },
+            {
+                "Wearing Style": "On Ear"
+            },
+            {
+                "DSEE": "Yes"
+            },
+            {
+                "Frequency Response (Bluetooth® Communication)": "Frequency Range(A2DP): Yes"
+            },
+            {
+                "General Features (Active Headphones)": "Volume Control: Yes"
+            },
+            {
+                "Weight": "Approx. 147g"
+            },
+            {
+                "Battery Charge Method": "USB"
+            },
+            {
+                "BATTERY LIFE (CONTINUOUS COMMUNICATION TIME)": "Max. 40 hours"
+            },
+            {
+                "General Features (Active Headphones)": "Max. 50 hours"
+            },
+            {
+                "Lithium Battery": "Yes"
+            },
+            {
+                "Bluetooth® version": "BLUETOOTH Specification Version 5.2"
+            },
+            {
+                "Effective Range": "10m"
+            },
+            {
+                "FREQUENCY RANGE": "2.4 GHz band (2.400 0 GHz - 2.483 5 GHz)"
+            },
+            {
+                "Profile": "A2DP, AVRCP, HFP, HSP"
+            },
+            {
+                "Supported Audio Format(s)": "SBC, AAC"
+            },
+            {
+                "Supported Content Protection": "SCMS-T"
+            },
+            {
+                "SUPPLIED ACCESSORIES": "USB Cable"
+            }
+        ],
+        "features": []
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "5f51d557-c762-4a3a-b160-f7aae4e9c5e5": {
+        "name": "SRS-NB10 Wireless Neckband Speaker | Gray",
+        "link": "https://electronics.sony.com/audio/speakers/c/all-speakers/audio/speakers/wearable-speakers/p/srsnb10-h",
+        "price": "$149.99",
+        "specification": [
+            {
+                "Speaker type": "Full Range"
+            },
+            {
+                "Dimensions (W x H x D)": "Approx.191mmx49mmx185mm"
+            },
+            {
+                "Weight": "Approx.113g"
+            },
+            {
+                "Communication System": "Version 5.1"
+            },
+            {
+                "Max. Communication Range": "30m"
+            },
+            {
+                "Compatible Profiles": "A2DP/AVRCP/HFP/HSP"
+            },
+            {
+                "Supported Codecs": "SBC, AAC"
+            },
+            {
+                "Frequency Transmission Range": "20 Hz - 20,000 Hz (Sampling frequency 44.1 kHz)"
+            },
+            {
+                "Battery Life": "Approx. 20H"
+            },
+            {
+                "Power Supply": "Internal rechargeable battery"
+            },
+            {
+                "Built-in microphone (Hands Free Calling)": "Yes"
+            },
+            {
+                "Input and Output Terminals": "USB Type-C®"
+            },
+            {
+                "Color Options": "Charcoal Gray"
+            },
+            {
+                "In the Box": "USB Type-C®"
+            }
+        ],
+        "features": []
+    }
+}

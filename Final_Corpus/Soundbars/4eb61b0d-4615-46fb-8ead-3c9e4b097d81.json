@@ -1,0 +1,352 @@
+{
+    "4eb61b0d-4615-46fb-8ead-3c9e4b097d81": {
+        "name": "BRAVIA Theater Quad with 16 total speakers, Dolby Atmos®/DTS:X®",
+        "link": "https://electronics.sony.com/audio/soundbars/c/all-soundbars/audio/soundbars/all-soundbars/p/hta9m2",
+        "price": "$2,499.99",
+        "specification": [
+            {
+                "Color": "Gray"
+            },
+            {
+                "Speaker Structure": "4.0.4 ch"
+            },
+            {
+                "Full Range": "Number of speaker: 2,\nEnclosure Type: Acoustic suspension,\nUnit size (mm): 60 mm,\nUnit size (inch): 2 3/8 in"
+            },
+            {
+                "Woofer": "Enclosure Type: Bass reflex,\nUnit size (mm): 85 mm x 85 mm,\nUnit size (inch): 3 3/8 in x 3 3/8 in,\nX-Balanced Speaker Unit: Yes"
+            },
+            {
+                "Tweeter": "Unit size (mm): 19 mm,\nUnit size (inch): 3/4 in,\nImpedance: 6 ohms"
+            },
+            {
+                "Upfiring Speaker": "Number of speaker: 2,\nUnit size (mm): 36 mm x 79 mm,\nUnit size (inch): 1 7/16 in x 3 1/8 in,\nX-Balanced Speaker Unit: Yes"
+            },
+            {
+                "Display": "Display: Yes,\nDimmer: Yes,\nLED indicator: Yes,\nLED Indicator OFF Mode: Yes"
+            },
+            {
+                "Button on main unit": "Power: Yes"
+            },
+            {
+                "Button on Speaker Unit(Front)": "Link: Yes"
+            },
+            {
+                "Button on Speaker Unit(Rear)": "Link: Yes"
+            },
+            {
+                "HDMI": "HDMI control: Yes,\nBRAVIA Sync: Yes,\nHDMI CEC: Yes,\nHDMI standby through: Yes"
+            },
+            {
+                "Ethernet": "Yes"
+            },
+            {
+                "Wi-fi method": "Yes"
+            },
+            {
+                "Wi-Fi IEEE802.11 version": "a/b/g/n/ac"
+            },
+            {
+                "Speaker Terminal": "S-Center out: Yes"
+            },
+            {
+                "FREQUENCY RANGE": "2.4000 - 2.4835 GHz"
+            },
+            {
+                "Supported Content Protection": "Yes"
+            },
+            {
+                "Bluetooth® communication(RX / TX) ¹²": "RX"
+            },
+            {
+                "A2DP": "Yes"
+            },
+            {
+                "A2DP version": "1.3.2"
+            },
+            {
+                "AVRCP": "Yes"
+            },
+            {
+                "AVRCP version": "1.5"
+            },
+            {
+                "Bluetooth® low energy ¹²": "Yes"
+            },
+            {
+                "Bluetooth® version ¹²": "5.2"
+            },
+            {
+                "Bluetooth® Standby ¹²": "Yes"
+            },
+            {
+                "Bluetooth® Technology ¹²": "FHSS"
+            },
+            {
+                "Power Output": "2 dBm"
+            },
+            {
+                "Effective Range(m)": "Line of sight approx. 30 m"
+            },
+            {
+                "Effective Range(feet)": "Line of sight approx. 98.4 ft"
+            },
+            {
+                "Modulation": "GFSK/π/4-DQPSK/8-DPSK"
+            },
+            {
+                "Interface(A2DP) ¹³": "Yes"
+            },
+            {
+                "Interface(AVRCP) ¹³": "Yes"
+            },
+            {
+                "Supported Audio Format(s)(SBC) ¹⁴": "Yes"
+            },
+            {
+                "Supported Audio Format(s)(AAC) ¹⁴": "Yes"
+            },
+            {
+                "Supported Audio Format(s)(LDAC) ¹⁴": "Yes"
+            },
+            {
+                "Frequency Range(A2DP)": "Yes"
+            },
+            {
+                "AAC": "Yes"
+            },
+            {
+                "SBC": "Yes"
+            },
+            {
+                "LDAC": "Yes"
+            },
+            {
+                "Sound Mode": "Sound Field: Yes,\nMuting: Yes"
+            },
+            {
+                "Sound Effect": "Night Mode: Yes,\nVoice Mode: Yes"
+            },
+            {
+                "Sound Adjustment": "Bass level: Yes,\nAV Sync: Yes,\nAdvanced Auto Volume(AAV): Yes,\nAudio DRC: Yes,\nRear level: Yes"
+            },
+            {
+                "Sound Enhancement": "DSEE Ultimate: Yes,\nSound optimizer: Yes"
+            },
+            {
+                "Surround": "360 Spatial Sound Mapping: Yes,\nDolby Speaker Virtual: Yes,\nDolby Surround: Yes,\nNeural:X: Yes"
+            },
+            {
+                "ACOUSTIC CENTER SYNC": "Yes"
+            },
+            {
+                "Quick Setting Menu": "Yes"
+            },
+            {
+                "Spotify Connect": "Yes"
+            },
+            {
+                "AirPlay 2": "Yes"
+            },
+            {
+                "Control Features": "CIS IP Control: Yes"
+            },
+            {
+                "Built in Demo": "Yes"
+            },
+            {
+                "USB playback demo": "Yes"
+            },
+            {
+                "DEMO mode(1/2/3/4)": "Yes"
+            },
+            {
+                "via Network": "Yes"
+            },
+            {
+                "Front Speaker Left (WxHxD) mm": "289 mm x 275 mm x 55 mm"
+            },
+            {
+                "Front Speaker Left (WxHxD) inch": "11 1/2 in x 10 7/8 in x 2 1/4 in"
+            },
+            {
+                "Front Speaker Right (WxHxD) mm": "289 mm x 275 mm x 55 mm"
+            },
+            {
+                "Front Speaker Right (WxHxD) inch": "11 1/2 in x 10 7/8 in x 2 1/4 in"
+            },
+            {
+                "Rear Speaker Left (WxHxD) mm": "289 mm x 275 mm x 55 mm"
+            },
+            {
+                "Rear Speaker Left (WxHxD) inch": "11 1/2 in x 10 7/8 in x 2 1/4 in"
+            },
+            {
+                "Rear Speaker Right (WxHxD) mm": "289 mm x 275 mm x 55 mm"
+            },
+            {
+                "Rear Speaker Right (WxHxD) inch": "11 1/2 in x 10 7/8 in x 2 1/4 in"
+            },
+            {
+                "Speaker with supplied table stand (W x H x D) (mm)": "289 mm x 306 mm x 129 mm"
+            },
+            {
+                "Speaker with supplied table stand (W x H x D) (inch)": "11 1/2 in x 12 1/8 in x 5 1/8 in"
+            },
+            {
+                "Speaker with supplied wall mounting bracket (W x H x D) (mm)": "289 mm x 279 mm x 73 mm"
+            },
+            {
+                "Speaker with supplied wall mounting bracket (W x H x D) (inch)": "11 1/2 in x 11 in x 2 7/8 in"
+            },
+            {
+                "Control box (WxHxD) mm": "160 mm x 56 mm x 160 mm"
+            },
+            {
+                "Control box (WxHxD) inch": "6 3/8 in x 2 1/4 in x 6 3/8 in"
+            },
+            {
+                "carton type": "Box"
+            },
+            {
+                "Carton (WxHxD) mm": "891mm x 664 mm x 146 mm"
+            },
+            {
+                "Carton (WxHxD) inch": "35 1/8 in x 26 1/4 in x 5 3/4 in"
+            },
+            {
+                "Power Consumption": "Power consumption(Network standby mode) *approx: Control Box 2.8 W/Speaker 1.1 W,\nPower consumption(off) *approx: Speaker 0.5 W"
+            },
+            {
+                "Power Supply": "Power Requirement: 120 V,\nPower frequency: 60 Hz"
+            },
+            {
+                "Power Cable Length": "Control box (mm): 1500 mm,\nControl box (inch): 59 1/8 in,\nFront Speaker (mm): 3000 mm,\nFront Speaker (inch): 118 1/8 in,\nRear Speker(mm): 3000 mm,\nRear Speker(inch): 118 1/8 in"
+            },
+            {
+                "Power Setting": "Auto Standby: Yes,\nNetwork / Bluetooth® Standby Mode¹⁶: Yes,\nAuto Power OFF: Yes"
+            },
+            {
+                "AUTO HDR TONE MAPPING compatible(Pass-through) ¹⁵": "Yes"
+            },
+            {
+                "AUTO GENRE PICTURE MODE compatible (Pass-through) ¹⁵": "Yes"
+            },
+            {
+                "Easy Setup": "Yes"
+            },
+            {
+                "Speaker Grill (Front)": "Front Speaker Grill type: Fixed,\nFront Speaker Grill Material: Metal punching (top) / Fabric (side)"
+            },
+            {
+                "Speaker Grill (Rear)": "Front Speaker Grill type: Fixed,\nFront Speaker Grill Material: Metal punching (top) / Fabric (side)"
+            },
+            {
+                "Front Speaker Left (kg)": "2.4 kg"
+            },
+            {
+                "Front Speaker Left (oz)": "5 lb 5 oz"
+            },
+            {
+                "Front Speaker Right (kg)": "2.4 kg"
+            },
+            {
+                "Front Speaker Right (oz)": "5 lb 5 oz"
+            },
+            {
+                "Rear Speaker Left (kg)": "2.4 kg"
+            },
+            {
+                "Rear Speaker Left (oz)": "5 lb 5 oz"
+            },
+            {
+                "Rear Speaker Right (kg)": "2.4 kg"
+            },
+            {
+                "Rear Speaker Right (oz)": "5 lb 5 oz"
+            },
+            {
+                "SPEAKER with supplied table stand (kg)": "2.6 kg"
+            },
+            {
+                "Speaker with supplied table stand (oz)": "5 lb 12 oz"
+            },
+            {
+                "Speaker with wall mounting bracket (kg)": "2.7 kg"
+            },
+            {
+                "Speaker with wall mounting bracket (oz)": "5 lb 16 oz"
+            },
+            {
+                "Control box (kg)": "770 g"
+            },
+            {
+                "Control box (oz)": "1 lb 12 oz"
+            },
+            {
+                "Gross weight (kg)": "18.2 kg"
+            },
+            {
+                "Gross weight (oz)": "40 lb 2 oz"
+            },
+            {
+                "Full Range": "Number of speaker: 2,\nEnclosure Type: Acoustic suspension,\nUnit size (mm): 60 mm,\nUnit size (inch): 2 3/8 in"
+            },
+            {
+                "Woofer": "Number of speaker: 2,\nEnclosure Type: Bass reflex,\nUnit size (mm): 85 mm x 85 mm,\nUnit size (inch): 3 3/8 in x 3 3/8 in,\nX-Balanced Speaker Unit: Yes"
+            },
+            {
+                "Tweeter": "Number of speaker: 2,\nUnit size (mm): 19 mm,\nUnit size (inch): 3/4 in"
+            },
+            {
+                "Upfiring Speaker": "Number of speaker: 2,\nUnit size (mm): 36 mm x 79 mm,\nUnit size (inch): 1 7/16 in x 3 1/8 in,\nX-Balanced Speaker Unit : Yes"
+            },
+            {
+                "Amplifier Type": "Digital Amplifier: Yes,\nS-Master HX: Yes"
+            },
+            {
+                "Number of Channel": "16 ch"
+            },
+            {
+                "Sony | Home Entertainment Connect": "Sony | Home Entertainment Connect via Wi-Fi: Yes"
+            },
+            {
+                "High Resolution Audio": "Yes"
+            },
+            {
+                "360 Reality Audio": "Yes"
+            },
+            {
+                "HDMI input": "DTS 96/24: Yes,\nDTS:XYes,\nLPCM: Yes,\nLPCM fs: -192kHz/24bit,\nMPEG-H 3D Audio BL profile(Level3/Level4): Yes,\n360 Reality Audio: Yes"
+            },
+            {
+                "HDMI ARC": "Dolby Digital: Yes,\nDolby Digital Plus: Yes,\nDolby Digital Plus/Atmos: Yes,\nDolby Dual mono: Yes,\nDTS: Yes,\nDTS 96/24: Yes,\nLPCM 2 ch: Yes,\nLPCM fs: -48kHz/24bit"
+            },
+            {
+                "HDMI eARC": "DTS 96/24: Yes,\nDTS:X: Yes,\nLPCM: Yes,\nLPCM fs: -192kHz/24bit"
+            },
+            {
+                "Remote Commander": "Model Name: RMT-AH513U,\nBatteries for remote commander: Yes"
+            },
+            {
+                "Cable": "TV center speaker mode cable: Yes,\nHDMI Cable: Yes,\nAC Adaptor: Yes (Control Box),\nAC Cord: Yes (Front/Rear Speaker)"
+            },
+            {
+                "Quick Setup Guide": "Chinese (Traditional), Thai, Greek, Czech, Hungarian, Bulgarian, Slovak, Arabic, Romanian"
+            },
+            {
+                "Instruction Manual / Reference Guide": "English(US) or English(GB): Yes,\nFrench or French(CA): Yes,\nSpanish or Spanish(LA): Yes"
+            },
+            {
+                "Card": "Warranty Card: Yes"
+            },
+            {
+                "Others": "Table stand: Yes,\nWall mounting bracket: Yes"
+            }
+        ],
+        "features": [
+            "The true sound of cinema",
+            "Revolutionary home theater surround sound"
+        ]
+    }
+}

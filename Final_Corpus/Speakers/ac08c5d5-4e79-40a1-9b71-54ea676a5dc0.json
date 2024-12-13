@@ -1,0 +1,55 @@
+{
+    "ac08c5d5-4e79-40a1-9b71-54ea676a5dc0": {
+        "name": "SS-CSE Dolby Atmos® Enabled Speakers",
+        "link": "https://electronics.sony.com/audio/speakers/c/all-speakers/audio/speakers/home-theater-speakers/p/sscse",
+        "price": "$199.99",
+        "specification": [
+            {
+                "Enabled Speaker Cabinet Material": "Wood"
+            },
+            {
+                "Enabled Speaker Characteristic Sensitivity Level": "86 dB (2.83 V, 1 m)"
+            },
+            {
+                "Enabled Speaker Enclosure Type": "Acoustic Suspension"
+            },
+            {
+                "Enabled Speaker Full Range": "3.94\" cone type x 1"
+            },
+            {
+                "Enabled Speaker Grille net": "Detachable/Cloth"
+            },
+            {
+                "Enabled Speaker Input Terminal": "Push type speaker terminal"
+            },
+            {
+                "Enabled Speaker Magnetically Shielded type": "No"
+            },
+            {
+                "Enabled Speaker Maximum Input Power": "100 W"
+            },
+            {
+                "Enabled Speaker Rated Impedance": "6 ohms"
+            },
+            {
+                "Enabled Speaker System": "Full range speaker system"
+            },
+            {
+                "Dolby Atmos® Enabled Speaker": "2"
+            },
+            {
+                "Frequency Response": "70 Hz – 32,000 Hz, Conforms to Dolby Atmos® Specification"
+            },
+            {
+                "Dimensions (W x H x D)": "Approx. 7-1/8\" × 5-3/4\" × 7-1/8\" (178 mm x 145 mm x 180 mm) (without speaker terminal/including grill)"
+            },
+            {
+                "Weight": "Approx. 6 lb 10 oz (3 kg)"
+            }
+        ],
+        "features": [
+            "Dolby Atmos®",
+            "Immersive surround sound"
+        ]
+    }
+}

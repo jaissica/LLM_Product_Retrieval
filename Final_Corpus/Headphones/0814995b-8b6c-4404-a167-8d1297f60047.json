@@ -1,0 +1,46 @@
+{
+    "0814995b-8b6c-4404-a167-8d1297f60047": {
+        "name": "MDR-EX110AP Wired In-ear Headphones with Microphone | Black",
+        "link": "https://electronics.sony.com/audio/headphones/c/all-headphones/audio/headphones/in-ear/p/mdrex110ap-b",
+        "price": "$19.99",
+        "specification": [
+            {
+                "Cord Length": "3.94 ft"
+            },
+            {
+                "Cord type": "Y-shape"
+            },
+            {
+                "Driver Unit": "0.35 in dynamic"
+            },
+            {
+                "Frequency Response": "5-24,000 Hz"
+            },
+            {
+                "Headphone Type": "Closed, dynamic, microphone"
+            },
+            {
+                "Impedance (Ohm)": "16 ohm (1 kHz)"
+            },
+            {
+                "Magnet": "Neodymium"
+            },
+            {
+                "Plug": "Gold-plated L-shaped four-conductor stereo mini"
+            },
+            {
+                "Sensitivities (dB/mW)": "103 dB / mW"
+            },
+            {
+                "Wearing Style": "Closed earbuds"
+            },
+            {
+                "Weight": "3g"
+            }
+        ],
+        "features": [
+            "Smartphone playback control1",
+            "Upgraded sound quality"
+        ]
+    }
+}
