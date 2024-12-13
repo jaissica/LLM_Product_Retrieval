@@ -1,5 +1,6 @@
 nltk
 openai
 pinecone
+pinecone-client
 pandas
 streamlit
