@@ -5,7 +5,7 @@ import json
 import os
 from app import prompt_llm
 
-openai.api_key = "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"
+openai.api_key = ""
 
 
 def read_file(path):
