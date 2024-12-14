@@ -34,56 +34,57 @@ This repository demonstrates an end-to-end system integrating Natural Language P
 ## Setup
 
 1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/jaissica/LLM_Product_Retrieval.git
-   cd LLM_Product_Retrieval
-   ```
+```bash
+git clone https://github.com/jaissica/LLM_Product_Retrieval.git
+cd LLM_Product_Retrieval
+```
 2. **Create a Conda Environment**:
-  ```bash
-   conda create --name rag_retrieve python=3.10 -y
-   conda activate rag_retrieve
-   ```
+```bash
+conda create --name rag_retrieve python=3.10 -y
+conda activate rag_retrieve
+```
 3. **Install Dependencies**:
  ```bash
-   pip install -r requirements.txt
-   ```
+ pip install -r requirements.txt
+ ```
 4. Configure API Keys: Add your OpenAI and Pinecone API keys to the environment variables or .env file.
 
 ## Usage
 ### Data Collection and Processing
 
 1. **Run Web Scraper**:
-   ```bash
-   python webScraper.py
-   ```
-   Already scraped data is included in the repository.
+```bash
+python webScraper.py
+```
+Already scraped data is included in the repository.
    
 2. **Preprocess data**:
-   ```bash
-   python preprocessing.py
-   ```
+```bash
+python preprocessing.py
+```
    
 3. **Create Pinecone Index**:
-   ```bash
-   python createPineconeEmbeddings.py
-   ```
+```bash
+python createPineconeEmbeddings.py
+```
  Note: If re-running, ensure the index name is unique.
 
  ### Run the Application
- 4. **Launch Streamlit Interface**:
-   ```bash
-   streamlit run app.py
-   ```
+ 
+4. **Launch Streamlit Interface**:
+```bash
+streamlit run app.py
+```
 
 5. **Unit Tests: Run tests to validate the system**:
-   ```bash
-   python test.py
-   ```
+```bash
+python test.py
+```
    
 6. **Query Accuracy: Test query performance**:
-   ```bash
-   python prompt.py
-   ```
+```bash
+python prompt.py
+```
 
 ## Data Sources
 1. SONY Headphones
