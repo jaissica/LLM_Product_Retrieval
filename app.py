@@ -10,8 +10,8 @@ TOKEN_SIZE_35 = 3500
 TOKEN_SIZE_4 = 15000
 
 # Initialize API keys
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "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")
-PINECONE_API_KEY = os.getenv("PINECONE_API_KEY", "pcsk_czo9P_UXvKtN4Ce16nuPg9Ae6ctjBgLBPYySuCnTubvEme3RbHR9F8BDNmRpbR1zhY585")
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
+PINECONE_API_KEY = os.getenv("PINECONE_API_KEY", "")
 
 # Validate API keys
 if not OPENAI_API_KEY:
