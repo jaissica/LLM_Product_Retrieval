@@ -87,9 +87,11 @@ python prompt.py
 ```
 
 ## Data Sources
-1. SONY Headphones
-2. SONY Soundbars
-3. SONY Speakers
+
+- [SONY Headphones](https://electronics.sony.com/audio/headphones/c/all-headphones)
+- [SONY Soundbars](https://electronics.sony.com/audio/soundbars/c/all-soundbars)
+- [SONY Speakers](https://electronics.sony.com/audio/speakers/c/all-speakers)
+
 
 ## Key Scripts
 1. webScraper.py: Web scraping for product attributes like price, EMI, and specifications.
