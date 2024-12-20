@@ -8,11 +8,11 @@ import os
 import nltk
 
 
-openai.api_key = ""
+openai.api_key = "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"
 
 # Initialize Pinecone
 pc = Pinecone(
-    api_key=""
+    api_key="pcsk_zEUE2_TZQDwfpndSzzg3rKkQLQXvRX7Rs6DA4hgGwZwB4L6AwAgXTNrQdSgZskYbnPBN3"
 )
 
 # Create or connect to a Pinecone index
